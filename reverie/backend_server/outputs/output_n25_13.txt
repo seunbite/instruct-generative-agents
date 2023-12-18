@@ -1,0 +1,135 @@
+Note: The agents in this simulation package are computational
+constructs powered by generative agents architecture and LLM. We
+clarify that these agents lack human-like agency, consciousness,
+and independent decision-making.
+---
+CURRENT TIME IS: 10000
+CURRENT ENV FILE IS: ../../environment/frontend_server/storage/n_25_13/environment/0.json
+Latoya Williams movement start
+perceive
+retrieve
+plan
+new_day First day
+saved
+daily req:  ['wake up and complete the morning routine at 6:00 am', 'work on editing and organizing her photography from 8:00 am to 12:00 pm', 'take a break and have lunch from 12:00 pm to 1:00 pm', 'continue working on her photography from 1:00 pm to 4:00 pm', 'engage in conversations about the upcoming local mayoral election from 4:00 pm to 6:00 pm', 'have dinner at 6:00 pm', 'relax and wind down for the evening with some leisure activities, such as reading or watching TV, from 7:00 pm to 9:00 pm', 'complete her evening routine and prepare for bed at 9:00 pm, and finally']
+n_m1_activity_set set()
+len of n_m1_activity_set 0
+~~~~~output of hourly planning~~~~
+waking up and completing her morning routine
+[(ID:wQe9oo) Monday February 13 -- 08:00 AM] Activity: Latoya is working on editing and organizing her photography
+[(ID:tFaQWM) Monday February 13 -- 12:00 PM] Activity: Latoya is taking a break and having lunch
+[(ID:vPHyEL) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on her photography
+[(ID:nUv7OM) Monday February 13 -- 04:00 PM] Activity: Latoya is engaging in conversations about the upcoming local mayoral election
+[(ID:dqCVEP) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner
+[(ID:vKpAPq) Monday February 13 -- 07:00 PM] Activity: Latoya is relaxing and engaging in leisure activities
+[(ID:a8QkP9) Monday February 13 -- 09:00 PM] Activity: Latoya is completing her evening routine and preparing for bed
+~~~~~output of hourly planning~~~~
+working on editing and organizing her photography
+[(ID:v0bJoF) Monday February 13 -- 08:00 AM] Activity: Latoya is working on editing and organizing her photography
+[(ID:johHqP) Monday February 13 -- 09:00 AM] Activity: Latoya is working on editing and organizing her photography
+[(ID:M302bK) Monday February 13 -- 10:00 AM] Activity: Latoya is working on editing and organizing her photography
+[(ID:7DtDeM) Monday February 13 -- 11:00 AM] Activity: Latoya is working on editing and organizing her photography
+[(ID:kYGsvZ) Monday February 13 -- 12:00 PM] Activity: Latoya is taking a break and having lunch
+[(ID:CwguZ3) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and organizing her photography
+[(ID:HJ1Bv0) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to work on editing and organizing her photography
+[(ID:qCAPb6) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to work on editing and organizing her photography
+[(ID:XlZQAm) Monday February 13 -- 04:00 PM] Activity: Latoya is engaging in conversations about the upcoming local mayoral election
+[(ID:65XYQk) Monday February 13 -- 05:00 PM] Activity: Latoya is having dinner
+[(ID:TYbP03) Monday February 13 -- 06:00 PM] Activity: Latoya is relaxing and winding down for the evening
+[(ID:Vv0ha1) Monday February 13 -- 07:00 PM] Activity: Latoya is relaxing and winding down for the evening
+[(ID:hieb1W) Monday February 13 -- 08:00 PM] Activity: Latoya is relaxing and winding down for the evening
+[(ID:BDPzyT) Monday February 13 -- 09:00 PM] Activity: Latoya is completing her evening routine and preparing for bed
+[(ID:YR1IHz) Monday February 13 -- 10:00 PM] Activity: Latoya is going to bed
+~~~~~output of hourly planning~~~~
+working on editing and organizing her photography
+~~~~~output of hourly planning~~~~
+working on editing and organizing her photography
+~~~~~output of hourly planning~~~~
+taking a break and having lunch
+~~~~~output of hourly planning~~~~
+continuing to work on editing and organizing her photography
+~~~~~output of hourly planning~~~~
+having lunch
+[(ID:MAY8Sf) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and organizing her photography
+[(ID:vzatM8) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to work on editing and organizing her photography
+[(ID:gC0U0f) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to work on editing and organizing her photography
+[(ID:CLFuy9) Monday February 13 -- 04:00 PM] Activity: Latoya is engaging in conversations about the upcoming local mayoral election
+[(ID:NfPnEO) Monday February 13 -- 05:00 PM] Activity: Latoya is having dinner
+[(ID:4l4LgV) Monday February 13 -- 06:00 PM] Activity: Latoya is relaxing and engaging in leisure activities
+[(ID:XGtBK9) Monday February 13 -- 07:00 PM] Activity: Latoya is relaxing and engaging in leisure activities
+[(ID:a6fzSf) Monday February 13 -- 08:00 PM] Activity: Latoya is completing her evening routine and preparing for bed
+[(ID:JWFsPq) Monday February 13 -- 09:00 PM] Activity: Latoya is going to bed
+~~~~~output of hourly planning~~~~
+continuing to work on editing and organizing her photography
+[(ID:4KmkFf) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to work on editing and organizing her photography
+[(ID:Ov4hi7) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to work on editing and organizing her photography
+[(ID:6gxJxv) Monday February 13 -- 04:00 PM] Activity: Latoya is engaging in conversations about the upcoming local mayoral election
+[(ID:l3jvFa) Monday February 13 -- 05:00 PM] Activity: Latoya is engaging in conversations about the upcoming local mayoral election
+[(ID:wS1rB8) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner
+[(ID:9AaMvj) Monday February 13 -- 07:00 PM] Activity: Latoya is relaxing and winding down for the evening with leisure activities
+[(ID:ivaIH9) Monday February 13 -- 08:00 PM] Activity: Latoya is relaxing and winding down for the evening with leisure activities
+[(ID:M61W86) Monday February 13 -- 09:00 PM] Activity: Latoya is completing her evening routine and preparing for bed
+[(ID:jjxgFb) Monday February 13 -- 10:00 PM] Activity: Latoya is sleeping
+[(ID:itcIPR) Monday February 13 -- 11:00 PM] Activity: Latoya is sleeping
+~~~~~output of hourly planning~~~~
+continuing to work on editing and organizing her photography
+~~~~~output of hourly planning~~~~
+meeting with a friend for coffee and discussing potential collaboration opportunities
+~~~~~output of hourly planning~~~~
+engaging in conversations about the upcoming local mayoral election
+~~~~~output of hourly planning~~~~
+having dinner
+[(ID:2zo1Im) Monday February 13 -- 06:00 PM] Activity: Latoya is relaxing and winding down for the evening
+[(ID:Mg09xc) Monday February 13 -- 07:00 PM] Activity: Latoya is engaging in leisure activities, such as reading or watching TV
+[(ID:fgj4X3) Monday February 13 -- 08:00 PM] Activity: Latoya is engaging in leisure activities, such as reading or watching TV
+[(ID:uQo9Tn) Monday February 13 -- 09:00 PM] Activity: Latoya is completing her evening routine and preparing for bed
+~~~~~output of hourly planning~~~~
+having leisure time for activities like reading or watching TV.
+[(ID:WjTiA7) Monday February 13 -- 07:00 PM] Activity: Latoya is having leisure time for activities like reading or watching TV.
+[(ID:S3Szhc) Monday February 13 -- 08:00 PM] Activity: Latoya is having leisure time for activities like reading or watching TV.
+[(ID:6Jl5jI) Monday February 13 -- 09:00 PM] Activity: Latoya is completing her evening routine and preparing for bed.
+[(ID:Q2icDZ) Monday February 13 -- 10:00 PM] Activity: Latoya is going to bed
+~~~~~output of hourly planning~~~~
+having leisure time for activities like reading or watching TV
+
+[(ID:uAzokm) Monday February 13 -- 08:00 PM] Activity: Latoya is having leisure time for activities like reading or watching TV
+
+[(ID:uO5tlQ) Monday February 13 -- 09:00 PM] Activity: Latoya is completing her evening routine and preparing for bed
+~~~~~output of hourly planning~~~~
+relaxing and winding down for the evening with some leisure activities, such as reading or watching TV
+~~~~~output of hourly planning~~~~
+going to bed and getting ready to sleep
+Rate limit reached for default-gpt-3.5-turbo in organization org-EryH1QYCQUIHJGviV3ile7Z1 on tokens per min. Limit: 90000 / min. Current: 89346 / min. Contact us through our help center at help.openai.com if you continue to have issues.
+ChatGPT ERROR
+Traceback (most recent call last):
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 628, in <module>
+    rs.open_server()
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 441, in open_server
+    rs.start_server(10000)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 383, in start_server
+    next_tile, pronunciatio, description = persona.move(
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 242, in move
+    plan = self.plan(maze, personas, new_day, retrieved, sim_folder)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 38, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 160, in plan
+    return plan(self, maze, personas, new_day, retrieved, sim_folder)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 1013, in plan
+    _long_term_planning(persona, new_day, sim_folder)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 535, in _long_term_planning
+    persona.scratch.f_daily_schedule = generate_hourly_schedule(persona, 
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 132, in generate_hourly_schedule
+    n_m1_activity += [run_gpt_prompt_generate_hourly_schedule(
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/run_gpt_prompt.py", line 261, in run_gpt_prompt_generate_hourly_schedule
+    output = safe_generate_response(prompt, gpt_param, 5, fail_safe,
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/gpt_structure.py", line 324, in safe_generate_response
+    curr_gpt_response, _ = GPT_request_edit(prompt, gpt_parameter, prompt_template=prompt_template)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/gpt_structure.py", line 19, in wrapper
+    output, prompt_template=func(prompt, gpt_parameter, prompt_template)
+ValueError: too many values to unpack (expected 2)

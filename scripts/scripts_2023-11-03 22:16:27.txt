@@ -1,0 +1,34 @@
+perceive
+perceive-perceive
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+retrieve
+retrieve-retrieve
+plan
+plan-plan
+plan-_long_term_planning
+plan-generate_wake_up_hour
+prompt template : persona/prompt_template/v2/wake_up_hour_v1.txt
+Prompt==================================================================
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+In general, Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Latoya's wake up hour:
+
+
+Output==================================================================
+6am
+
+
+plan-generate_first_daily_plan

@@ -1,0 +1,1982 @@
+perceive
+perceive-perceive
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+retrieve
+retrieve-retrieve
+plan
+plan-plan
+plan-_long_term_planning
+plan-generate_wake_up_hour
+prompt template : persona/prompt_template/v2/wake_up_hour_v1.txt
+Prompt==================================================================
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+In general, Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Latoya's wake up hour:
+
+
+Output==================================================================
+6am
+
+
+plan-generate_first_daily_plan
+prompt template : persona/prompt_template/v2/daily_planning_v6.txt
+Prompt==================================================================
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+In general, Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Today is Monday February 13. Here is Latoya's plan today in broad-strokes (with the time of the day. e.g., have a lunch at 12:00 pm, watch TV from 7 to 8 pm): 1) wake up and complete the morning routine at 6:00 am, 2)
+
+
+Output==================================================================
+have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm, 9) have a meeting with other artists at the co-living space to discuss potential collaborations at 3:00 pm, 10) take a break and go for a walk outside to clear her mind at 4:00 pm, 11) attend a photography workshop at 5:00 pm, 12) eat dinner at 6:30 pm, 13) have a conversation with fellow residents about the upcoming local mayoral election at 7:30 pm, 14) wind down before bed by reading a book or watching a movie at 8:30 pm, 15) go to bed at 10:00 pm.
+
+
+plan-generate_hourly_schedule
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:KOAxOF) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:H1AKMP) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:OSuehw) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:Ru2WqK) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:CFmkFf) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:uIGHCX) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:sQnAgO) Monday February 13 -- 06:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+waking up and completing her morning routine.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:r9iP9E) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:DsWB07) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:PfLYI5) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:0Cmrxk) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:EJBGyx) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:K27HK5) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:77EAlQ) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:Xqtx01) Monday February 13 -- 07:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:rBofvG) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:Rk4E7Y) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:a39BNz) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:70J68S) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:1eiPSg) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:BclpXw) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:5Xa87D) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:0zgZh5) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:Yarmsw) Monday February 13 -- 08:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:xIH74k) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:ttnvU5) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:vcjzeL) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:lWUNS7) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:L4FVxt) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:V5LzAF) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:TwFIvG) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:JO7E9V) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:cWdE4c) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:GUrczT) Monday February 13 -- 09:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+starting to edit and review the photos taken during her weekend trip.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:4ETGXi) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:hRybEa) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:LWiida) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:nNRb3s) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:dxq046) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:1kDfWy) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:a4rWGw) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:bva90t) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:ScrTus) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:zidk08) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:nS01ZV) Monday February 13 -- 10:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:poh6EJ) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:VtWArs) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:dEVdtl) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:C0hGlI) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:JvHEeG) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:1xcAhf) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:qLerz0) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:oPNMRm) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:y3lGRo) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:rM3iz4) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:r1hBrl) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:TwLXj6) Monday February 13 -- 11:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+taking a break and having a snack.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:HdFnjc) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:XGnC7p) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:T3bpUZ) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:8nJZmm) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:uTazkj) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:pU4Rto) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:VdhiS8) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:eZisM6) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:LTckHG) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:KIULCD) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:utWWet) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:mKjaiL) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:W7XI8G) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:0c6ItE) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:KbXkua) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:JRExEN) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:pG7CL9) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:ukPaUL) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:tY42Qg) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:6pMZQb) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:L9Xp9e) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:jHOz0p) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:WbV9oj) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:Iz2zjp) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:UZw793) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:13L1Ye) Monday February 13 -- 01:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:liz2Nw) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:h1Z990) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:Xh9orm) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:cetMzx) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:0EtkAx) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:09YYd9) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:AcoozO) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:yTFSFI) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:KXn0Qx) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:wRSqsn) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:7qev5T) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:4KbnB6) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:1nvSHI) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:krdsFU) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:4MmQvO) Monday February 13 -- 02:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+researching and gathering inspiration for her photography projects.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:7yMFRm) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:TtJg6V) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:EH9gyD) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:T8mHr6) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:m4FGM8) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:iWto6f) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:YliaQq) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:krHib6) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:7Dic4W) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:LNOo2g) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:ZkRUNt) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:XDNmYd) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:PwGjLa) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:Fo9sCy) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:syh4sx) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:stAWI8) Monday February 13 -- 03:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+meeting a fellow artist for a coffee and discussing their latest projects, 9) attending a photography workshop to learn new techniques at 4:00 pm, 10) working on her photography series at the artists' co-living space at 5:00 pm, 11) having dinner at 7:00 pm, 12) continuing to work on her photography series at 8:00 pm, 13) engaging in a community discussion about the upcoming local mayor election at 9:00 pm, 14) winding down by reading a book or watching a movie at 10:00 pm, and finally, 15) going to bed at 11:00 pm.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:SQ8Xrp) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:2SWkp2) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:zdXgH9) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:u8QmP5) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:OubBA7) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:CIG1dl) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:RKe66P) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:5WIqOS) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Jj5VE8) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:sGPz2f) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:K0Cdhu) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:1PKDUr) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:1Jqlpj) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:LfKoQn) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:6o68HL) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:8HB61E) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects, 9) attending a photography workshop to learn new techniques at 4:00 pm, 10) working on her photography series at the artists' co-living space at 5:00 pm, 11) having dinner at 7:00 pm, 12) continuing to work on her photography series at 8:00 pm, 13) engaging in a community discussion about the upcoming local mayor election at 9:00 pm, 14) winding down by reading a book or watching a movie at 10:00 pm, and finally, 15) going to bed at 11:00 pm
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:cwBQ7k) Monday February 13 -- 04:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+attending a photography workshop to learn new techniques.
+[(ID:SoT9sf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space.
+[(ID:fwxCbW) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner.
+[(ID:tMgQwU) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:FpB7nB) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:jpD1vr) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:2EmqUe) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:MDLuFz) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:VqIawt) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:YVlDqg) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:S0KjqK) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:f0luX5) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:rGvP8q) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:LQJklg) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:4fYiBo) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:ZhZULK) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:muXbld) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:aP4caa) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:bH3PVW) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:oEz2bG) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:4mkJzS) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:mlNv8c) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:mlIBKo) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects, 9) attending a photography workshop to learn new techniques at 4:00 pm, 10) working on her photography series at the artists' co-living space at 5:00 pm, 11) having dinner at 7:00 pm, 12) continuing to work on her photography series at 8:00 pm, 13) engaging in a community discussion about the upcoming local mayor election at 9:00 pm, 14) winding down by reading a book or watching a movie at 10:00 pm, and finally, 15) going to bed at 11:00 pm
+[(ID:mPCtHt) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques.
+[(ID:SoT9sf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space.
+[(ID:fwxCbW) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner.
+[(ID:tMgQwU) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:FpB7nB) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:jpD1vr) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:2EmqUe) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:qKLi4c) Monday February 13 -- 05:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+working on her photography series at the artists' co-living space. 
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:ITt9eF) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:MJxXKt) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:EZxcdL) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:BfFan3) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:QianrW) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:KWj6tC) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:1ribb1) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:BwKh3t) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:39YsgX) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:MB9uYd) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:FsVufI) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:Ov1c1x) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:PtgTQc) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:lKTWHU) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:TJbVjU) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:BSr4ta) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects, 9) attending a photography workshop to learn new techniques at 4:00 pm, 10) working on her photography series at the artists' co-living space at 5:00 pm, 11) having dinner at 7:00 pm, 12) continuing to work on her photography series at 8:00 pm, 13) engaging in a community discussion about the upcoming local mayor election at 9:00 pm, 14) winding down by reading a book or watching a movie at 10:00 pm, and finally, 15) going to bed at 11:00 pm
+[(ID:KCn1IA) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques.
+[(ID:SoT9sf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space.
+[(ID:fwxCbW) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner.
+[(ID:tMgQwU) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:FpB7nB) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:jpD1vr) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:2EmqUe) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:7lBrlM) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:LRx70f) Monday February 13 -- 06:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+having dinner.
+[(ID:vmyQn0) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:dpAgb9) Monday February 13 -- 08:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:lXyRF6) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:eL7r7L) Monday February 13 -- 10:00 PM] Activity: Latoya is going to bed.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:sbV7md) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:zmFfSe) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:fpHpQ1) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:YvxeWr) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:irmGHw) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:i4Y4rp) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:2ZrQcV) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:jKN7oU) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:fWtsEW) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:DIqwP1) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:iqvVAB) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:JdDymh) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:V7aOta) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:lXMRaX) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:Go21XQ) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:j7ZSrl) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects, 9) attending a photography workshop to learn new techniques at 4:00 pm, 10) working on her photography series at the artists' co-living space at 5:00 pm, 11) having dinner at 7:00 pm, 12) continuing to work on her photography series at 8:00 pm, 13) engaging in a community discussion about the upcoming local mayor election at 9:00 pm, 14) winding down by reading a book or watching a movie at 10:00 pm, and finally, 15) going to bed at 11:00 pm
+[(ID:zso2m6) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques.
+[(ID:SoT9sf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space.
+[(ID:fwxCbW) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner.
+[(ID:tMgQwU) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:FpB7nB) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:jpD1vr) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:2EmqUe) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:H5mgFu) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:YbupPX) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner.
+[(ID:vmyQn0) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:dpAgb9) Monday February 13 -- 08:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:lXyRF6) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:eL7r7L) Monday February 13 -- 10:00 PM] Activity: Latoya is going to bed
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:QAVL3W) Monday February 13 -- 07:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to work on her photography series at the artists' co-living space
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:Qs2Q7B) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:8Podie) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:4gA8MC) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:cqZuqD) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:yAgZT3) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:EdXaxI) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:J3louV) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:rEGXMN) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:hat8zi) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:unQPIK) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:Z59MJU) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:sbDpQ4) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:pnkbeI) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:3Bps5g) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:J7cXCv) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:bYt9Y8) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects, 9) attending a photography workshop to learn new techniques at 4:00 pm, 10) working on her photography series at the artists' co-living space at 5:00 pm, 11) having dinner at 7:00 pm, 12) continuing to work on her photography series at 8:00 pm, 13) engaging in a community discussion about the upcoming local mayor election at 9:00 pm, 14) winding down by reading a book or watching a movie at 10:00 pm, and finally, 15) going to bed at 11:00 pm
+[(ID:XIGLrV) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques.
+[(ID:SoT9sf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space.
+[(ID:fwxCbW) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner.
+[(ID:tMgQwU) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:FpB7nB) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:jpD1vr) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:2EmqUe) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:bC2sHT) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:xrx6wW) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner.
+[(ID:vmyQn0) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:dpAgb9) Monday February 13 -- 08:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:lXyRF6) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:eL7r7L) Monday February 13 -- 10:00 PM] Activity: Latoya is going to bed
+[(ID:aRRn21) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series at the artists' co-living space
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:52Gz1a) Monday February 13 -- 08:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to work on her photography series.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:s2Vehd) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:jo4Chk) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:ofrxAU) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:pZRveC) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:YQLnNK) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:9eIonX) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:nYT8h1) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:L4C9zw) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:XqBI4n) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:MR3qb9) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:NGPnmp) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:13gB5L) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:Y1MHGO) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:6nAzrX) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:EUzVii) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:34j2c6) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects, 9) attending a photography workshop to learn new techniques at 4:00 pm, 10) working on her photography series at the artists' co-living space at 5:00 pm, 11) having dinner at 7:00 pm, 12) continuing to work on her photography series at 8:00 pm, 13) engaging in a community discussion about the upcoming local mayor election at 9:00 pm, 14) winding down by reading a book or watching a movie at 10:00 pm, and finally, 15) going to bed at 11:00 pm
+[(ID:6RX10e) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques.
+[(ID:SoT9sf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space.
+[(ID:fwxCbW) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner.
+[(ID:tMgQwU) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:FpB7nB) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:jpD1vr) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:2EmqUe) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:TlpqEp) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:Vt0DIV) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner.
+[(ID:vmyQn0) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:dpAgb9) Monday February 13 -- 08:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:lXyRF6) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:eL7r7L) Monday February 13 -- 10:00 PM] Activity: Latoya is going to bed
+[(ID:Q5LDSw) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series at the artists' co-living space
+[(ID:EzheWO) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:K1j1YU) Monday February 13 -- 09:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+winding down by reading a book or watching a movie.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:rezWyc) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:1G0JYP) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:8kcchR) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:I9EVRr) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:2xkQnE) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:otNuq3) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:p9Bxmd) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:f7Gpzq) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:ffZAye) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:z9ehhB) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:0IIpf9) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:7xhHH1) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:kkYOXP) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:IKxgDA) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:B3HiMP) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:je6OyT) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects, 9) attending a photography workshop to learn new techniques at 4:00 pm, 10) working on her photography series at the artists' co-living space at 5:00 pm, 11) having dinner at 7:00 pm, 12) continuing to work on her photography series at 8:00 pm, 13) engaging in a community discussion about the upcoming local mayor election at 9:00 pm, 14) winding down by reading a book or watching a movie at 10:00 pm, and finally, 15) going to bed at 11:00 pm
+[(ID:TNn5vZ) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques.
+[(ID:SoT9sf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space.
+[(ID:fwxCbW) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner.
+[(ID:tMgQwU) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:FpB7nB) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:jpD1vr) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:2EmqUe) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:eWUx2D) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:Zyffib) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner.
+[(ID:vmyQn0) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:dpAgb9) Monday February 13 -- 08:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:lXyRF6) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:eL7r7L) Monday February 13 -- 10:00 PM] Activity: Latoya is going to bed
+[(ID:K9qLRk) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series at the artists' co-living space
+[(ID:rtQXvf) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:BMY9Qh) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:FPAERB) Monday February 13 -- 10:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+winding down by reading a book or watching a movie
+[(ID:6Q5RHM) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:Zd6Tfe) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:y6tYVf) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:L7Rc0h) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:NKvpoQ) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:kaKarb) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:XMVb1O) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:kzdvdr) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:k5OB0w) Monday February 13 -- 07:00 AM] Activity: Latoya is having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:KFa5mW) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:szG9eU) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:hrwnSc) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:bZJUEQ) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:8Nb1QZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:ko5jne) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:GK1664) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during her weekend trip
+[(ID:3d7eKX) Monday February 13 -- 10:00 AM] Activity: Latoya is taking a break and going for a walk to clear her mind
+[(ID:pefX0H) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:o5GGgS) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:GJfEEK) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ib3Mgq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:IVfD4j) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:1GFFCN) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:c7ZpL9) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:Yt0fbj) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:Bbmgu0) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:ET0vsj) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:ezKr7k) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:TWvMYu) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:06Z535) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:Y3uhqf) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects
+[(ID:W85isk) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques
+[(ID:0KdGlf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:T41El4) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:AN3jjX) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZAFfFi) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election
+[(ID:6I7uZL) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:YRAu2x) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:DGeBH2) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects
+[(ID:haeA3w) Monday February 13 -- 03:00 PM] Activity: Latoya is meeting a fellow artist for a coffee and discussing their latest projects, 9) attending a photography workshop to learn new techniques at 4:00 pm, 10) working on her photography series at the artists' co-living space at 5:00 pm, 11) having dinner at 7:00 pm, 12) continuing to work on her photography series at 8:00 pm, 13) engaging in a community discussion about the upcoming local mayor election at 9:00 pm, 14) winding down by reading a book or watching a movie at 10:00 pm, and finally, 15) going to bed at 11:00 pm
+[(ID:6467kj) Monday February 13 -- 04:00 PM] Activity: Latoya is attending a photography workshop to learn new techniques.
+[(ID:SoT9sf) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space.
+[(ID:fwxCbW) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner.
+[(ID:tMgQwU) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:FpB7nB) Monday February 13 -- 09:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:jpD1vr) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:2EmqUe) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+[(ID:l9jarL) Monday February 13 -- 05:00 PM] Activity: Latoya is working on her photography series at the artists' co-living space
+[(ID:ckSl8Y) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner.
+[(ID:vmyQn0) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:dpAgb9) Monday February 13 -- 08:00 PM] Activity: Latoya is engaging in a community discussion about the upcoming local mayor election.
+[(ID:lXyRF6) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down by reading a book or watching a movie.
+[(ID:eL7r7L) Monday February 13 -- 10:00 PM] Activity: Latoya is going to bed
+[(ID:wnVTXC) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series at the artists' co-living space
+[(ID:biyeuv) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:JL6DW3) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:kpfukr) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down by reading a book or watching a movie
+[(ID:6Q5RHM) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) have breakfast at 7:00 am, 3) check emails and respond to any urgent requests from clients at 8:00 am, 4) start editing and reviewing the photos taken during the weekend trip at 9:00 am, 5) take a break and have a snack at 11:00 am, 6) continue working on editing and reviewing photos at 11:30 am, 7) have lunch at 1:00 pm, 8) spend some time researching and gathering inspiration for her photography projects at 2:00 pm
+[(ID:VWib9E) Monday February 13 -- 11:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+going to bed
+
+
+plan-_determine_action
+plan-generate_task_decomp
+prompt template : persona/prompt_template/v2/task_decomp_v3.txt
+Prompt==================================================================
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing her morning routine, 07:00AM ~ 08:00AM, Latoya Williams is planning on having breakfast
+[(ID:XiMD8d) Monday February 13 -- 08:00 AM] Activity: Latoya is checking emails and responding to urgent client requests
+[(ID:l03vFX) Monday February 13 -- 09:00 AM] Activity: Latoya is starting to edit and review the photos taken during the weekend trip
+[(ID:tB9cWT) Monday February 13 -- 11:00 AM] Activity: Latoya is taking a break and having a snack
+[(ID:yLGvYM) Monday February 13 -- 11:30 AM] Activity: Latoya is continuing to work on editing and reviewing photos
+[(ID:laTuTl) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:vO5IfG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering inspiration for her photography projects.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing her morning routine from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+
+
+Output==================================================================
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Latoya is brushing her teeth. (duration in minutes: 3, minutes left: 52)
+3) Latoya is washing her face. (duration in minutes: 2, minutes left: 50)
+4) Latoya is getting dressed. (duration in minutes: 5, minutes left: 45)
+5) Latoya is making her bed. (duration in minutes: 5, minutes left: 40)
+6) Latoya is preparing breakfast. (duration in minutes: 10, minutes left: 30)
+7) Latoya is eating breakfast. (duration in minutes: 15, minutes left: 15)
+8) Latoya is cleaning up after breakfast. (duration in minutes: 10, minutes left: 5)
+9) Latoya is getting her belongings ready for the day. (duration in minutes: 5, minutes left: 0)
+
+
+plan-generate_action_sector
+prompt template : persona/prompt_template/v1/action_location_sector_v1.txt
+Prompt==================================================================
+Task -- choose an appropriate area  from the area options for a task at hand. 
+
+Sam Kim lives in {Sam Kim's house} that has Sam Kim's room, bathroom, kitchen.
+Sam Kim is currently in {Sam Kim's house} that has Sam Kim's room, bathroom, kitchen. 
+Area options: {Sam Kim's house, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Johnson Park, Harvey Oak Supply Store, The Willows Market and Pharmacy}.
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+For taking a walk, Sam Kim should go to the following area: {Johnson Park}
+---
+Jane Anderson lives in {Oak Hill College Student Dormatory} that has Jane Anderson's room.
+Jane Anderson is currently in {Oak Hill College} that has a classroom, library
+Area options: {Oak Hill College Student Dormatory, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Johnson Park, Harvey Oak Supply Store, The Willows Market and Pharmacy}. 
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+For eating dinner, Jane Anderson should go to the following area: {Hobbs Cafe}
+---
+Latoya Williams lives in {artist's co-living space} that has Latoya Williams's room, Latoya Williams's bathroom, kitchen, common room.
+Latoya Williams is currently in {artist's co-living space} that has Latoya Williams's room, Latoya Williams's bathroom, kitchen, common room. 
+Area options: {artist's co-living space, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Dorm for Oak Hill College, The Willows Market and Pharmacy, Harvey Oak Supply Store, Johnson Park}. 
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+Latoya Williams is sleeping. For sleeping, Latoya Williams should go to the following area: {
+
+
+Output==================================================================
+artist's co-living space}
+
+
+plan-generate_action_arena
+prompt template : persona/prompt_template/v1/action_location_object_vMar11.txt
+Prompt==================================================================
+Jane Anderson is in kitchen in Jane Anderson's house.
+Jane Anderson is going to Jane Anderson's house that has the following areas: {kitchen,  bedroom, bathroom}
+Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.
+For cooking, Jane Anderson should go to the following area in Jane Anderson's house:
+Answer: {kitchen}
+---
+Tom Watson is in common room in Tom Watson's apartment. 
+Tom Watson is going to Hobbs Cafe that has the following areas: {cafe}
+Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.
+For getting coffee, Tom Watson should go to the following area in Hobbs Cafe:
+Answer: {cafe}
+---
+
+Latoya Williams is going to artist's co-living space that has the following areas: {Latoya Williams's room, Latoya Williams's bathroom, kitchen, common room}
+* Stay in the current area if the activity can be done there. 
+* NEVER go into other people's rooms unless necessary.
+Latoya Williams is sleeping. For sleeping, Latoya Williams should go to the following area in artist's co-living space (MUST pick one of {Latoya Williams's room, Latoya Williams's bathroom, kitchen, common room}):
+Answer: {
+
+
+Output==================================================================
+Latoya Williams's room}
+
+
+plan-generate_action_game_object
+prompt template : persona/prompt_template/v1/action_object_v2.txt
+Prompt==================================================================
+Current activity: sleep in bed
+Objects available: {bed, easel, closet, painting}
+Pick ONE most relevant object from the objects available: bed
+---
+Current activity: painting
+Objects available: {easel, closet, sink, microwave}
+Pick ONE most relevant object from the objects available: easel
+---
+Current activity: cooking
+Objects available: {stove, sink, fridge, counter}
+Pick ONE most relevant object from the objects available: stove
+---
+Current activity: watch TV
+Objects available: {couch, TV, remote, coffee table}
+Pick ONE most relevant object from the objects available: TV
+---
+Current activity: study
+Objects available: {desk, computer, chair, bookshelf}
+Pick ONE most relevant object from the objects available: desk
+---
+Current activity: talk on the phone
+Objects available: {phone, charger, bed, nightstand}
+Pick ONE most relevant object from the objects available: phone
+---
+Current activity: sleeping
+Objects available: {bed, desk, shelf, closet}
+Pick ONE most relevant object from the objects available:
+
+
+Output==================================================================
+bed
+
+
+plan-generate_action_pronunciatio
+prompt template : persona/prompt_template/v3_ChatGPT/generate_pronunciatio_v1.txt
+Prompt==================================================================
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+
+
+Output==================================================================
+{"output": "😴"}
+
+
+prompt template : persona/prompt_template/v3_ChatGPT/generate_pronunciatio_v1.txt
+Prompt==================================================================
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+
+
+Output==================================================================
+{"output": "💤"}
+
+
+prompt template : persona/prompt_template/v3_ChatGPT/generate_pronunciatio_v1.txt
+Prompt==================================================================
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+
+
+Output==================================================================
+{"output": "😴"}
+
+
+plan-generate_action_event_triple
+prompt template : persona/prompt_template/v2/generate_event_triple_v1.txt
+Prompt==================================================================
+Task: Turn the input into (subject, predicate, object). 
+
+Input: Sam Johnson is eating breakfast. 
+Output: (Dolores Murphy, eat, breakfast) 
+--- 
+Input: Joon Park is brewing coffee.
+Output: (Joon Park, brew, coffee)
+---
+Input: Jane Cook is sleeping. 
+Output: (Jane Cook, is, sleep)
+---
+Input: Michael Bernstein is writing email on a computer. 
+Output: (Michael Bernstein, write, email)
+---
+Input: Percy Liang is teaching students in a classroom. 
+Output: (Percy Liang, teach, students)
+---
+Input: Merrie Morris is running on a treadmill. 
+Output: (Merrie Morris, run, treadmill)
+---
+Input: Latoya Williams is sleeping. 
+Output: (Latoya Williams,
+
+
+Output==================================================================
+sleep)
+
+
+prompt template : persona/prompt_template/v2/generate_event_triple_v1.txt
+Prompt==================================================================
+Task: Turn the input into (subject, predicate, object). 
+
+Input: Sam Johnson is eating breakfast. 
+Output: (Dolores Murphy, eat, breakfast) 
+--- 
+Input: Joon Park is brewing coffee.
+Output: (Joon Park, brew, coffee)
+---
+Input: Jane Cook is sleeping. 
+Output: (Jane Cook, is, sleep)
+---
+Input: Michael Bernstein is writing email on a computer. 
+Output: (Michael Bernstein, write, email)
+---
+Input: Percy Liang is teaching students in a classroom. 
+Output: (Percy Liang, teach, students)
+---
+Input: Merrie Morris is running on a treadmill. 
+Output: (Merrie Morris, run, treadmill)
+---
+Input: Latoya Williams is sleeping. 
+Output: (Latoya Williams,
+
+
+Output==================================================================
+is, sleep)
+
+
+plan-generate_act_obj_desc
+prompt template : persona/prompt_template/v3_ChatGPT/generate_obj_event_v1.txt
+Prompt==================================================================
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Latoya Williams is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+
+
+Output==================================================================
+{"output": "being used"}
+
+
+prompt template : persona/prompt_template/v3_ChatGPT/generate_obj_event_v1.txt
+Prompt==================================================================
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Latoya Williams is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+
+
+Output==================================================================
+{"output": "being used"}
+
+
+prompt template : persona/prompt_template/v3_ChatGPT/generate_obj_event_v1.txt
+Prompt==================================================================
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Latoya Williams is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+
+
+Output==================================================================
+{"output": "being slept on"}
+
+

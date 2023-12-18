@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\ud83d\udcf1\u2709\ufe0f",
+      "description": "waking up and completing her morning routine\n[(ID:9aAL3l) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready for the day\n[(ID:G36DE5) Monday February 13 -- 08:00 AM] Activity: Isabella opens Hobbs Cafe\n[(ID:Fwk41Q) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter and serving customers\n[(ID:GfL5cK) Monday February 13 -- 10:00 AM] Activity: Isabella continues to work at the counter and serve customers\n[(ID:IwuM2l) Monday February 13 -- 11:00 AM] Activity: Isabella takes a break and prepares for the Valentine's Day party\n[(ID:YoAFxj) Monday February 13 -- 12:00 PM] Activity: Isabella continues to prepare for the party\n[(ID:t6XEdT) Monday February 13 -- 01:00 PM] Activity: Isabella finishes preparations for the party\n[(ID:ZbZv70) Monday February 13 -- 02:00 PM] Activity: Isabella takes a break and relaxes\n[(ID:EfTdA5) Monday February 13 -- 03:00 PM] Activity: Isabella works on administrative tasks and updates the cafe's social media\n[(ID:BGTnrk) Monday February 13 -- 04:00 PM] Activity: Isabella continues administrative tasks and prepares for evening customers\n[(ID:DOjzjg) Monday February 13 -- 05:00 PM] Activity: Isabella interacts with customers and invites them to the Valentine's Day party\n[(ID:Uvsp7S) Monday February 13 -- 06:00 PM] Activity: Isabella continues to interact with customers and manages the cafe\n[(ID:5HEyuv) Monday February 13 -- 07:00 PM] Activity: Isabella takes a short break and checks on party preparations\n[(ID:XODgNy) Monday February 13 -- 08:00 PM] Activity: Isabella closes Hobbs Cafe\n[(ID:TWYDa4) Monday February 13 -- 09:00 PM] Activity: Isabella rests and relaxes after a long day\n[(ID:LQuU1a) Monday February 13 -- 10:00 PM] Activity: Isabella prepares for bed\n[(ID:8WbCyy) Monday February 13 -- 11:00 PM] Activity: Isabella goes to sleep (checking her phone and emails) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udca4",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        46
+      ],
+      "pronunciatio": "\ud83d\udca4",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 06:43:10"
+  }
+}

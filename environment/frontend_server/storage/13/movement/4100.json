@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc65",
+      "description": "taking a short break and grabbing a coffee\n\n[(ID:jh4T5k) Monday February 13 -- 12:00 PM] Activity: Isabella is preparing and serving lunch to customers\n\n[(ID:kLfTn2) Monday February 13 -- 01:00 PM] Activity: Isabella is engaging with customers and creating a welcoming atmosphere in the cafe\n\n[(ID:dghFu7) Monday February 13 -- 02:00 PM] Activity: Isabella is taking inventory and restocking supplies in the cafe\n\n[(ID:oi0T9m) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter and attending to customer needs\n\n[(ID:uQt37H) Monday February 13 -- 04:00 PM] Activity: Isabella is preparing for the Valentine's Day party at the cafe\n\n[(ID:rTpD6j) Monday February 13 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe\n\n[(ID:oFeT8k) Monday February 13 -- 06:00 PM] Activity: Isabella is socializing and mingling with guests at the party\n\n[(ID:pb9Tb7) Monday February 13 -- 07:00 PM] Activity: Isabella closes Hobbs Cafe for the day and starts cleaning up\n\n[(ID:ugBc6b) Monday February 13 -- 08:00 PM] Activity: Isabella finishes cleaning and prepares for the next day\n\n[(ID:nWaq5j) Monday February 13 -- 10:00 PM] Activity: Isabella relaxes and unwinds before going to bed (chatting with a regular customer) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending classes at Oak Hill College\n[(ID:YmeHva) Monday February 13 -- 12:00 PM] Activity: Maria is having a study break and visiting Hobbs Cafe for lunch\n[(ID:I6Y1sm) Monday February 13 -- 02:00 PM] Activity: Maria is finishing classes at Oak Hill College and heading home\n[(ID:WYknf0) Monday February 13 -- 05:00 PM] Activity: Maria is heading home from Oak Hill College\n[(ID:wuOqil) Monday February 13 -- 06:00 PM] Activity: Maria is starting Twitch streaming and gaming\n[(ID:HKxtf5) Monday February 13 -- 07:00 PM] Activity: Maria is taking a break for dinner\n[(ID:A4JQWD) Monday February 13 -- 08:00 PM] Activity: Maria is continuing Twitch streaming and gaming\n[(ID:qzHUrT) Monday February 13 -- 09:00 PM] Activity: Maria is continuing Twitch streaming and gaming\n[(ID:mI1d0n) Monday February 13 -- 10:00 PM] Activity: Maria is continuing Twitch streaming and gaming\n[(ID:VCuqkl) Monday February 13 -- 11:00 PM] Activity: Maria is continuing Twitch streaming and gaming (attending the physics lecture) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        98,
+        41
+      ],
+      "pronunciatio": "\ud83c\udf54\ud83e\udd64",
+      "description": "taking a short break (grabbing a snack or something to drink to recharge) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:23:20"
+  }
+}

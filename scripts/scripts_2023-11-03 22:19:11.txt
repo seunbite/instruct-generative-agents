@@ -1,0 +1,55 @@
+perceive
+perceive-perceive
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+retrieve
+retrieve-retrieve
+plan
+plan-plan
+plan-_long_term_planning
+plan-generate_wake_up_hour
+prompt template : persona/prompt_template/v2/wake_up_hour_v1.txt
+Prompt==================================================================
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+In general, Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Latoya's wake up hour:
+
+
+Output==================================================================
+6am
+
+
+plan-generate_first_daily_plan
+prompt template : persona/prompt_template/v2/daily_planning_v6.txt
+Prompt==================================================================
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+In general, Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Today is Monday February 13. Here is Latoya's plan today in broad-strokes (with the time of the day. e.g., have a lunch at 12:00 pm, watch TV from 7 to 8 pm): 1) wake up and complete the morning routine at 6:00 am, 2)
+
+
+Output==================================================================
+begin work on her photography series at the artists' co-living space from 8:00 am to 1:00 pm, 3) have lunch break from 1:00 pm to 2:00 pm, 4) continue working on her photography series from 2:00 pm to 5:00 pm, 5) engage in conversations with others about the upcoming local mayor election from 5:00 pm to 6:00 pm, 6) have dinner at 6:30 pm, 7) relax and unwind from 7:00 pm to 10:00 pm, 8) go to bed at 10:00 pm.
+
+
+plan-generate_hourly_schedule

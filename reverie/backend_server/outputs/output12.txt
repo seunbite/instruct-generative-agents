@@ -1,0 +1,377 @@
+Note: The agents in this simulation package are computational
+constructs powered by generative agents architecture and LLM. We
+clarify that these agents lack human-like agency, consciousness,
+and independent decision-making.
+---
+CURRENT TIME IS: 10000
+CURRENT ENV FILE IS: ../../environment/frontend_server/storage/12/environment/0.json
+Isabella Rodriguez movement start
+perceive
+retrieve
+plan
+new_day First day
+---
+---
+hour: 06:00 AM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  waking up and completing her morning routine
+hour: 07:00 AM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  heading to Hobbs Cafe to open up and prepare for the day
+hour: 08:00 AM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  serving customers and taking care of cafe operations at Hobbs Cafe
+hour: 09:00 AM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:mExBBH) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:wIjfFE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:1ekQi3) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:GWyxum) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:YdhjQ7) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:3KaoTE) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:NJZTps) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:Q0sb7x) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:pKkg5m) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:Kxnciz) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:IT27QF) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the day
+[(ID:dRh11D) Monday February 13 -- 09:00 PM] Activity: Isabella is heading home
+[(ID:RM2ZIY) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home
+[(ID:Izk3aD) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed
+hour: 10:00 AM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  meeting with her coffee bean supplier to discuss new varieties and place an order for the upcoming week
+hour: 11:00 AM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  meeting with her coffee bean supplier to discuss new varieties and place an order for the upcoming week
+hour: 12:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  serving customers and taking care of cafe operations at Hobbs Cafe
+hour: 01:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:lFuzHK) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:UoaVp7) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:VQxAV4) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:Tt404a) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:ZobuqG) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:U2qJub) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:P8fdy7) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the day
+[(ID:K9DDPC) Monday February 13 -- 09:00 PM] Activity: Isabella is heading home
+[(ID:Yv9INP) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home
+[(ID:yU0s5E) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed
+hour: 02:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  meeting with her coffee bean supplier to discuss new varieties and place an order for the upcoming week
+hour: 03:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  serving customers and taking care of cafe operations at Hobbs Cafe
+hour: 04:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  meeting with her coffee bean supplier to discuss new varieties and place an order for the upcoming week
+hour: 05:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  serving customers and taking care of cafe operations at Hobbs Cafe
+hour: 06:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:W5Qjy4) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe
+[(ID:J1mNGx) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the day
+[(ID:hXGzJ9) Monday February 13 -- 09:00 PM] Activity: Isabella is heading home
+[(ID:LvMO3s) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home
+[(ID:nj9daQ) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed
+hour: 07:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  serving customers and taking care of cafe operations at Hobbs Cafe
+hour: 08:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  closing Hobbs Cafe for the day
+hour: 09:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  heading home
+[(ID:7zWITg) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home
+[(ID:GCx3Gj) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed
+hour: 10:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  relaxing and winding down at home after a long day at Hobbs Cafe
+hour: 11:00 PM GPT prompting
+---
+in run_gpt_prompt_generate_hourly_schedule,  getting ready for bed
+daily schedule:  [['sleeping', 360], ['waking up and completing her morning routine', 60], ['heading to Hobbs Cafe to open up and prepare for the day', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:mExBBH) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:wIjfFE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:1ekQi3) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:GWyxum) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:YdhjQ7) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:3KaoTE) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:NJZTps) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:Q0sb7x) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:pKkg5m) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:Kxnciz) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:IT27QF) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:dRh11D) Monday February 13 -- 09:00 PM] Activity: Isabella is heading home\n[(ID:RM2ZIY) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home\n[(ID:Izk3aD) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed', 60], ['meeting with her coffee bean supplier to discuss new varieties and place an order for the upcoming week', 120], ['serving customers and taking care of cafe operations at Hobbs Cafe', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:lFuzHK) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:UoaVp7) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:VQxAV4) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:Tt404a) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:ZobuqG) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:U2qJub) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:P8fdy7) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:K9DDPC) Monday February 13 -- 09:00 PM] Activity: Isabella is heading home\n[(ID:Yv9INP) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home\n[(ID:yU0s5E) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed', 60], ['meeting with her coffee bean supplier to discuss new varieties and place an order for the upcoming week', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe', 60], ['meeting with her coffee bean supplier to discuss new varieties and place an order for the upcoming week', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:W5Qjy4) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:J1mNGx) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:hXGzJ9) Monday February 13 -- 09:00 PM] Activity: Isabella is heading home\n[(ID:LvMO3s) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home\n[(ID:nj9daQ) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe', 60], ['closing Hobbs Cafe for the day', 60], ['heading home\n[(ID:7zWITg) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home\n[(ID:GCx3Gj) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed', 60], ['relaxing and winding down at home after a long day at Hobbs Cafe', 60], ['getting ready for bed', 60]]
+DEBUG
+[['sleeping', 360], ['waking up and completing her morning routine', 60], ['heading to Hobbs Cafe to open up and prepare for the day', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:mExBBH) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:wIjfFE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:1ekQi3) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:GWyxum) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:YdhjQ7) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:3KaoTE) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:NJZTps) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:Q0sb7x) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:pKkg5m) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:Kxnciz) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:IT27QF) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:dRh11D) Monday February 13 -- 09:00 PM] Activity: Isabella is heading home\n[(ID:RM2ZIY) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home\n[(ID:Izk3aD) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed', 60], ['meeting with her coffee bean supplier to discuss new varieties and place an order for the upcoming week', 120], ['serving customers and taking care of cafe operations at Hobbs Cafe', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:lFuzHK) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:UoaVp7) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:VQxAV4) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:Tt404a) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:ZobuqG) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:U2qJub) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:P8fdy7) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:K9DDPC) Monday February 13 -- 09:00 PM] Activity: Isabella is heading home\n[(ID:Yv9INP) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home\n[(ID:yU0s5E) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed', 60], ['meeting with her coffee bean supplier to discuss new varieties and place an order for the upcoming week', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe', 60], ['meeting with her coffee bean supplier to discuss new varieties and place an order for the upcoming week', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:W5Qjy4) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and taking care of cafe operations at Hobbs Cafe\n[(ID:J1mNGx) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:hXGzJ9) Monday February 13 -- 09:00 PM] Activity: Isabella is heading home\n[(ID:LvMO3s) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home\n[(ID:nj9daQ) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed', 60], ['serving customers and taking care of cafe operations at Hobbs Cafe', 60], ['closing Hobbs Cafe for the day', 60], ['heading home\n[(ID:7zWITg) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and winding down at home\n[(ID:GCx3Gj) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed', 60], ['relaxing and winding down at home after a long day at Hobbs Cafe', 60], ['getting ready for bed', 60]]
+[0, 1, 2]
+index 0
+index 1
+index 2
+?????
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Isabella Rodriguez is planning on sleeping, 06:00AM ~ 07:00AM, Isabella Rodriguez is planning on waking up and completing her morning routine, 07:00AM ~ 08:00AM, Isabella Rodriguez is planning on heading to Hobbs Cafe to open up and prepare for the day.
+In 5 min increments, list the subtasks Isabella does when Isabella is waking up and completing her morning routine from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Isabella is
+---
+TOODOOOOOO
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Isabella is brushing her teeth. (duration in minutes: 5, minutes left: 50)
+3) Isabella is washing her face. (duration in minutes: 5, minutes left: 45)
+4) Isabella is taking a quick shower. (duration in minutes: 10, minutes left: 35)
+5) Isabella is getting dressed. (duration in minutes: 5, minutes left: 30)
+6) Isabella is styling her hair. (duration in minutes: 10, minutes left: 20)
+7) Isabella is applying makeup. (duration in minutes: 10, minutes left: 10)
+8) Isabella is having breakfast. (duration in minutes: 10, minutes left: 0)
+-==- -==- -==- 
+i waking up and stretching. (duration in minutes: 5, minutes left: 55)
+k ['waking up and stretching.', '5, minutes left: 55)']
+cr [['waking up and stretching', 5]]
+i brushing her teeth. (duration in minutes: 5, minutes left: 50)
+k ['brushing her teeth.', '5, minutes left: 50)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 5]]
+i washing her face. (duration in minutes: 5, minutes left: 45)
+k ['washing her face.', '5, minutes left: 45)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 5], ['washing her face', 5]]
+i taking a quick shower. (duration in minutes: 10, minutes left: 35)
+k ['taking a quick shower.', '10, minutes left: 35)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 5], ['washing her face', 5], ['taking a quick shower', 10]]
+i getting dressed. (duration in minutes: 5, minutes left: 30)
+k ['getting dressed.', '5, minutes left: 30)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 5], ['washing her face', 5], ['taking a quick shower', 10], ['getting dressed', 5]]
+i styling her hair. (duration in minutes: 10, minutes left: 20)
+k ['styling her hair.', '10, minutes left: 20)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 5], ['washing her face', 5], ['taking a quick shower', 10], ['getting dressed', 5], ['styling her hair', 10]]
+i applying makeup. (duration in minutes: 10, minutes left: 10)
+k ['applying makeup.', '10, minutes left: 10)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 5], ['washing her face', 5], ['taking a quick shower', 10], ['getting dressed', 5], ['styling her hair', 10], ['applying makeup', 10]]
+i having breakfast. (duration in minutes: 10, minutes left: 0)
+k ['having breakfast.', '10, minutes left: 0)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 5], ['washing her face', 5], ['taking a quick shower', 10], ['getting dressed', 5], ['styling her hair', 10], ['applying makeup', 10], ['having breakfast', 10]]
+~prompt~~
+
+exception in valiate:  invalid literal for int() with base 10: ''
+---
+TOODOOOOOO
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Isabella is brushing her teeth. (duration in minutes: 3, minutes left: 52)
+3) Isabella is washing her face. (duration in minutes: 3, minutes left: 49)
+4) Isabella is changing into her work clothes. (duration in minutes: 5, minutes left: 44)
+5) Isabella is combing her hair. (duration in minutes: 2, minutes left: 42)
+6) Isabella is applying makeup. (duration in minutes: 10, minutes left: 32)
+7) Isabella is preparing and eating breakfast. (duration in minutes: 15, minutes left: 17)
+8) Isabella is checking her phone and responding to any messages or emails. (duration in minutes: 5, minutes left: 12)
+9) Isabella is packing her bag with any items she needs for the day. (duration in minutes: 5, minutes left: 7)
+10) Isabella is putting on her shoes and grabbing her keys. (duration in minutes: 3, minutes left: 4)
+11) Isabella is saying goodbye to her pets and locking up her house. (duration in minutes: 5, minutes left: -1)
+-==- -==- -==- 
+i waking up and stretching. (duration in minutes: 5, minutes left: 55)
+k ['waking up and stretching.', '5, minutes left: 55)']
+cr [['waking up and stretching', 5]]
+i brushing her teeth. (duration in minutes: 3, minutes left: 52)
+k ['brushing her teeth.', '3, minutes left: 52)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3]]
+i washing her face. (duration in minutes: 3, minutes left: 49)
+k ['washing her face.', '3, minutes left: 49)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 3]]
+i changing into her work clothes. (duration in minutes: 5, minutes left: 44)
+k ['changing into her work clothes.', '5, minutes left: 44)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 3], ['changing into her work clothes', 5]]
+i combing her hair. (duration in minutes: 2, minutes left: 42)
+k ['combing her hair.', '2, minutes left: 42)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 3], ['changing into her work clothes', 5], ['combing her hair', 2]]
+i applying makeup. (duration in minutes: 10, minutes left: 32)
+k ['applying makeup.', '10, minutes left: 32)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 3], ['changing into her work clothes', 5], ['combing her hair', 2], ['applying makeup', 10]]
+i preparing and eating breakfast. (duration in minutes: 15, minutes left: 17)
+k ['preparing and eating breakfast.', '15, minutes left: 17)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 3], ['changing into her work clothes', 5], ['combing her hair', 2], ['applying makeup', 10], ['preparing and eating breakfast', 15]]
+i checking her phone and responding to any messages or emails. (duration in minutes: 5, minutes left: 12)
+k ['checking her phone and responding to any messages or emails.', '5, minutes left: 12)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 3], ['changing into her work clothes', 5], ['combing her hair', 2], ['applying makeup', 10], ['preparing and eating breakfast', 15], ['checking her phone and responding to any messages or emails', 5]]
+i packing her bag with any items she needs for the day. (duration in minutes: 5, minutes left: 7)
+k ['packing her bag with any items she needs for the day.', '5, minutes left: 7)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 3], ['changing into her work clothes', 5], ['combing her hair', 2], ['applying makeup', 10], ['preparing and eating breakfast', 15], ['checking her phone and responding to any messages or emails', 5], ['packing her bag with any items she needs for the day', 5]]
+i putting on her shoes and grabbing her keys. (duration in minutes: 3, minutes left: 4)
+k ['putting on her shoes and grabbing her keys.', '3, minutes left: 4)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 3], ['changing into her work clothes', 5], ['combing her hair', 2], ['applying makeup', 10], ['preparing and eating breakfast', 15], ['checking her phone and responding to any messages or emails', 5], ['packing her bag with any items she needs for the day', 5], ['putting on her shoes and grabbing her keys', 3]]
+i saying goodbye to her pets and locking up her house. (duration in minutes: 5, minutes left: -1)
+k ['saying goodbye to her pets and locking up her house.', '5, minutes left: -1)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 3], ['changing into her work clothes', 5], ['combing her hair', 2], ['applying makeup', 10], ['preparing and eating breakfast', 15], ['checking her phone and responding to any messages or emails', 5], ['packing her bag with any items she needs for the day', 5], ['putting on her shoes and grabbing her keys', 3], ['saying goodbye to her pets and locking up her house', 5]]
+~prompt~~
+
+exception in valiate:  invalid literal for int() with base 10: ''
+---
+TOODOOOOOO
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Isabella is brushing her teeth and washing her face. (duration in minutes: 10, minutes left: 45)
+3) Isabella is getting dressed. (duration in minutes: 10, minutes left: 35)
+4) Isabella is making her bed. (duration in minutes: 5, minutes left: 30)
+5) Isabella is preparing and eating breakfast. (duration in minutes: 15, minutes left: 15)
+6) Isabella is checking her phone and responding to any messages. (duration in minutes: 10, minutes left: 5)
+7) Isabella is gathering her belongings and getting ready to leave. (duration in minutes: 5, minutes left: 0)
+-==- -==- -==- 
+i waking up and stretching. (duration in minutes: 5, minutes left: 55)
+k ['waking up and stretching.', '5, minutes left: 55)']
+cr [['waking up and stretching', 5]]
+i brushing her teeth and washing her face. (duration in minutes: 10, minutes left: 45)
+k ['brushing her teeth and washing her face.', '10, minutes left: 45)']
+cr [['waking up and stretching', 5], ['brushing her teeth and washing her face', 10]]
+i getting dressed. (duration in minutes: 10, minutes left: 35)
+k ['getting dressed.', '10, minutes left: 35)']
+cr [['waking up and stretching', 5], ['brushing her teeth and washing her face', 10], ['getting dressed', 10]]
+i making her bed. (duration in minutes: 5, minutes left: 30)
+k ['making her bed.', '5, minutes left: 30)']
+cr [['waking up and stretching', 5], ['brushing her teeth and washing her face', 10], ['getting dressed', 10], ['making her bed', 5]]
+i preparing and eating breakfast. (duration in minutes: 15, minutes left: 15)
+k ['preparing and eating breakfast.', '15, minutes left: 15)']
+cr [['waking up and stretching', 5], ['brushing her teeth and washing her face', 10], ['getting dressed', 10], ['making her bed', 5], ['preparing and eating breakfast', 15]]
+i checking her phone and responding to any messages. (duration in minutes: 10, minutes left: 5)
+k ['checking her phone and responding to any messages.', '10, minutes left: 5)']
+cr [['waking up and stretching', 5], ['brushing her teeth and washing her face', 10], ['getting dressed', 10], ['making her bed', 5], ['preparing and eating breakfast', 15], ['checking her phone and responding to any messages', 10]]
+i gathering her belongings and getting ready to leave. (duration in minutes: 5, minutes left: 0)
+k ['gathering her belongings and getting ready to leave.', '5, minutes left: 0)']
+cr [['waking up and stretching', 5], ['brushing her teeth and washing her face', 10], ['getting dressed', 10], ['making her bed', 5], ['preparing and eating breakfast', 15], ['checking her phone and responding to any messages', 10], ['gathering her belongings and getting ready to leave', 5]]
+~prompt~~
+
+exception in valiate:  invalid literal for int() with base 10: ''
+---
+TOODOOOOOO
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Isabella is brushing her teeth. (duration in minutes: 3, minutes left: 52)
+3) Isabella is washing her face. (duration in minutes: 2, minutes left: 50)
+4) Isabella is taking a shower. (duration in minutes: 10, minutes left: 40)
+5) Isabella is getting dressed. (duration in minutes: 5, minutes left: 35)
+6) Isabella is doing her hair and makeup. (duration in minutes: 20, minutes left: 15)
+7) Isabella is having breakfast. (duration in minutes: 15, minutes left: 0)
+-==- -==- -==- 
+i waking up and stretching. (duration in minutes: 5, minutes left: 55)
+k ['waking up and stretching.', '5, minutes left: 55)']
+cr [['waking up and stretching', 5]]
+i brushing her teeth. (duration in minutes: 3, minutes left: 52)
+k ['brushing her teeth.', '3, minutes left: 52)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3]]
+i washing her face. (duration in minutes: 2, minutes left: 50)
+k ['washing her face.', '2, minutes left: 50)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 2]]
+i taking a shower. (duration in minutes: 10, minutes left: 40)
+k ['taking a shower.', '10, minutes left: 40)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 2], ['taking a shower', 10]]
+i getting dressed. (duration in minutes: 5, minutes left: 35)
+k ['getting dressed.', '5, minutes left: 35)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 2], ['taking a shower', 10], ['getting dressed', 5]]
+i doing her hair and makeup. (duration in minutes: 20, minutes left: 15)
+k ['doing her hair and makeup.', '20, minutes left: 15)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 2], ['taking a shower', 10], ['getting dressed', 5], ['doing her hair and makeup', 20]]
+i having breakfast. (duration in minutes: 15, minutes left: 0)
+k ['having breakfast.', '15, minutes left: 0)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 3], ['washing her face', 2], ['taking a shower', 10], ['getting dressed', 5], ['doing her hair and makeup', 20], ['having breakfast', 15]]
+~prompt~~
+
+exception in valiate:  invalid literal for int() with base 10: ''
+---
+TOODOOOOOO
+brushing her teeth. (duration in minutes: 3, minutes left: 57)
+2) Isabella is washing her face. (duration in minutes: 5, minutes left: 52)
+3) Isabella is changing into her work clothes. (duration in minutes: 5, minutes left: 47)
+4) Isabella is making her bed. (duration in minutes: 5, minutes left: 42)
+5) Isabella is preparing breakfast. (duration in minutes: 10, minutes left: 32)
+6) Isabella is eating breakfast. (duration in minutes: 15, minutes left: 17)
+7) Isabella is checking her phone for any important messages or notifications. (duration in minutes: 5, minutes left: 12)
+8) Isabella is gathering her belongings for the day (wallet, keys, etc.). (duration in minutes: 5, minutes left: 7)
+9) Isabella is putting on her shoes. (duration in minutes: 3, minutes left: 4)
+10) Isabella is putting on her jacket. (duration in minutes: 2, minutes left: 2)
+11) Isabella is grabbing her bag. (duration in minutes: 2, minutes left: 0)
+-==- -==- -==- 
+i brushing her teeth. (duration in minutes: 3, minutes left: 57)
+k ['brushing her teeth.', '3, minutes left: 57)']
+cr [['brushing her teeth', 3]]
+i washing her face. (duration in minutes: 5, minutes left: 52)
+k ['washing her face.', '5, minutes left: 52)']
+cr [['brushing her teeth', 3], ['washing her face', 5]]
+i changing into her work clothes. (duration in minutes: 5, minutes left: 47)
+k ['changing into her work clothes.', '5, minutes left: 47)']
+cr [['brushing her teeth', 3], ['washing her face', 5], ['changing into her work clothes', 5]]
+i making her bed. (duration in minutes: 5, minutes left: 42)
+k ['making her bed.', '5, minutes left: 42)']
+cr [['brushing her teeth', 3], ['washing her face', 5], ['changing into her work clothes', 5], ['making her bed', 5]]
+i preparing breakfast. (duration in minutes: 10, minutes left: 32)
+k ['preparing breakfast.', '10, minutes left: 32)']
+cr [['brushing her teeth', 3], ['washing her face', 5], ['changing into her work clothes', 5], ['making her bed', 5], ['preparing breakfast', 10]]
+i eating breakfast. (duration in minutes: 15, minutes left: 17)
+k ['eating breakfast.', '15, minutes left: 17)']
+cr [['brushing her teeth', 3], ['washing her face', 5], ['changing into her work clothes', 5], ['making her bed', 5], ['preparing breakfast', 10], ['eating breakfast', 15]]
+i checking her phone for any important messages or notifications. (duration in minutes: 5, minutes left: 12)
+k ['checking her phone for any important messages or notifications.', '5, minutes left: 12)']
+cr [['brushing her teeth', 3], ['washing her face', 5], ['changing into her work clothes', 5], ['making her bed', 5], ['preparing breakfast', 10], ['eating breakfast', 15], ['checking her phone for any important messages or notifications', 5]]
+i gathering her belongings for the day (wallet, keys, etc.). (duration in minutes: 5, minutes left: 7)
+k ['gathering her belongings for the day (wallet, keys, etc.).', '5, minutes left: 7)']
+cr [['brushing her teeth', 3], ['washing her face', 5], ['changing into her work clothes', 5], ['making her bed', 5], ['preparing breakfast', 10], ['eating breakfast', 15], ['checking her phone for any important messages or notifications', 5], ['gathering her belongings for the day (wallet, keys, etc.)', 5]]
+i putting on her shoes. (duration in minutes: 3, minutes left: 4)
+k ['putting on her shoes.', '3, minutes left: 4)']
+cr [['brushing her teeth', 3], ['washing her face', 5], ['changing into her work clothes', 5], ['making her bed', 5], ['preparing breakfast', 10], ['eating breakfast', 15], ['checking her phone for any important messages or notifications', 5], ['gathering her belongings for the day (wallet, keys, etc.)', 5], ['putting on her shoes', 3]]
+i putting on her jacket. (duration in minutes: 2, minutes left: 2)
+k ['putting on her jacket.', '2, minutes left: 2)']
+cr [['brushing her teeth', 3], ['washing her face', 5], ['changing into her work clothes', 5], ['making her bed', 5], ['preparing breakfast', 10], ['eating breakfast', 15], ['checking her phone for any important messages or notifications', 5], ['gathering her belongings for the day (wallet, keys, etc.)', 5], ['putting on her shoes', 3], ['putting on her jacket', 2]]
+i grabbing her bag. (duration in minutes: 2, minutes left: 0)
+k ['grabbing her bag.', '2, minutes left: 0)']
+cr [['brushing her teeth', 3], ['washing her face', 5], ['changing into her work clothes', 5], ['making her bed', 5], ['preparing breakfast', 10], ['eating breakfast', 15], ['checking her phone for any important messages or notifications', 5], ['gathering her belongings for the day (wallet, keys, etc.)', 5], ['putting on her shoes', 3], ['putting on her jacket', 2], ['grabbing her bag', 2]]
+~prompt~~
+
+exception in valiate:  invalid literal for int() with base 10: ''
+IMPORTANT VVV DEBUG
+['asleep']
+Traceback (most recent call last):
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 455, in <module>
+    rs.open_server()
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 440, in open_server
+    rs.start_server(10000)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 383, in start_server
+    next_tile, pronunciatio, description = persona.move(
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 242, in move
+    plan = self.plan(maze, personas, new_day, retrieved)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 38, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 160, in plan
+    return plan(self, maze, personas, new_day, retrieved)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 29, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 995, in plan
+    _determine_action(persona, maze)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 29, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 601, in _determine_action
+    generate_task_decomp(persona, act_desp, act_dura))
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 29, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 184, in generate_task_decomp
+    return run_gpt_prompt_task_decomp(persona, task, duration)[0]
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/run_gpt_prompt.py", line 449, in run_gpt_prompt_task_decomp
+    for i_task, i_duration in output: 
+ValueError: too many values to unpack (expected 2)

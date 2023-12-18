@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\ud83e\udd5e\ud83c\udf73",
+      "description": "waking up and completing the morning routine\n[(ID:q5hcy5) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing breakfast and eating\n[(ID:q4g7ge) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:q1i3fd) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter and serving customers\n[(ID:q7j41s) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter and serving customers\n[(ID:q62kww) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter and serving customers\n[(ID:q82vcs) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter and serving customers\n[(ID:q3lruu) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter and serving customers\n[(ID:q85olg) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter and serving customers\n[(ID:qeqfvd) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter and serving customers\n[(ID:qeq59z) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter and serving customers\n[(ID:qwwsm1) Monday February 13 -- 05:00 PM] Activity: Isabella is starting to gather party materials for the Valentine's Day party at Hobbs Cafe\n[(ID:qwl9gq) Monday February 13 -- 06:00 PM] Activity: Isabella is posting about the party on social media and informing customers about the event\n[(ID:qwwxeg) Monday February 13 -- 07:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:qwwc26) Monday February 13 -- 08:00 PM] Activity: Isabella is having dinner and relaxing for the evening (preparing breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udca4",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 06:01:10"
+  }
+}

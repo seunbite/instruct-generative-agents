@@ -1,0 +1,1231 @@
+Note: The agents in this simulation package are computational
+constructs powered by generative agents architecture and LLM. We
+clarify that these agents lack human-like agency, consciousness,
+and independent decision-making.
+---
+CURRENT TIME IS: 10000
+CURRENT ENV FILE IS: ../../environment/frontend_server/storage/n_25_17/environment/0.json
+Latoya Williams movement start
+perceive
+retrieve
+plan
+new_day First day
+saved
+daily req:  ['wake up and complete the morning routine at 6:00 am', 'start editing and organizing her photos from her recent travels at 7:00 am', 'take a break and have breakfast at 9:00 am', 'continue editing and organizing photos until 12:00 pm', 'have lunch at 12:30 pm', 'research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm', 'continue editing and organizing photos at 2:00 pm', 'take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm']
+n_m1_activity_set set()
+len of n_m1_activity_set 0
+~~~~~output of hourly planning~~~~
+waking up and completing her morning routine
+[(ID:ZRmu8Y) Monday February 13 -- 07:00 AM] Activity: Latoya is starting to edit and organize her photos from her recent travels
+[(ID:x6s8Jr) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:Q9O0YN) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:jGOFg2) Monday February 13 -- 12:30 PM] Activity: Latoya is having lunch
+[(ID:EdDrGh) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates
+[(ID:zKkPpn) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:GG2OXE) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside
+~~~~~output of hourly planning~~~~
+editing and organizing her photos from her recent travels
+[(ID:bc5zWU) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:zgiox2) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize photos
+[(ID:94BeiM) Monday February 13 -- 12:30 PM] Activity: Latoya is having lunch
+[(ID:pRbRZ9) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates
+[(ID:iPZ7Ia) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize photos
+[(ID:yyPgJm) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:J08iAO) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize photos
+[(ID:sqd1j3) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner
+[(ID:vqwCdC) Monday February 13 -- 07:00 PM] Activity: Latoya is having a conversation with others about the local mayor election
+[(ID:VUzwSz) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to edit and organize photos
+[(ID:l4VfA2) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down for the day and preparing to go to bed
+
+This schedule is based on an assumption of Latoya's daily plan requirement and her current lifestyle. Please note that the specific activities and timings may vary depending on her personal preferences and any unforeseen events
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:t7BYh5) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:OU5jnt) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:csi5Dk) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:Y08ULd) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:x1QqSE) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates
+[(ID:WM4IM4) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:dacWnM) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:9NQmEx) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside
+[(ID:VaMoIl) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:V0H9lI) Monday February 13 -- 06:00 PM] Activity: Latoya is taking a break and having dinner
+[(ID:aJePcT) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:Fy2H9a) Monday February 13 -- 08:00 PM] Activity: Latoya is taking a break and socializing with other artists at the co-living space
+[(ID:y7Pgfz) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:ebMWXh) Monday February 13 -- 10:00 PM] Activity: Latoya is taking a break and winding down for the night
+[(ID:sCbtAh) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+===
+Resources used:
+Google Calendar
+~~~~~output of hourly planning~~~~
+taking a break and having breakfast
+[(ID:8CXEPa) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:yGNENJ) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:3Y11Fv) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:RF09sU) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:W7SHUN) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:TKRk7X) Monday February 13 -- 03:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:RNuIME) Monday February 13 -- 04:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:NwEXDT) Monday February 13 -- 05:00 PM] Activity: Latoya is taking a break and having dinner
+[(ID:me51uc) Monday February 13 -- 06:00 PM] Activity: Latoya is socializing with others and discussing the local mayor election
+[(ID:el3oZD) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to socialize with others and discuss the local mayor election
+[(ID:jhIvLC) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to socialize with others and discuss the local mayor election
+[(ID:zv1qMz) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to socialize with others and discuss the local mayor election
+[(ID:AomhP3) Monday February 13 -- 10:00 PM] Activity: Latoya is preparing for bed
+[(ID:CUV7Gf) Monday February 13 -- 11:00 PM] Activity: Latoya is sleeping
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:AgfXJE) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:IQig27) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:W1ZSDq) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:qjI6ys) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:lUyKTv) Monday February 13 -- 03:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:Ss86Fn) Monday February 13 -- 04:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:uP0jgs) Monday February 13 -- 05:00 PM] Activity: Latoya is wrapping up her photo editing and organizing for the day
+[(ID:cJijcs) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner
+[(ID:tYP6ET) Monday February 13 -- 07:00 PM] Activity: Latoya is having a conversation with others about the local mayor election
+[(ID:whZAJQ) Monday February 13 -- 08:00 PM] Activity: Latoya is relaxing and unwinding
+[(ID:ZaGA7q) Monday February 13 -- 09:00 PM] Activity: Latoya is preparing for bed
+[(ID:97nrAP) Monday February 13 -- 10:00 PM] Activity: Latoya is going to bed
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:BpTLUM) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:R2qrsl) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:iC4FL6) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:0Grn4P) Monday February 13 -- 03:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:3S13dV) Monday February 13 -- 04:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:29W77h) Monday February 13 -- 05:00 PM] Activity: Latoya is taking a break and having dinner
+[(ID:7sMXNK) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:mwP1pT) Monday February 13 -- 07:00 PM] Activity: Latoya is having a conversation with others about the local mayoral candidates
+[(ID:29W77h) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:EvZUcm) Monday February 13 -- 09:00 PM] Activity: Latoya is taking a break and relaxing
+[(ID:hzE5oc) Monday February 13 -- 10:00 PM] Activity: Latoya is preparing for bed
+[(ID:eyYavl) Monday February 13 -- 11:00 PM] Activity: Latoya is sleeping
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:8TZ2iI) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:G7b3Ai) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:T2IkhY) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:eb3gJr) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:m2d5wH) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:aC6dOX) Monday February 13 -- 06:00 PM] Activity: Latoya is cooking dinner
+[(ID:U1f88A) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:i5miiY) Monday February 13 -- 08:00 PM] Activity: Latoya is engaging in conversations with others about the local mayoral candidates for the upcoming election
+[(ID:Re5fbA) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing her conversations and discussing her photography work
+[(ID:qJje8h) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down for the day and preparing for bed
+[(ID:cAT1Nf) Monday February 13 -- 11:00 PM] Activity: Latoya is going to sleep
+~~~~~output of hourly planning~~~~
+having lunch
+[(ID:eRfzlC) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:P700Py) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:889j9B) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:03bYZC) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:dkgwlC) Monday February 13 -- 06:00 PM] Activity: Latoya is taking a break and having dinner
+[(ID:bHvjyH) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:h79GlB) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:gyzsx2) Monday February 13 -- 09:00 PM] Activity: Latoya is taking a break and relaxing
+[(ID:PTIPxj) Monday February 13 -- 10:00 PM] Activity: Latoya is getting ready for bed
+[(ID:mP2mkW) Monday February 13 -- 11:00 PM] Activity: Latoya is going to sleep
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:jzRZ1c) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:gwc1BZ) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:fzeXpX) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:R7WFth) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner
+[(ID:jQ0tau) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:dhNNYs) Monday February 13 -- 08:00 PM] Activity: Latoya is taking a break and having a conversation with others about the upcoming mayoral election
+[(ID:57BDIh) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:ro4UnE) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down for the day and preparing for bed
+[(ID:4tAnnc) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed for the night
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:8K2pGd) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:qhcmpl) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:wEjSeR) Monday February 13 -- 06:00 PM] Activity: Latoya is finishing up her photo editing for the day
+[(ID:DzxXxF) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:mzbNWz) Monday February 13 -- 08:00 PM] Activity: Latoya is spending time researching the local mayoral candidates for the upcoming election
+[(ID:urtjku) Monday February 13 -- 09:00 PM] Activity: Latoya is having a conversation with others about the local mayoral election
+[(ID-vydB3) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down for the evening, reading or listening to music
+[(ID:JdhnSu) Monday February 13 -- 11:00 PM] Activity: Latoya is getting ready for bed
+[(ID:8Vm4Qr) Tuesday February 14 -- 12:00 AM] Activity: Latoya is sleeping
+~~~~~output of hourly planning~~~~
+taking a break and going for a walk outside to get some fresh air and inspiration
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:WDgpu3) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner
+[(ID:imL6P0) Monday February 13 -- 07:00 PM] Activity: Latoya is having a conversation with others about the local mayoral candidates
+[(ID:rGj8mC) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing her conversation about the local mayoral candidates
+[(ID:WRqiF5) Monday February 13 -- 09:00 PM] Activity: Latoya is relaxing and watching a movie
+[(ID:b3K61B) Monday February 13 -- 10:00 PM] Activity: Latoya is preparing for bed
+[(ID:ygEqMt) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:qJ977p) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:kePon8) Monday February 13 -- 08:00 PM] Activity: Latoya is having a conversation with others about the local mayor election
+[(ID:jC1UeS) Monday February 13 -- 09:00 PM] Activity: Latoya is relaxing and reading a book
+[(ID:PCXJrI) Monday February 13 -- 10:00 PM] Activity: Latoya is getting ready for bed
+[(ID:sDFRd5) Monday February 13 -- 11:00 PM] Activity: Latoya is sleeping
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:OZpW4T) Monday February 13 -- 08:00 PM] Activity: Latoya is taking a break and having dinner
+[(ID:UE9vhI) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:GXJT3N) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed
+[(ID:rAX8Mc) Monday February 13 -- 11:00 PM] Activity: Latoya is going to sleep
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:Jgs1hC) Monday February 13 -- 09:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:z8WK8F) Monday February 13 -- 10:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:eBFPQ3) Monday February 13 -- 11:00 PM] Activity: Latoya is preparing for bed
+[(ID:mJlh0j) Tuesday February 14 -- 12:00 AM] Activity: Latoya is sleeping
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:J1K9wo) Monday February 13 -- 10:00 PM] Activity: Latoya is wrapping up her editing and organizing for the day
+[(ID:JDmIJQ) Monday February 13 -- 11:00 PM] Activity: Latoya is winding down for the night and preparing for bed
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+[(ID:99flzJ) Monday February 13 -- 11:00 PM] Activity: Latoya is getting ready for bed and winding down for the night
+~~~~~output of hourly planning~~~~
+continuing to edit and organize her photos
+n_m1_activity_set {'sleeping', 'having lunch', 'continuing to edit and organize her photos', 'editing and organizing her photos from her recent travels', 'taking a break and going for a walk outside to get some fresh air and inspiration', 'waking up and completing her morning routine', 'taking a break and having breakfast'}
+len of n_m1_activity_set 7
+n_m1_activity_set {'sleeping', 'having lunch', 'continuing to edit and organize her photos', 'editing and organizing her photos from her recent travels', 'taking a break and going for a walk outside to get some fresh air and inspiration', 'waking up and completing her morning routine', 'taking a break and having breakfast'}
+len of n_m1_activity_set 7
+n_m1_activity ['sleeping', 'sleeping', 'sleeping', 'sleeping', 'sleeping', 'sleeping', 'waking up and completing her morning routine', 'editing and organizing her photos from her recent travels', 'continuing to edit and organize her photos', 'taking a break and having breakfast', 'continuing to edit and organize her photos', 'continuing to edit and organize her photos', 'continuing to edit and organize her photos', 'having lunch', 'continuing to edit and organize her photos', 'continuing to edit and organize her photos', 'taking a break and going for a walk outside to get some fresh air and inspiration', 'continuing to edit and organize her photos', 'continuing to edit and organize her photos', 'continuing to edit and organize her photos', 'continuing to edit and organize her photos', 'continuing to edit and organize her photos', 'continuing to edit and organize her photos', 'continuing to edit and organize her photos']
+~~~~compressing the hourly schedule~~~~
+prev:  None
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 1]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 2]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 3]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 4]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 5]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 6]]
+prev:  sleeping
+curr plan(i):  waking up and completing her morning routine
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1]]
+prev:  waking up and completing her morning routine
+curr plan(i):  editing and organizing her photos from her recent travels
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1]]
+prev:  editing and organizing her photos from her recent travels
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  taking a break and having breakfast
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1]]
+prev:  taking a break and having breakfast
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 1]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 2]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  having lunch
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1]]
+prev:  having lunch
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1], ['continuing to edit and organize her photos', 1]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1], ['continuing to edit and organize her photos', 2]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  taking a break and going for a walk outside to get some fresh air and inspiration
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1], ['continuing to edit and organize her photos', 2], ['taking a break and going for a walk outside to get some fresh air and inspiration', 1]]
+prev:  taking a break and going for a walk outside to get some fresh air and inspiration
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1], ['continuing to edit and organize her photos', 2], ['taking a break and going for a walk outside to get some fresh air and inspiration', 1], ['continuing to edit and organize her photos', 1]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1], ['continuing to edit and organize her photos', 2], ['taking a break and going for a walk outside to get some fresh air and inspiration', 1], ['continuing to edit and organize her photos', 2]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1], ['continuing to edit and organize her photos', 2], ['taking a break and going for a walk outside to get some fresh air and inspiration', 1], ['continuing to edit and organize her photos', 3]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1], ['continuing to edit and organize her photos', 2], ['taking a break and going for a walk outside to get some fresh air and inspiration', 1], ['continuing to edit and organize her photos', 4]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1], ['continuing to edit and organize her photos', 2], ['taking a break and going for a walk outside to get some fresh air and inspiration', 1], ['continuing to edit and organize her photos', 5]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1], ['continuing to edit and organize her photos', 2], ['taking a break and going for a walk outside to get some fresh air and inspiration', 1], ['continuing to edit and organize her photos', 6]]
+prev:  continuing to edit and organize her photos
+curr plan(i):  continuing to edit and organize her photos
+_n_m1_hourly_compressed:  [['sleeping', 6], ['waking up and completing her morning routine', 1], ['editing and organizing her photos from her recent travels', 1], ['continuing to edit and organize her photos', 1], ['taking a break and having breakfast', 1], ['continuing to edit and organize her photos', 3], ['having lunch', 1], ['continuing to edit and organize her photos', 2], ['taking a break and going for a walk outside to get some fresh air and inspiration', 1], ['continuing to edit and organize her photos', 7]]
+n_m1_hourly_compressed:  [['sleeping', 360], ['waking up and completing her morning routine', 60], ['editing and organizing her photos from her recent travels', 60], ['continuing to edit and organize her photos', 60], ['taking a break and having breakfast', 60], ['continuing to edit and organize her photos', 180], ['having lunch', 60], ['continuing to edit and organize her photos', 120], ['taking a break and going for a walk outside to get some fresh air and inspiration', 60], ['continuing to edit and organize her photos', 420]]
+daily schedule:  [['sleeping', 360], ['waking up and completing her morning routine', 60], ['editing and organizing her photos from her recent travels', 60], ['continuing to edit and organize her photos', 60], ['taking a break and having breakfast', 60], ['continuing to edit and organize her photos', 180], ['having lunch', 60], ['continuing to edit and organize her photos', 120], ['taking a break and going for a walk outside to get some fresh air and inspiration', 60], ['continuing to edit and organize her photos', 420]]
+DEBUG
+[['sleeping', 360], ['waking up and completing her morning routine', 60], ['editing and organizing her photos from her recent travels', 60], ['continuing to edit and organize her photos', 60], ['taking a break and having breakfast', 60], ['continuing to edit and organize her photos', 180], ['having lunch', 60], ['continuing to edit and organize her photos', 120], ['taking a break and going for a walk outside to get some fresh air and inspiration', 60], ['continuing to edit and organize her photos', 420]]
+[0, 1, 2]
+index 0
+index 1
+index 2
+?????
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing her morning routine, 07:00AM ~ 08:00AM, Latoya Williams is planning on editing and organizing her photos from her recent travels.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing her morning routine from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+run_gpt_prompt_task_decomp PROMPT
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing her morning routine, 07:00AM ~ 08:00AM, Latoya Williams is planning on editing and organizing her photos from her recent travels.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing her morning routine from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+run_gpt_prompt_task_decomp RESPONSE
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Latoya is washing her face and brushing her teeth. (duration in minutes: 10, minutes left: 45)
+3) Latoya is getting dressed. (duration in minutes: 10, minutes left: 35)
+4) Latoya is making her bed. (duration in minutes: 5, minutes left: 30)
+5) Latoya is preparing and eating breakfast. (duration in minutes: 15, minutes left: 15)
+6) Latoya is checking her phone and responding to any urgent messages or emails. (duration in minutes: 10, minutes left: 5)
+7) Latoya is packing her camera and other equipment into her bag. (duration in minutes: 5, minutes left: 0)
+-==- -==- -==- 
+i waking up and stretching. (duration in minutes: 5, minutes left: 55)
+k ['waking up and stretching.', '5, minutes left: 55)']
+cr [['waking up and stretching', 5]]
+i washing her face and brushing her teeth. (duration in minutes: 10, minutes left: 45)
+k ['washing her face and brushing her teeth.', '10, minutes left: 45)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10]]
+i getting dressed. (duration in minutes: 10, minutes left: 35)
+k ['getting dressed.', '10, minutes left: 35)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10]]
+i making her bed. (duration in minutes: 5, minutes left: 30)
+k ['making her bed.', '5, minutes left: 30)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10], ['making her bed', 5]]
+i preparing and eating breakfast. (duration in minutes: 15, minutes left: 15)
+k ['preparing and eating breakfast.', '15, minutes left: 15)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10], ['making her bed', 5], ['preparing and eating breakfast', 15]]
+i checking her phone and responding to any urgent messages or emails. (duration in minutes: 10, minutes left: 5)
+k ['checking her phone and responding to any urgent messages or emails.', '10, minutes left: 5)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10], ['making her bed', 5], ['preparing and eating breakfast', 15], ['checking her phone and responding to any urgent messages or emails', 10]]
+i packing her camera and other equipment into her bag. (duration in minutes: 5, minutes left: 0)
+k ['packing her camera and other equipment into her bag.', '5, minutes left: 0)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10], ['making her bed', 5], ['preparing and eating breakfast', 15], ['checking her phone and responding to any urgent messages or emails', 10], ['packing her camera and other equipment into her bag', 5]]
+~prompt~~
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing her morning routine, 07:00AM ~ 08:00AM, Latoya Williams is planning on editing and organizing her photos from her recent travels.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing her morning routine from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+60
+total_expected_min 60
+['waking up and stretching', 5]
+['washing her face and brushing her teeth', 10]
+['getting dressed', 10]
+['making her bed', 5]
+['preparing and eating breakfast', 15]
+['checking her phone and responding to any urgent messages or emails', 10]
+['packing her camera and other equipment into her bag', 5]
+run_gpt_prompt_task_decomp PROMPT
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing her morning routine, 07:00AM ~ 08:00AM, Latoya Williams is planning on editing and organizing her photos from her recent travels.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing her morning routine from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+run_gpt_prompt_task_decomp RESPONSE
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Latoya is washing her face and brushing her teeth. (duration in minutes: 10, minutes left: 45)
+3) Latoya is getting dressed. (duration in minutes: 10, minutes left: 35)
+4) Latoya is making her bed. (duration in minutes: 5, minutes left: 30)
+5) Latoya is preparing and eating breakfast. (duration in minutes: 15, minutes left: 15)
+6) Latoya is checking her phone and responding to any urgent messages or emails. (duration in minutes: 10, minutes left: 5)
+7) Latoya is packing her camera and other equipment into her bag. (duration in minutes: 5, minutes left: 0)
+-==- -==- -==- 
+i waking up and stretching. (duration in minutes: 5, minutes left: 55)
+k ['waking up and stretching.', '5, minutes left: 55)']
+cr [['waking up and stretching', 5]]
+i washing her face and brushing her teeth. (duration in minutes: 10, minutes left: 45)
+k ['washing her face and brushing her teeth.', '10, minutes left: 45)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10]]
+i getting dressed. (duration in minutes: 10, minutes left: 35)
+k ['getting dressed.', '10, minutes left: 35)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10]]
+i making her bed. (duration in minutes: 5, minutes left: 30)
+k ['making her bed.', '5, minutes left: 30)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10], ['making her bed', 5]]
+i preparing and eating breakfast. (duration in minutes: 15, minutes left: 15)
+k ['preparing and eating breakfast.', '15, minutes left: 15)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10], ['making her bed', 5], ['preparing and eating breakfast', 15]]
+i checking her phone and responding to any urgent messages or emails. (duration in minutes: 10, minutes left: 5)
+k ['checking her phone and responding to any urgent messages or emails.', '10, minutes left: 5)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10], ['making her bed', 5], ['preparing and eating breakfast', 15], ['checking her phone and responding to any urgent messages or emails', 10]]
+i packing her camera and other equipment into her bag. (duration in minutes: 5, minutes left: 0)
+k ['packing her camera and other equipment into her bag.', '5, minutes left: 0)']
+cr [['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10], ['making her bed', 5], ['preparing and eating breakfast', 15], ['checking her phone and responding to any urgent messages or emails', 10], ['packing her camera and other equipment into her bag', 5]]
+~prompt~~
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing her morning routine, 07:00AM ~ 08:00AM, Latoya Williams is planning on editing and organizing her photos from her recent travels.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing her morning routine from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+60
+total_expected_min 60
+['waking up and stretching', 5]
+['washing her face and brushing her teeth', 10]
+['getting dressed', 10]
+['making her bed', 5]
+['preparing and eating breakfast', 15]
+['checking her phone and responding to any urgent messages or emails', 10]
+['packing her camera and other equipment into her bag', 5]
+IMPORTANT VVV DEBUG
+[['waking up and stretching', 5], ['washing her face and brushing her teeth', 10], ['getting dressed', 10], ['making her bed', 5], ['preparing and eating breakfast', 15], ['checking her phone and responding to any urgent messages or emails', 10], ['packing her camera and other equipment into her bag', 5]]
+DEBUG LJSDLFSKJF
+['sleeping', 360]
+['waking up and completing her morning routine (waking up and stretching)', 5]
+['waking up and completing her morning routine (washing her face and brushing her teeth)', 10]
+['waking up and completing her morning routine (getting dressed)', 10]
+['waking up and completing her morning routine (making her bed)', 5]
+['waking up and completing her morning routine (preparing and eating breakfast)', 15]
+['waking up and completing her morning routine (checking her phone and responding to any urgent messages or emails)', 10]
+['waking up and completing her morning routine (packing her camera and other equipment into her bag)', 5]
+['editing and organizing her photos from her recent travels', 60]
+['continuing to edit and organize her photos', 60]
+['taking a break and having breakfast', 60]
+['continuing to edit and organize her photos', 180]
+['having lunch', 60]
+['continuing to edit and organize her photos', 120]
+['taking a break and going for a walk outside to get some fresh air and inspiration', 60]
+['continuing to edit and organize her photos', 420]
+0
+16
+Latoya Williams
+------
+act_desp sleeping
+act_dura 360
+DEBUG Johnson Park ------ artist's co-living space
+Latoya Williams's room
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 4
+CHAT GPT PROMPT
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+repeat 3
+act_game_object bed
+act_desp sleeping
+persona <persona.persona.Persona object at 0x7f168321d280>
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 6
+CHAT GPT PROMPT
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Latoya Williams is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+repeat 3
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 4
+CHAT GPT PROMPT
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: being used
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+repeat 3
+act_world the Ville
+act_sector artist's co-living space
+act_arena Latoya Williams's room
+act_address the Ville:artist's co-living space:Latoya Williams's room
+act_game_object bed
+new_address the Ville:artist's co-living space:Latoya Williams's room:bed
+act_pron 😴
+act_event ('Latoya Williams', 'is', 'sleep')
+act_obj_desp being used
+act_obj_pron 🤲
+act_obj_event ('bed', 'use', 'being')
+saved after decomp
+reflect
+Latoya Williams persona.scratch.importance_trigger_curr:: 245
+250
+aldhfoaf/????
+the Ville:artist's co-living space:Latoya Williams's room:bed
+Rajiv Patel movement start
+perceive
+retrieve
+plan
+new_day First day
+saved
+daily req:  ['wake up and complete the morning routine at 9:00 am', 'have breakfast at 9:30 am', 'spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm', 'have lunch break from 12:00 pm to 1:00 pm', 'continue working on paintings from 1:00 pm to 4:30 pm', 'take a break and practice playing the guitar from 4:30 pm to 5:00 pm', 'have dinner at 5:30 pm', 'spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm']
+n_m1_activity_set set()
+len of n_m1_activity_set 0
+~~~~~output of hourly planning~~~~
+waking up and completing morning routine
+[(ID:AUSabD) Monday February 13 -- 09:30 AM] Activity: Rajiv is having breakfast
+[(ID:RTgq2J) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:ErJd0A) Monday February 13 -- 12:00 PM] Activity: Rajiv is taking a lunch break
+[(ID:UUqYCR) Monday February 13 -- 01:00 PM] Activity: Rajiv is continuing to work on his paintings
+[(ID:Lbstje) Monday February 13 -- 04:30 PM] Activity: Rajiv is taking a break to practice playing the guitar
+[(ID:QEsPCM) Monday February 13 -- 05:30 PM] Activity: Rajiv is having dinner
+[(ID:ualfi9) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:Cc8sbA) Monday February 13 -- 09:00 PM] Activity: Rajiv is ending his day and getting ready for bed
+~~~~~output of hourly planning~~~~
+working on his paintings at the artist co-living space
+[(ID:Bl3h2H) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:AmAEqmc) Monday February 13 -- 12:00 PM] Activity: Rajiv is taking a lunch break
+[(ID:Kj1AJU) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:3qrM2s) Monday February 13 -- 02:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:0xJ0FD) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:iPgFHq) Monday February 13 -- 04:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:COZCq2) Monday February 13 -- 05:00 PM] Activity: Rajiv is having dinner
+[(ID:XDuo5y) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:FnOH9f) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:YrsAi6) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:u7szqI) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:7kdhG7) Monday February 13 -- 10:00 PM] Activity: Rajiv is winding down for the day
+[(ID:JIF5Xi) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to bed
+~~~~~output of hourly planning~~~~
+working on his paintings at the artist co-living space
+[(ID:d9hkmL) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:byUBiR) Monday February 13 -- 01:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:O7hHHi) Monday February 13 -- 02:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:UXK7IE) Monday February 13 -- 03:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:Hqm0S8) Monday February 13 -- 04:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:zK4yBg) Monday February 13 -- 05:00 PM] Activity: Rajiv is having dinner
+[(ID:6Pilsl) Monday February 13 -- 06:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:Ukwvjt) Monday February 13 -- 07:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:IRvzGJ) Monday February 13 -- 08:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:jResolver) Monday February 13 -- 09:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:NCsvwx) Monday February 13 -- 10:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:t3c7VN) Monday February 13 -- 11:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+~~~~~output of hourly planning~~~~
+having lunch break
+[(ID:falixd) Monday February 13 -- 01:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:EyIYc4) Monday February 13 -- 02:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:KyNJLr) Monday February 13 -- 03:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:5f0dDf) Monday February 13 -- 04:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:KF2mind) Monday February 13 -- 05:00 PM] Activity: Rajiv is having dinner
+[(ID:nEfH7B) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:eQn7ki) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:6DNEW9) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:ZFuP9M) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:FXp9fO) Monday February 13 -- 10:00 PM] Activity: Rajiv is winding down for the day and getting ready for bed
+[(ID:NYs6v4) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to bed
+~~~~~output of hourly planning~~~~
+working on his paintings at the artist co-living space
+[(ID:mDkMra) Monday February 13 -- 02:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:AqjNLN) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:2DGvbO) Monday February 13 -- 04:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:GJetvQ) Monday February 13 -- 05:00 PM] Activity: Rajiv is having dinner
+[(ID:M0C0pk) Monday February 13 -- 06:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:MH9jrh) Monday February 13 -- 07:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:kR7Gj1) Monday February 13 -- 08:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:nWf47J) Monday February 13 -- 09:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:eB9vQn) Monday February 13 -- 10:00 PM] Activity: Rajiv is relaxing and unwinding before going to bed
+[(ID:tuv2zN) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to bed
+~~~~~output of hourly planning~~~~
+taking a break and practicing playing
+the guitar from 4:30 pm to 5:00 pm
+[(ID:iKdoyH) Monday February 13 -- 03:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:DaOijD) Monday February 13 -- 04:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:CXK8fS) Monday February 13 -- 05:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:E8NqHJ) Monday February 13 -- 06:00 PM] Activity: Rajiv is having dinner
+[(ID:O4NqWo) Monday February 13 -- 07:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:Bg5oSJ) Monday February 13 -- 08:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:4qpIlr) Monday February 13 -- 09:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:zLxiqP) Monday February 13 -- 10:00 PM] Activity: Rajiv is winding down and getting ready for bed
+[(ID:jwCt1H) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to bed
+~~~~~output of hourly planning~~~~
+working on his paintings at the artist co-living space
+[(ID:fW7jBn) Monday February 13 -- 04:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:v2XoRr) Monday February 13 -- 05:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:iSxc5I) Monday February 13 -- 06:00 PM] Activity: Rajiv is having dinner
+[(ID:7i0VNV) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:mE8ERh) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:Wif4Vp) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:g7P3a5) Monday February 13 -- 10:00 PM] Activity: Rajiv is going to bed
+~~~~~output of hourly planning~~~~
+working on his paintings at the artist co-living space
+~~~~~output of hourly planning~~~~
+eating dinner
+[(ID:Yqtg7Z) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:pSC6zG) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:ViVqDz) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:3QKb7m) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:rTks80) Monday February 13 -- 10:00 PM] Activity: Rajiv is winding down and getting ready for bed
+[(ID:nqM3HD) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to sleep
+~~~~~output of hourly planning~~~~
+reviewing his artworks and preparing for his solo show
+[(ID:5Xylwl) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:7ZBm3s) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:JFhm4g) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:1QXhHZ) Monday February 13 -- 10:00 PM] Activity: Rajiv is winding down for the day
+[(ID:ChbRQG) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to bed
+~~~~~output of hourly planning~~~~
+reviewing his artworks and preparing for his solo show
+~~~~~output of hourly planning~~~~
+reviewing his artworks and preparing for his solo show
+
+[(ID:bcBLj4) Monday February 13 -- 09:00 PM] Activity: Rajiv is relaxing and watching a movie
+
+[(ID:X6Zy5R) Monday February 13 -- 10:00 PM] Activity: Rajiv is going to bed
+~~~~~output of hourly planning~~~~
+reviewing his artworks and preparing for his solo show
+[(ID:uA5Ut1) Monday February 13 -- 10:00 PM] Activity: Rajiv is relaxing and unwinding from the day
+[(ID:AQH7wz) Monday February 13 -- 11:00 PM] Activity: Rajiv is getting ready for bed and winding down
+[(ID:hANeS0) Tuesday February 14 -- 00:00 AM] Activity: Rajiv is sleeping
+~~~~~output of hourly planning~~~~
+reviewing his artworks and preparing for his solo show
+~~~~~output of hourly planning~~~~
+reviewing his artworks and preparing for his solo show
+n_m1_activity_set {'sleeping', 'working on his paintings at the artist co-living space', 'reviewing his artworks and preparing for his solo show', 'taking a break and practicing playing', 'having lunch break', 'waking up and completing morning routine', 'eating dinner'}
+len of n_m1_activity_set 7
+n_m1_activity_set {'sleeping', 'working on his paintings at the artist co-living space', 'reviewing his artworks and preparing for his solo show', 'taking a break and practicing playing', 'having lunch break', 'waking up and completing morning routine', 'eating dinner'}
+len of n_m1_activity_set 7
+n_m1_activity ['sleeping', 'sleeping', 'sleeping', 'sleeping', 'sleeping', 'sleeping', 'sleeping', 'sleeping', 'sleeping', 'waking up and completing morning routine', 'working on his paintings at the artist co-living space', 'working on his paintings at the artist co-living space', 'having lunch break', 'working on his paintings at the artist co-living space', 'taking a break and practicing playing', 'working on his paintings at the artist co-living space', 'working on his paintings at the artist co-living space', 'eating dinner', 'reviewing his artworks and preparing for his solo show', 'reviewing his artworks and preparing for his solo show', 'reviewing his artworks and preparing for his solo show', 'reviewing his artworks and preparing for his solo show', 'reviewing his artworks and preparing for his solo show', 'reviewing his artworks and preparing for his solo show']
+~~~~compressing the hourly schedule~~~~
+prev:  None
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 1]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 2]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 3]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 4]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 5]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 6]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 7]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 8]]
+prev:  sleeping
+curr plan(i):  sleeping
+_n_m1_hourly_compressed:  [['sleeping', 9]]
+prev:  sleeping
+curr plan(i):  waking up and completing morning routine
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1]]
+prev:  waking up and completing morning routine
+curr plan(i):  working on his paintings at the artist co-living space
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 1]]
+prev:  working on his paintings at the artist co-living space
+curr plan(i):  working on his paintings at the artist co-living space
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2]]
+prev:  working on his paintings at the artist co-living space
+curr plan(i):  having lunch break
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1]]
+prev:  having lunch break
+curr plan(i):  working on his paintings at the artist co-living space
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1]]
+prev:  working on his paintings at the artist co-living space
+curr plan(i):  taking a break and practicing playing
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1], ['taking a break and practicing playing', 1]]
+prev:  taking a break and practicing playing
+curr plan(i):  working on his paintings at the artist co-living space
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1], ['taking a break and practicing playing', 1], ['working on his paintings at the artist co-living space', 1]]
+prev:  working on his paintings at the artist co-living space
+curr plan(i):  working on his paintings at the artist co-living space
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1], ['taking a break and practicing playing', 1], ['working on his paintings at the artist co-living space', 2]]
+prev:  working on his paintings at the artist co-living space
+curr plan(i):  eating dinner
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1], ['taking a break and practicing playing', 1], ['working on his paintings at the artist co-living space', 2], ['eating dinner', 1]]
+prev:  eating dinner
+curr plan(i):  reviewing his artworks and preparing for his solo show
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1], ['taking a break and practicing playing', 1], ['working on his paintings at the artist co-living space', 2], ['eating dinner', 1], ['reviewing his artworks and preparing for his solo show', 1]]
+prev:  reviewing his artworks and preparing for his solo show
+curr plan(i):  reviewing his artworks and preparing for his solo show
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1], ['taking a break and practicing playing', 1], ['working on his paintings at the artist co-living space', 2], ['eating dinner', 1], ['reviewing his artworks and preparing for his solo show', 2]]
+prev:  reviewing his artworks and preparing for his solo show
+curr plan(i):  reviewing his artworks and preparing for his solo show
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1], ['taking a break and practicing playing', 1], ['working on his paintings at the artist co-living space', 2], ['eating dinner', 1], ['reviewing his artworks and preparing for his solo show', 3]]
+prev:  reviewing his artworks and preparing for his solo show
+curr plan(i):  reviewing his artworks and preparing for his solo show
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1], ['taking a break and practicing playing', 1], ['working on his paintings at the artist co-living space', 2], ['eating dinner', 1], ['reviewing his artworks and preparing for his solo show', 4]]
+prev:  reviewing his artworks and preparing for his solo show
+curr plan(i):  reviewing his artworks and preparing for his solo show
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1], ['taking a break and practicing playing', 1], ['working on his paintings at the artist co-living space', 2], ['eating dinner', 1], ['reviewing his artworks and preparing for his solo show', 5]]
+prev:  reviewing his artworks and preparing for his solo show
+curr plan(i):  reviewing his artworks and preparing for his solo show
+_n_m1_hourly_compressed:  [['sleeping', 9], ['waking up and completing morning routine', 1], ['working on his paintings at the artist co-living space', 2], ['having lunch break', 1], ['working on his paintings at the artist co-living space', 1], ['taking a break and practicing playing', 1], ['working on his paintings at the artist co-living space', 2], ['eating dinner', 1], ['reviewing his artworks and preparing for his solo show', 6]]
+n_m1_hourly_compressed:  [['sleeping', 540], ['waking up and completing morning routine', 60], ['working on his paintings at the artist co-living space', 120], ['having lunch break', 60], ['working on his paintings at the artist co-living space', 60], ['taking a break and practicing playing', 60], ['working on his paintings at the artist co-living space', 120], ['eating dinner', 60], ['reviewing his artworks and preparing for his solo show', 360]]
+daily schedule:  [['sleeping', 540], ['waking up and completing morning routine', 60], ['working on his paintings at the artist co-living space', 120], ['having lunch break', 60], ['working on his paintings at the artist co-living space', 60], ['taking a break and practicing playing', 60], ['working on his paintings at the artist co-living space', 120], ['eating dinner', 60], ['reviewing his artworks and preparing for his solo show', 360]]
+DEBUG
+[['sleeping', 540], ['waking up and completing morning routine', 60], ['working on his paintings at the artist co-living space', 120], ['having lunch break', 60], ['working on his paintings at the artist co-living space', 60], ['taking a break and practicing playing', 60], ['working on his paintings at the artist co-living space', 120], ['eating dinner', 60], ['reviewing his artworks and preparing for his solo show', 360]]
+[0, 1, 2]
+index 0
+index 1
+index 2
+?????
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 09:00AM, Rajiv Patel is planning on sleeping, 09:00AM ~ 10:00AM, Rajiv Patel is planning on waking up and completing morning routine, 10:00AM ~ 12:00PM, Rajiv Patel is planning on working on his paintings at the artist co-living space.
+In 5 min increments, list the subtasks Rajiv does when Rajiv is waking up and completing morning routine from 09:00AM ~ 10:00AM (total duration in minutes 60): 
+1) Rajiv is
+run_gpt_prompt_task_decomp PROMPT
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 09:00AM, Rajiv Patel is planning on sleeping, 09:00AM ~ 10:00AM, Rajiv Patel is planning on waking up and completing morning routine, 10:00AM ~ 12:00PM, Rajiv Patel is planning on working on his paintings at the artist co-living space.
+In 5 min increments, list the subtasks Rajiv does when Rajiv is waking up and completing morning routine from 09:00AM ~ 10:00AM (total duration in minutes 60): 
+1) Rajiv is
+run_gpt_prompt_task_decomp RESPONSE
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Rajiv is brushing his teeth. (duration in minutes: 2, minutes left: 53)
+3) Rajiv is washing his face. (duration in minutes: 2, minutes left: 51)
+4) Rajiv is taking a shower. (duration in minutes: 10, minutes left: 41)
+5) Rajiv is getting dressed. (duration in minutes: 5, minutes left: 36)
+6) Rajiv is combing his hair. (duration in minutes: 2, minutes left: 34)
+7) Rajiv is preparing and eating breakfast. (duration in minutes: 15, minutes left: 19)
+8) Rajiv is making his bed. (duration in minutes: 5, minutes left: 14)
+9) Rajiv is checking his emails. (duration in minutes: 5, minutes left: 9)
+10) Rajiv is packing his painting supplies. (duration in minutes: 5, minutes left: 4)
+11) Rajiv is putting on his shoes and grabbing his coat. (duration in minutes: 2, minutes left: 2)
+12) Rajiv is leaving the house and locking the door. (duration in minutes: 2, minutes left: 0)
+-==- -==- -==- 
+i waking up and stretching. (duration in minutes: 5, minutes left: 55)
+k ['waking up and stretching.', '5, minutes left: 55)']
+cr [['waking up and stretching', 5]]
+i brushing his teeth. (duration in minutes: 2, minutes left: 53)
+k ['brushing his teeth.', '2, minutes left: 53)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2]]
+i washing his face. (duration in minutes: 2, minutes left: 51)
+k ['washing his face.', '2, minutes left: 51)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2]]
+i taking a shower. (duration in minutes: 10, minutes left: 41)
+k ['taking a shower.', '10, minutes left: 41)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10]]
+i getting dressed. (duration in minutes: 5, minutes left: 36)
+k ['getting dressed.', '5, minutes left: 36)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5]]
+i combing his hair. (duration in minutes: 2, minutes left: 34)
+k ['combing his hair.', '2, minutes left: 34)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2]]
+i preparing and eating breakfast. (duration in minutes: 15, minutes left: 19)
+k ['preparing and eating breakfast.', '15, minutes left: 19)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15]]
+i making his bed. (duration in minutes: 5, minutes left: 14)
+k ['making his bed.', '5, minutes left: 14)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15], ['making his bed', 5]]
+i checking his emails. (duration in minutes: 5, minutes left: 9)
+k ['checking his emails.', '5, minutes left: 9)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15], ['making his bed', 5], ['checking his emails', 5]]
+i packing his painting supplies. (duration in minutes: 5, minutes left: 4)
+k ['packing his painting supplies.', '5, minutes left: 4)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15], ['making his bed', 5], ['checking his emails', 5], ['packing his painting supplies', 5]]
+i putting on his shoes and grabbing his coat. (duration in minutes: 2, minutes left: 2)
+k ['putting on his shoes and grabbing his coat.', '2, minutes left: 2)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15], ['making his bed', 5], ['checking his emails', 5], ['packing his painting supplies', 5], ['putting on his shoes and grabbing his coat', 2]]
+i leaving the house and locking the door. (duration in minutes: 2, minutes left: 0)
+k ['leaving the house and locking the door.', '2, minutes left: 0)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15], ['making his bed', 5], ['checking his emails', 5], ['packing his painting supplies', 5], ['putting on his shoes and grabbing his coat', 2], ['leaving the house and locking the door', 2]]
+~prompt~~
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 09:00AM, Rajiv Patel is planning on sleeping, 09:00AM ~ 10:00AM, Rajiv Patel is planning on waking up and completing morning routine, 10:00AM ~ 12:00PM, Rajiv Patel is planning on working on his paintings at the artist co-living space.
+In 5 min increments, list the subtasks Rajiv does when Rajiv is waking up and completing morning routine from 09:00AM ~ 10:00AM (total duration in minutes 60): 
+1) Rajiv is
+60
+total_expected_min 60
+['waking up and stretching', 5]
+['brushing his teeth', 2]
+['washing his face', 2]
+['taking a shower', 10]
+['getting dressed', 5]
+['combing his hair', 2]
+['preparing and eating breakfast', 15]
+['making his bed', 5]
+['checking his emails', 5]
+['packing his painting supplies', 5]
+['putting on his shoes and grabbing his coat', 2]
+['leaving the house and locking the door', 2]
+run_gpt_prompt_task_decomp PROMPT
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 09:00AM, Rajiv Patel is planning on sleeping, 09:00AM ~ 10:00AM, Rajiv Patel is planning on waking up and completing morning routine, 10:00AM ~ 12:00PM, Rajiv Patel is planning on working on his paintings at the artist co-living space.
+In 5 min increments, list the subtasks Rajiv does when Rajiv is waking up and completing morning routine from 09:00AM ~ 10:00AM (total duration in minutes 60): 
+1) Rajiv is
+run_gpt_prompt_task_decomp RESPONSE
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Rajiv is brushing his teeth. (duration in minutes: 2, minutes left: 53)
+3) Rajiv is washing his face. (duration in minutes: 2, minutes left: 51)
+4) Rajiv is taking a shower. (duration in minutes: 10, minutes left: 41)
+5) Rajiv is getting dressed. (duration in minutes: 5, minutes left: 36)
+6) Rajiv is combing his hair. (duration in minutes: 2, minutes left: 34)
+7) Rajiv is preparing and eating breakfast. (duration in minutes: 15, minutes left: 19)
+8) Rajiv is making his bed. (duration in minutes: 5, minutes left: 14)
+9) Rajiv is checking his emails. (duration in minutes: 5, minutes left: 9)
+10) Rajiv is packing his painting supplies. (duration in minutes: 5, minutes left: 4)
+11) Rajiv is putting on his shoes and grabbing his coat. (duration in minutes: 2, minutes left: 2)
+12) Rajiv is leaving the house and locking the door. (duration in minutes: 2, minutes left: 0)
+-==- -==- -==- 
+i waking up and stretching. (duration in minutes: 5, minutes left: 55)
+k ['waking up and stretching.', '5, minutes left: 55)']
+cr [['waking up and stretching', 5]]
+i brushing his teeth. (duration in minutes: 2, minutes left: 53)
+k ['brushing his teeth.', '2, minutes left: 53)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2]]
+i washing his face. (duration in minutes: 2, minutes left: 51)
+k ['washing his face.', '2, minutes left: 51)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2]]
+i taking a shower. (duration in minutes: 10, minutes left: 41)
+k ['taking a shower.', '10, minutes left: 41)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10]]
+i getting dressed. (duration in minutes: 5, minutes left: 36)
+k ['getting dressed.', '5, minutes left: 36)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5]]
+i combing his hair. (duration in minutes: 2, minutes left: 34)
+k ['combing his hair.', '2, minutes left: 34)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2]]
+i preparing and eating breakfast. (duration in minutes: 15, minutes left: 19)
+k ['preparing and eating breakfast.', '15, minutes left: 19)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15]]
+i making his bed. (duration in minutes: 5, minutes left: 14)
+k ['making his bed.', '5, minutes left: 14)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15], ['making his bed', 5]]
+i checking his emails. (duration in minutes: 5, minutes left: 9)
+k ['checking his emails.', '5, minutes left: 9)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15], ['making his bed', 5], ['checking his emails', 5]]
+i packing his painting supplies. (duration in minutes: 5, minutes left: 4)
+k ['packing his painting supplies.', '5, minutes left: 4)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15], ['making his bed', 5], ['checking his emails', 5], ['packing his painting supplies', 5]]
+i putting on his shoes and grabbing his coat. (duration in minutes: 2, minutes left: 2)
+k ['putting on his shoes and grabbing his coat.', '2, minutes left: 2)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15], ['making his bed', 5], ['checking his emails', 5], ['packing his painting supplies', 5], ['putting on his shoes and grabbing his coat', 2]]
+i leaving the house and locking the door. (duration in minutes: 2, minutes left: 0)
+k ['leaving the house and locking the door.', '2, minutes left: 0)']
+cr [['waking up and stretching', 5], ['brushing his teeth', 2], ['washing his face', 2], ['taking a shower', 10], ['getting dressed', 5], ['combing his hair', 2], ['preparing and eating breakfast', 15], ['making his bed', 5], ['checking his emails', 5], ['packing his painting supplies', 5], ['putting on his shoes and grabbing his coat', 2], ['leaving the house and locking the door', 2]]
+~prompt~~
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 09:00AM, Rajiv Patel is planning on sleeping, 09:00AM ~ 10:00AM, Rajiv Patel is planning on waking up and completing morning routine, 10:00AM ~ 12:00PM, Rajiv Patel is planning on working on his paintings at the artist co-living space.
+In 5 min increments, list the subtasks Rajiv does when Rajiv is waking up and completing morning routine from 09:00AM ~ 10:00AM (total duration in minutes 60): 
+1) Rajiv is
+60
+total_expected_min 60
+['waking up and stretching', 5]
+['brushing his teeth', 2]
+['washing his face', 2]
+['taking a shower', 10]
+['getting dressed', 5]
+['combing his hair', 2]
+['preparing and eating breakfast', 15]
+['making his bed', 5]
+['checking his emails', 5]
+['packing his painting supplies', 5]
+['putting on his shoes and grabbing his coat', 2]
+['leaving the house and locking the door', 2]
+IMPORTANT VVV DEBUG
+[['waking up and stretching', 5], ['taking a shower', 10], ['getting dressed', 5], ['preparing and eating breakfast', 15], ['making his bed', 5], ['checking his emails', 5], ['packing his painting supplies', 15]]
+DEBUG LJSDLFSKJF
+['sleeping', 540]
+['waking up and completing morning routine (waking up and stretching)', 5]
+['waking up and completing morning routine (taking a shower)', 10]
+['waking up and completing morning routine (getting dressed)', 5]
+['waking up and completing morning routine (preparing and eating breakfast)', 15]
+['waking up and completing morning routine (making his bed)', 5]
+['waking up and completing morning routine (checking his emails)', 5]
+['waking up and completing morning routine (packing his painting supplies)', 15]
+['working on his paintings at the artist co-living space', 120]
+['having lunch break', 60]
+['working on his paintings at the artist co-living space', 60]
+['taking a break and practicing playing', 60]
+['working on his paintings at the artist co-living space', 120]
+['eating dinner', 60]
+['reviewing his artworks and preparing for his solo show', 360]
+0
+15
+Rajiv Patel
+------
+act_desp sleeping
+act_dura 540
+DEBUG Harvey Oak Supply Store ------ artist's co-living space
+Rajiv Patel's room
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 4
+CHAT GPT PROMPT
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+repeat 3
+act_game_object bed
+act_desp sleeping
+persona <persona.persona.Persona object at 0x7f168321d1f0>
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 6
+CHAT GPT PROMPT
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Rajiv Patel is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+repeat 3
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 4
+CHAT GPT PROMPT
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: being slept on
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+repeat 3
+The server is overloaded or not ready yet.
+ChatGPT ERROR
+Traceback (most recent call last):
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 628, in <module>
+    rs.open_server()
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 441, in open_server
+    rs.start_server(10000)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 383, in start_server
+    next_tile, pronunciatio, description = persona.move(
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 242, in move
+    plan = self.plan(maze, personas, new_day, retrieved, sim_folder)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 38, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 160, in plan
+    return plan(self, maze, personas, new_day, retrieved, sim_folder)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 1017, in plan
+    _determine_action(persona, maze)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 682, in _determine_action
+    act_obj_event = generate_act_obj_event_triple(act_game_object, 
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 308, in generate_act_obj_event_triple
+    return run_gpt_prompt_act_obj_event_triple(act_game_object, act_obj_desc, persona)[0]
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/run_gpt_prompt.py", line 1076, in run_gpt_prompt_act_obj_event_triple
+    output = safe_generate_response(prompt, gpt_param, 5, fail_safe,
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/gpt_structure.py", line 324, in safe_generate_response
+    curr_gpt_response, _ = GPT_request_edit(prompt, gpt_parameter, prompt_template=prompt_template)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/gpt_structure.py", line 19, in wrapper
+    output, prompt_template=func(prompt, gpt_parameter, prompt_template)
+ValueError: too many values to unpack (expected 2)

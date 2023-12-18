@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciatio": "\ud83e\uddfa\ud83e\udd50",
+      "description": "opening Hobbs Cafe\n[(ID:rpIhrC) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter and serving customers\n[(ID:n30S3a) Monday February 13 -- 10:00 AM] Activity: Isabella is overseeing the cafe operations and making sure everything is running smoothly\n[(ID:A9xDtJ) Monday February 13 -- 11:00 AM] Activity: Isabella is taking a short break and grabbing a coffee\n[(ID:OFb1Uk) Monday February 13 -- 12:00 PM] Activity: Isabella is preparing and serving lunch to customers\n[(ID:Pgj5hl) Monday February 13 -- 01:00 PM] Activity: Isabella is engaging with customers and creating a welcoming atmosphere in the cafe\n[(ID:OUSER2) Monday February 13 -- 02:00 PM] Activity: Isabella is taking inventory and restocking supplies in the cafe\n[(ID:Pnze4J) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter and attending to customer needs\n[(ID:GU$Std) Monday February 13 -- 04:00 PM] Activity: Isabella is preparing for the Valentine's Day party at the cafe\n[(ID:BYbfnN) Monday February 13 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe\n[(ID:KBYgDf) Monday February 13 -- 06:00 PM] Activity: Isabella is enjoying the party with her customers\n[(ID:Tgdtzm) Monday February 13 -- 07:00 PM] Activity: Isabella is socializing and mingling with guests at the party\n[(ID:srVISX) Monday February 13 -- 08:00 PM] Activity: Isabella closes Hobbs Cafe for the day and starts cleaning up (organizing the display cases and arranging pastries and other food items) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        46
+      ],
+      "pronunciatio": "\ud83d\udecc",
+      "description": "going to the library at Oak Hill College\n[(ID:GzXcGI) Monday February 13 -- 09:00 AM] Activity: Klaus is working on his research paper\n[(ID:o9ZwzX) Monday February 13 -- 10:00 AM] Activity: Klaus is still working on his research paper\n[(ID:H8DFh5) Monday February 13 -- 11:00 AM] Activity: Klaus is taking a short break\n[(ID:LtnfVC) Monday February 13 -- 12:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:mAZXHN) Monday February 13 -- 01:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:t37QYv) Monday February 13 -- 02:00 PM] Activity: Klaus is back at the library working on his research paper\n[(ID:ZVg308) Monday February 13 -- 03:00 PM] Activity: Klaus is still working on his research paper\n[(ID:Qjiu6x) Monday February 13 -- 04:00 PM] Activity: Klaus is taking a short break\n[(ID:3nIwPG) Monday February 13 -- 05:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:LbZNjo) Monday February 13 -- 05:30 PM] Activity: Klaus is having dinner\n[(ID:yTBAw9) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and unwinding for the evening\n[(ID:ZvZHzC) Monday February 13 -- 07:00 PM] Activity: Klaus is watching TV or reading (making his bed) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:20:50"
+  }
+}

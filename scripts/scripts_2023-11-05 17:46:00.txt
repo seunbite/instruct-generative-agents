@@ -1,0 +1,2928 @@
+perceive
+perceive-perceive
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+retrieve
+retrieve-retrieve
+plan
+plan-plan
+plan-_long_term_planning
+plan-generate_wake_up_hour
+prompt template : persona/prompt_template/v2/wake_up_hour_v1.txt
+Prompt==================================================================
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+In general, Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Latoya's wake up hour:
+
+
+Output==================================================================
+6am
+
+
+plan-generate_first_daily_plan
+prompt template : persona/prompt_template/v2/daily_planning_v6.txt
+Prompt==================================================================
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+In general, Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Today is Monday February 13. Here is Latoya's plan today in broad-strokes (with the time of the day. e.g., have a lunch at 12:00 pm, watch TV from 7 to 8 pm): 1) wake up and complete the morning routine at 6:00 am, 2)
+
+
+Output==================================================================
+start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm, 9) return to the artists' co-living space and resume editing and organizing photos at 4:30 pm, 10) finish the editing and organizing process at 6:30 pm, 11) have dinner at 7:00 pm, 12) unwind and relax by reading a book or watching a movie at 8:00 pm, 13) prepare for bed and wind down at 9:30 pm, 14) go to bed at 10:00 pm.
+
+
+plan-generate_hourly_schedule
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:UVcEiH) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:LKrghL) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:Bct07f) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:4OBB96) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:qLtWAe) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:m5LuQo) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:CsGLsV) Monday February 13 -- 06:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+waking up and completing her morning routine
+[(ID:ZRmu8Y) Monday February 13 -- 07:00 AM] Activity: Latoya is starting to edit and organize her photos from her recent travels
+[(ID:x6s8Jr) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:Q9O0YN) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:jGOFg2) Monday February 13 -- 12:30 PM] Activity: Latoya is having lunch
+[(ID:EdDrGh) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates
+[(ID:zKkPpn) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:GG2OXE) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:rgQ2KU) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:8fj2VE) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:dVHvfH) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:kV4Ee1) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:HJCQVJ) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:h0yhwJ) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:zU8gD0) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:kPR2XV) Monday February 13 -- 07:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+editing and organizing her photos from her recent travels
+[(ID:bc5zWU) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:zgiox2) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize photos
+[(ID:94BeiM) Monday February 13 -- 12:30 PM] Activity: Latoya is having lunch
+[(ID:pRbRZ9) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates
+[(ID:iPZ7Ia) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize photos
+[(ID:yyPgJm) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:J08iAO) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize photos
+[(ID:sqd1j3) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner
+[(ID:vqwCdC) Monday February 13 -- 07:00 PM] Activity: Latoya is having a conversation with others about the local mayor election
+[(ID:VUzwSz) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to edit and organize photos
+[(ID:l4VfA2) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down for the day and preparing to go to bed
+
+This schedule is based on an assumption of Latoya's daily plan requirement and her current lifestyle. Please note that the specific activities and timings may vary depending on her personal preferences and any unforeseen events.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:OybFdx) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:qKbDmY) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:EjxEsl) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:r8cHHb) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:mJyAfH) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:xAh3xF) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:UZi7BT) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:DhhvO3) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:PgPgUQ) Monday February 13 -- 08:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:t7BYh5) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:OU5jnt) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:csi5Dk) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:Y08ULd) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:x1QqSE) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates
+[(ID:WM4IM4) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:dacWnM) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:9NQmEx) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside
+[(ID:VaMoIl) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:V0H9lI) Monday February 13 -- 06:00 PM] Activity: Latoya is taking a break and having dinner
+[(ID:aJePcT) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:Fy2H9a) Monday February 13 -- 08:00 PM] Activity: Latoya is taking a break and socializing with other artists at the co-living space
+[(ID:y7Pgfz) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:ebMWXh) Monday February 13 -- 10:00 PM] Activity: Latoya is taking a break and winding down for the night
+[(ID:sCbtAh) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+===
+Resources used:
+Google Calendar
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:svAmYH) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:j6n3oI) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:6TCTXa) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:pyEIx0) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:0QgMdC) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:Vtdve7) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:3tMzR8) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:GKjJjn) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:zHuvxw) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:jZmn9M) Monday February 13 -- 09:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+taking a break and having breakfast
+[(ID:8CXEPa) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:yGNENJ) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:3Y11Fv) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:RF09sU) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:W7SHUN) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:TKRk7X) Monday February 13 -- 03:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:RNuIME) Monday February 13 -- 04:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:NwEXDT) Monday February 13 -- 05:00 PM] Activity: Latoya is taking a break and having dinner
+[(ID:me51uc) Monday February 13 -- 06:00 PM] Activity: Latoya is socializing with others and discussing the local mayor election
+[(ID:el3oZD) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to socialize with others and discuss the local mayor election
+[(ID:jhIvLC) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to socialize with others and discuss the local mayor election
+[(ID:zv1qMz) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to socialize with others and discuss the local mayor election
+[(ID:AomhP3) Monday February 13 -- 10:00 PM] Activity: Latoya is preparing for bed
+[(ID:CUV7Gf) Monday February 13 -- 11:00 PM] Activity: Latoya is sleeping
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:SsC3oi) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:zGlNGi) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:kOjKuD) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:vY5GOa) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:QapJaF) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:OhJwHF) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:zMPQoV) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:dSnYha) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:ytK162) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:Eds3Yc) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:KubPyb) Monday February 13 -- 10:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:AgfXJE) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:IQig27) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:W1ZSDq) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:qjI6ys) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:lUyKTv) Monday February 13 -- 03:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:Ss86Fn) Monday February 13 -- 04:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:uP0jgs) Monday February 13 -- 05:00 PM] Activity: Latoya is wrapping up her photo editing and organizing for the day
+[(ID:cJijcs) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner
+[(ID:tYP6ET) Monday February 13 -- 07:00 PM] Activity: Latoya is having a conversation with others about the local mayor election
+[(ID:whZAJQ) Monday February 13 -- 08:00 PM] Activity: Latoya is relaxing and unwinding
+[(ID:ZaGA7q) Monday February 13 -- 09:00 PM] Activity: Latoya is preparing for bed
+[(ID:97nrAP) Monday February 13 -- 10:00 PM] Activity: Latoya is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:CjlqVQ) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:JZiCtJ) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:jM9erq) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:RqJS0U) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:gOpu0T) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:CxjAml) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:bU6rdn) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:MHKLE3) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:YRw7ne) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:kNV1UV) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:Jujib1) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:2auOYv) Monday February 13 -- 11:00 AM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:BpTLUM) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch
+[(ID:R2qrsl) Monday February 13 -- 01:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:iC4FL6) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:0Grn4P) Monday February 13 -- 03:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:3S13dV) Monday February 13 -- 04:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:29W77h) Monday February 13 -- 05:00 PM] Activity: Latoya is taking a break and having dinner
+[(ID:7sMXNK) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:mwP1pT) Monday February 13 -- 07:00 PM] Activity: Latoya is having a conversation with others about the local mayoral candidates
+[(ID:29W77h) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:EvZUcm) Monday February 13 -- 09:00 PM] Activity: Latoya is taking a break and relaxing
+[(ID:hzE5oc) Monday February 13 -- 10:00 PM] Activity: Latoya is preparing for bed
+[(ID:eyYavl) Monday February 13 -- 11:00 PM] Activity: Latoya is sleeping
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:o8rjb0) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:lmkSdD) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:tJdLZ0) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:lKom7j) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:LXLCal) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:IXQAbm) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:QxfWIX) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:JLpggf) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:O7e7O2) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:3cCy4R) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:T8j43m) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:UKF2QS) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:wUr3gA) Monday February 13 -- 12:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:8TZ2iI) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:G7b3Ai) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:T2IkhY) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:eb3gJr) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:m2d5wH) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:aC6dOX) Monday February 13 -- 06:00 PM] Activity: Latoya is cooking dinner
+[(ID:U1f88A) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:i5miiY) Monday February 13 -- 08:00 PM] Activity: Latoya is engaging in conversations with others about the local mayoral candidates for the upcoming election
+[(ID:Re5fbA) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing her conversations and discussing her photography work
+[(ID:qJje8h) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down for the day and preparing for bed
+[(ID:cAT1Nf) Monday February 13 -- 11:00 PM] Activity: Latoya is going to sleep
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:zd1eDD) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:zUEiiW) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:mZGiTH) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:REMzZA) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:e6NUCH) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:jjjguT) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:GN7Wjk) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:K1gYDI) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:XJ5yB9) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:QydmtT) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:0ryYpT) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:DABG8P) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:8MPSuy) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:ZGGucn) Monday February 13 -- 01:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+having lunch
+[(ID:eRfzlC) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:P700Py) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:889j9B) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:03bYZC) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:dkgwlC) Monday February 13 -- 06:00 PM] Activity: Latoya is taking a break and having dinner
+[(ID:bHvjyH) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:h79GlB) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:gyzsx2) Monday February 13 -- 09:00 PM] Activity: Latoya is taking a break and relaxing
+[(ID:PTIPxj) Monday February 13 -- 10:00 PM] Activity: Latoya is getting ready for bed
+[(ID:mP2mkW) Monday February 13 -- 11:00 PM] Activity: Latoya is going to sleep
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:AFkmTJ) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:vpfPSy) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:JP4giQ) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:Xlt5HJ) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:nkYBvk) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:6KFltd) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:HJPVrs) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:2QAM1v) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:GxVOAp) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:Z9C7S4) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:6wDAyr) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:muz9h1) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:okXtxZ) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:AiNKER) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:u33nZn) Monday February 13 -- 02:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:jzRZ1c) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:gwc1BZ) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:fzeXpX) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:R7WFth) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner
+[(ID:jQ0tau) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:dhNNYs) Monday February 13 -- 08:00 PM] Activity: Latoya is taking a break and having a conversation with others about the upcoming mayoral election
+[(ID:57BDIh) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:ro4UnE) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down for the day and preparing for bed
+[(ID:4tAnnc) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed for the night
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:c4Y5ln) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:6rk2du) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:RrDJU7) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:JbMuV9) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:IYzNHc) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:YeYzf9) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:1AfQi6) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:98YfSP) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:bkKVIN) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:2bLqJ4) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:ipAjlr) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:hDGkoZ) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:Y39MaG) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:mhQiOq) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:emcC2s) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:mJOTQ9) Monday February 13 -- 03:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:8K2pGd) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:qhcmpl) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:wEjSeR) Monday February 13 -- 06:00 PM] Activity: Latoya is finishing up her photo editing for the day
+[(ID:DzxXxF) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:mzbNWz) Monday February 13 -- 08:00 PM] Activity: Latoya is spending time researching the local mayoral candidates for the upcoming election
+[(ID:urtjku) Monday February 13 -- 09:00 PM] Activity: Latoya is having a conversation with others about the local mayoral election
+[(ID-vydB3) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down for the evening, reading or listening to music
+[(ID:JdhnSu) Monday February 13 -- 11:00 PM] Activity: Latoya is getting ready for bed
+[(ID:8Vm4Qr) Tuesday February 14 -- 12:00 AM] Activity: Latoya is sleeping
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:zD43Vn) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:A4u7Yr) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:DtF4zN) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:vw796a) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:SarQvW) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:x1eXHW) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:Lap7Px) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:pyQwz3) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:gWaTb3) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:drCrFH) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:nNB3zs) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:lzczqi) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:v5u6S7) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:VnURyO) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:FcSH9n) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:onDj9y) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:a7xXo2) Monday February 13 -- 04:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+taking a break and going for a walk outside to get some fresh air and inspiration
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:nV6tG2) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:YYJfes) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:LO4tAZ) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:Glx9ix) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:h2Cojj) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:D6YTG1) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:hPpddn) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:iYtmRC) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:dTEHLH) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:GUZYg0) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:gw6v50) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:PNgqsS) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:z4Lvtu) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:DaOVG0) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:mlgSoN) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:AaWgI2) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:zbLzb5) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:8CPI0a) Monday February 13 -- 05:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:WDgpu3) Monday February 13 -- 06:00 PM] Activity: Latoya is having dinner
+[(ID:imL6P0) Monday February 13 -- 07:00 PM] Activity: Latoya is having a conversation with others about the local mayoral candidates
+[(ID:rGj8mC) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing her conversation about the local mayoral candidates
+[(ID:WRqiF5) Monday February 13 -- 09:00 PM] Activity: Latoya is relaxing and watching a movie
+[(ID:b3K61B) Monday February 13 -- 10:00 PM] Activity: Latoya is preparing for bed
+[(ID:ygEqMt) Monday February 13 -- 11:00 PM] Activity: Latoya is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:mUid9Q) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:e7yt2l) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:mk3umo) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:9KDhWz) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:aK1m3N) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:F6HHKP) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:SqEekK) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:EsDeqA) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:Bb2uOY) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:sMSR71) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:jNdRVG) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:OnoIuE) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:NP1iLc) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:rxAMJd) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:sYEzaa) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:evo3iB) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:ZVqLpu) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:ZHuSRj) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:st0Yg3) Monday February 13 -- 06:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:qJ977p) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner
+[(ID:kePon8) Monday February 13 -- 08:00 PM] Activity: Latoya is having a conversation with others about the local mayor election
+[(ID:jC1UeS) Monday February 13 -- 09:00 PM] Activity: Latoya is relaxing and reading a book
+[(ID:PCXJrI) Monday February 13 -- 10:00 PM] Activity: Latoya is getting ready for bed
+[(ID:sDFRd5) Monday February 13 -- 11:00 PM] Activity: Latoya is sleeping
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:mVRep7) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:RA6NUz) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:m9x5qR) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:2I3ZM8) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:XBBmDx) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:dOwZLy) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:URFvaN) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:rxyVAu) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:WtbOCe) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:SoBYjH) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:F4jlUj) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:Rzbjvn) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:0wycj6) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:JB9WNd) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:KuJlIC) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:vimpr0) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:NWsSCS) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:zsvzy2) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:hEQPok) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:vxfYRq) Monday February 13 -- 07:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:OZpW4T) Monday February 13 -- 08:00 PM] Activity: Latoya is taking a break and having dinner
+[(ID:UE9vhI) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:GXJT3N) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed
+[(ID:rAX8Mc) Monday February 13 -- 11:00 PM] Activity: Latoya is going to sleep
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:0LBzjD) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:EqkzvH) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:Bfs2F2) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:BMd3LL) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:jaBuSb) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:CLAaqY) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:KdGEdD) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:PyJpll) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:6UOS3h) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:aVIGa5) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:nbJkEZ) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:oizAET) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:ct1khZ) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:f0QgYL) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:eAD0DX) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:ckk6AJ) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:TCWuvb) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:nBGm4X) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:OzSis0) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:DAENRg) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:ciHgSJ) Monday February 13 -- 08:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:Jgs1hC) Monday February 13 -- 09:00 PM] Activity: Latoya is researching and gathering information on the local mayoral candidates for the upcoming election
+[(ID:z8WK8F) Monday February 13 -- 10:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:eBFPQ3) Monday February 13 -- 11:00 PM] Activity: Latoya is preparing for bed
+[(ID:mJlh0j) Tuesday February 14 -- 12:00 AM] Activity: Latoya is sleeping
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:j1K9wa) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:WQs013) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:abwBsm) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:6G2Woe) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:0rQOLw) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:0TuweB) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:GBcuVD) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:Brhmey) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:TtdnfN) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:oYlAms) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:mZrmGz) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:dXvnog) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:oOAfed) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:8MA4e5) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:OgNXXy) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:lJgLli) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:i5iayX) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:HHQOb2) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:4OdEO8) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:XDE4KK) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:EzEGUu) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:OmFsOF) Monday February 13 -- 09:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:J1K9wo) Monday February 13 -- 10:00 PM] Activity: Latoya is wrapping up her editing and organizing for the day
+[(ID:JDmIJQ) Monday February 13 -- 11:00 PM] Activity: Latoya is winding down for the night and preparing for bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:GXFTGd) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:eoL7Rk) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:V05YbM) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:wgKpTm) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:nyNLtP) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:9j66yH) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:EplOyz) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:dQBDT7) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:I0Wz1V) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:98CHJU) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:Isg9Ri) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:dvoTsC) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:ATBpYM) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:1FMbUZ) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:Z4yWdr) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:awG9g6) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:XRIgz9) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:ktIIfU) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:vFnD7r) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:hmr2vJ) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:8R9gIQ) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:dAMZPe) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:R98Mxt) Monday February 13 -- 10:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+[(ID:99flzJ) Monday February 13 -- 11:00 PM] Activity: Latoya is getting ready for bed and winding down for the night
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:dEB3ov) Monday February 13 -- 00:00 AM] Activity: Latoya is sleeping
+[(ID:fgr3NV) Monday February 13 -- 01:00 AM] Activity: Latoya is sleeping
+[(ID:dCXtKY) Monday February 13 -- 02:00 AM] Activity: Latoya is sleeping
+[(ID:NYeaNk) Monday February 13 -- 03:00 AM] Activity: Latoya is sleeping
+[(ID:MJyprp) Monday February 13 -- 04:00 AM] Activity: Latoya is sleeping
+[(ID:HfObdy) Monday February 13 -- 05:00 AM] Activity: Latoya is sleeping
+[(ID:faW1yb) Monday February 13 -- 06:00 AM] Activity: Latoya is waking up and completing her morning routine
+[(ID:zhG84M) Monday February 13 -- 07:00 AM] Activity: Latoya is editing and organizing her photos from her recent travels
+[(ID:tdbvSI) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:3a3y6T) Monday February 13 -- 09:00 AM] Activity: Latoya is taking a break and having breakfast
+[(ID:bJl2p0) Monday February 13 -- 10:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:xQdSQI) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:ks5K4v) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:8r1VC8) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:Ct2Vkx) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:zfYxgE) Monday February 13 -- 03:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:wSVk5K) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a walk outside to get some fresh air and inspiration
+[(ID:saxSEc) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:ZvRKx7) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:NTwWeI) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:zJzmi1) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:dvsK45) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to edit and organize her photos
+[(ID:OUMHIV) Monday February 13 -- 10:00 PM] Activity: Latoya is continuing to edit and organize her photos
+
+
+Here the originally intended hourly breakdown of Latoya's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) start editing and organizing her photos from her recent travels at 7:00 am, 3) take a break and have breakfast at 9:00 am, 4) continue editing and organizing photos until 12:00 pm, 5) have lunch at 12:30 pm, 6) research and gather information on the local mayoral candidates for the upcoming election at 1:00 pm, 7) continue editing and organizing photos at 2:00 pm, 8) take a break and go for a walk outside to get some fresh air and inspiration at 4:00 pm
+[(ID:cTBaWo) Monday February 13 -- 11:00 PM] Activity: Latoya is
+
+
+Output==================================================================
+continuing to edit and organize her photos
+
+
+plan-_determine_action
+plan-generate_task_decomp
+prompt template : persona/prompt_template/v2/task_decomp_v3.txt
+Prompt==================================================================
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing her morning routine, 07:00AM ~ 08:00AM, Latoya Williams is planning on editing and organizing her photos from her recent travels.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing her morning routine from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+
+
+Output==================================================================
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Latoya is washing her face and brushing her teeth. (duration in minutes: 10, minutes left: 45)
+3) Latoya is getting dressed. (duration in minutes: 10, minutes left: 35)
+4) Latoya is making her bed. (duration in minutes: 5, minutes left: 30)
+5) Latoya is preparing and eating breakfast. (duration in minutes: 15, minutes left: 15)
+6) Latoya is checking her phone and responding to any urgent messages or emails. (duration in minutes: 10, minutes left: 5)
+7) Latoya is packing her camera and other equipment into her bag. (duration in minutes: 5, minutes left: 0)
+
+
+plan-generate_action_sector
+prompt template : persona/prompt_template/v1/action_location_sector_v1.txt
+Prompt==================================================================
+Task -- choose an appropriate area  from the area options for a task at hand. 
+
+Sam Kim lives in {Sam Kim's house} that has Sam Kim's room, bathroom, kitchen.
+Sam Kim is currently in {Sam Kim's house} that has Sam Kim's room, bathroom, kitchen. 
+Area options: {Sam Kim's house, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Johnson Park, Harvey Oak Supply Store, The Willows Market and Pharmacy}.
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+For taking a walk, Sam Kim should go to the following area: {Johnson Park}
+---
+Jane Anderson lives in {Oak Hill College Student Dormatory} that has Jane Anderson's room.
+Jane Anderson is currently in {Oak Hill College} that has a classroom, library
+Area options: {Oak Hill College Student Dormatory, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Johnson Park, Harvey Oak Supply Store, The Willows Market and Pharmacy}. 
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+For eating dinner, Jane Anderson should go to the following area: {Hobbs Cafe}
+---
+Latoya Williams lives in {artist's co-living space} that has Latoya Williams's room, Latoya Williams's bathroom, kitchen, common room.
+Latoya Williams is currently in {artist's co-living space} that has Latoya Williams's room, Latoya Williams's bathroom, kitchen, common room. 
+Area options: {artist's co-living space, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Dorm for Oak Hill College, The Willows Market and Pharmacy, Harvey Oak Supply Store, Johnson Park}. 
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+Latoya Williams is sleeping. For sleeping, Latoya Williams should go to the following area: {
+
+
+Output==================================================================
+artist's co-living space}
+
+
+plan-generate_action_arena
+prompt template : persona/prompt_template/v1/action_location_object_vMar11.txt
+Prompt==================================================================
+Jane Anderson is in kitchen in Jane Anderson's house.
+Jane Anderson is going to Jane Anderson's house that has the following areas: {kitchen,  bedroom, bathroom}
+Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.
+For cooking, Jane Anderson should go to the following area in Jane Anderson's house:
+Answer: {kitchen}
+---
+Tom Watson is in common room in Tom Watson's apartment. 
+Tom Watson is going to Hobbs Cafe that has the following areas: {cafe}
+Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.
+For getting coffee, Tom Watson should go to the following area in Hobbs Cafe:
+Answer: {cafe}
+---
+
+Latoya Williams is going to artist's co-living space that has the following areas: {Latoya Williams's room, Latoya Williams's bathroom, kitchen, common room}
+* Stay in the current area if the activity can be done there. 
+* NEVER go into other people's rooms unless necessary.
+Latoya Williams is sleeping. For sleeping, Latoya Williams should go to the following area in artist's co-living space (MUST pick one of {Latoya Williams's room, Latoya Williams's bathroom, kitchen, common room}):
+Answer: {
+
+
+Output==================================================================
+Latoya Williams's room}
+
+
+plan-generate_action_game_object
+prompt template : persona/prompt_template/v1/action_object_v2.txt
+Prompt==================================================================
+Current activity: sleep in bed
+Objects available: {bed, easel, closet, painting}
+Pick ONE most relevant object from the objects available: bed
+---
+Current activity: painting
+Objects available: {easel, closet, sink, microwave}
+Pick ONE most relevant object from the objects available: easel
+---
+Current activity: cooking
+Objects available: {stove, sink, fridge, counter}
+Pick ONE most relevant object from the objects available: stove
+---
+Current activity: watch TV
+Objects available: {couch, TV, remote, coffee table}
+Pick ONE most relevant object from the objects available: TV
+---
+Current activity: study
+Objects available: {desk, computer, chair, bookshelf}
+Pick ONE most relevant object from the objects available: desk
+---
+Current activity: talk on the phone
+Objects available: {phone, charger, bed, nightstand}
+Pick ONE most relevant object from the objects available: phone
+---
+Current activity: sleeping
+Objects available: {bed, desk, shelf, closet}
+Pick ONE most relevant object from the objects available:
+
+
+Output==================================================================
+bed
+
+
+plan-generate_action_pronunciatio
+prompt template : persona/prompt_template/v3_ChatGPT/generate_pronunciatio_v1.txt
+Prompt==================================================================
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+
+
+Output==================================================================
+{"output": "😴"}
+
+
+plan-generate_action_event_triple
+prompt template : persona/prompt_template/v2/generate_event_triple_v1.txt
+Prompt==================================================================
+Task: Turn the input into (subject, predicate, object). 
+
+Input: Sam Johnson is eating breakfast. 
+Output: (Dolores Murphy, eat, breakfast) 
+--- 
+Input: Joon Park is brewing coffee.
+Output: (Joon Park, brew, coffee)
+---
+Input: Jane Cook is sleeping. 
+Output: (Jane Cook, is, sleep)
+---
+Input: Michael Bernstein is writing email on a computer. 
+Output: (Michael Bernstein, write, email)
+---
+Input: Percy Liang is teaching students in a classroom. 
+Output: (Percy Liang, teach, students)
+---
+Input: Merrie Morris is running on a treadmill. 
+Output: (Merrie Morris, run, treadmill)
+---
+Input: Latoya Williams is sleeping. 
+Output: (Latoya Williams,
+
+
+Output==================================================================
+is, sleep)
+
+
+plan-generate_act_obj_desc
+prompt template : persona/prompt_template/v3_ChatGPT/generate_obj_event_v1.txt
+Prompt==================================================================
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Latoya Williams is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+
+
+Output==================================================================
+{"output": "being used"}
+
+
+plan-generate_action_pronunciatio
+prompt template : persona/prompt_template/v3_ChatGPT/generate_pronunciatio_v1.txt
+Prompt==================================================================
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: being used
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+
+
+Output==================================================================
+{"output": "🤲"}
+
+
+plan-generate_act_obj_event_triple
+prompt template : persona/prompt_template/v2/generate_event_triple_v1.txt
+Prompt==================================================================
+Task: Turn the input into (subject, predicate, object). 
+
+Input: Sam Johnson is eating breakfast. 
+Output: (Dolores Murphy, eat, breakfast) 
+--- 
+Input: Joon Park is brewing coffee.
+Output: (Joon Park, brew, coffee)
+---
+Input: Jane Cook is sleeping. 
+Output: (Jane Cook, is, sleep)
+---
+Input: Michael Bernstein is writing email on a computer. 
+Output: (Michael Bernstein, write, email)
+---
+Input: Percy Liang is teaching students in a classroom. 
+Output: (Percy Liang, teach, students)
+---
+Input: Merrie Morris is running on a treadmill. 
+Output: (Merrie Morris, run, treadmill)
+---
+Input: bed is being used. 
+Output: (bed,
+
+
+Output==================================================================
+use, being)
+
+
+plan-_choose_retrieved
+reflect
+reflect-reflect
+reflect-reflection_trigger
+execute
+execute-execute
+perceive
+perceive-perceive
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+retrieve
+retrieve-retrieve
+plan
+plan-plan
+plan-_long_term_planning
+plan-generate_wake_up_hour
+prompt template : persona/prompt_template/v2/wake_up_hour_v1.txt
+Prompt==================================================================
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+In general, Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Rajiv's wake up hour:
+
+
+Output==================================================================
+9am
+
+
+plan-generate_first_daily_plan
+prompt template : persona/prompt_template/v2/daily_planning_v6.txt
+Prompt==================================================================
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+In general, Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Today is Monday February 13. Here is Rajiv's plan today in broad-strokes (with the time of the day. e.g., have a lunch at 12:00 pm, watch TV from 7 to 8 pm): 1) wake up and complete the morning routine at 9:00 am, 2)
+
+
+Output==================================================================
+have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm, 9) relax and unwind by watching TV or reading a book from 9:00 pm to 11:00 pm, 10) go to bed at midnight.
+
+
+plan-generate_hourly_schedule
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:yt5dqm) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:IsiLRU) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:XbSdtC) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:uKyuvv) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:8lde9F) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:zaPk7B) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:GRF3x5) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:DuieMJ) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:AUNlOT) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:2uTpSe) Monday February 13 -- 09:00 AM] Activity: Rajiv is
+
+
+Output==================================================================
+waking up and completing morning routine
+[(ID:AUSabD) Monday February 13 -- 09:30 AM] Activity: Rajiv is having breakfast
+[(ID:RTgq2J) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:ErJd0A) Monday February 13 -- 12:00 PM] Activity: Rajiv is taking a lunch break
+[(ID:UUqYCR) Monday February 13 -- 01:00 PM] Activity: Rajiv is continuing to work on his paintings
+[(ID:Lbstje) Monday February 13 -- 04:30 PM] Activity: Rajiv is taking a break to practice playing the guitar
+[(ID:QEsPCM) Monday February 13 -- 05:30 PM] Activity: Rajiv is having dinner
+[(ID:ualfi9) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:Cc8sbA) Monday February 13 -- 09:00 PM] Activity: Rajiv is ending his day and getting ready for bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:lSpNUB) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:tDorLx) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:kQkOCK) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:5zElFc) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:uuHHpa) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:lsvtU9) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:A0tN02) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:3BrroI) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:WMIEbE) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:pqMtNw) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:4cJmqU) Monday February 13 -- 10:00 AM] Activity: Rajiv is
+
+
+Output==================================================================
+working on his paintings at the artist co-living space
+[(ID:Bl3h2H) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:AmAEqmc) Monday February 13 -- 12:00 PM] Activity: Rajiv is taking a lunch break
+[(ID:Kj1AJU) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:3qrM2s) Monday February 13 -- 02:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:0xJ0FD) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:iPgFHq) Monday February 13 -- 04:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:COZCq2) Monday February 13 -- 05:00 PM] Activity: Rajiv is having dinner
+[(ID:XDuo5y) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:FnOH9f) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:YrsAi6) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:u7szqI) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:7kdhG7) Monday February 13 -- 10:00 PM] Activity: Rajiv is winding down for the day
+[(ID:JIF5Xi) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:2aaFMu) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:2Hgbh9) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:HJXeJQ) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:vWvl4K) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:cbOQtl) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:Y5IqmY) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:88mypZ) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:UmjW3q) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:Bh2nwL) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:8eVuPd) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:6YSIey) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:qc4N2v) Monday February 13 -- 11:00 AM] Activity: Rajiv is
+
+
+Output==================================================================
+working on his paintings at the artist co-living space
+[(ID:d9hkmL) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:byUBiR) Monday February 13 -- 01:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:O7hHHi) Monday February 13 -- 02:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:UXK7IE) Monday February 13 -- 03:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:Hqm0S8) Monday February 13 -- 04:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:zK4yBg) Monday February 13 -- 05:00 PM] Activity: Rajiv is having dinner
+[(ID:6Pilsl) Monday February 13 -- 06:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:Ukwvjt) Monday February 13 -- 07:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:IRvzGJ) Monday February 13 -- 08:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:jResolver) Monday February 13 -- 09:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:NCsvwx) Monday February 13 -- 10:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:t3c7VN) Monday February 13 -- 11:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:2CqY6S) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:L5PDSo) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:YBI2oT) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:X9o4FW) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:XHuHU8) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:xyKqvj) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:xqpkLN) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:B1SYNJ) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:c0zJQK) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:Kz9IKe) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:ErlVgi) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:KyClgy) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:pYE290) Monday February 13 -- 12:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+having lunch break
+[(ID:falixd) Monday February 13 -- 01:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:EyIYc4) Monday February 13 -- 02:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:KyNJLr) Monday February 13 -- 03:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:5f0dDf) Monday February 13 -- 04:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:KF2mind) Monday February 13 -- 05:00 PM] Activity: Rajiv is having dinner
+[(ID:nEfH7B) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:eQn7ki) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:6DNEW9) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:ZFuP9M) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:FXp9fO) Monday February 13 -- 10:00 PM] Activity: Rajiv is winding down for the day and getting ready for bed
+[(ID:NYs6v4) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:L68X4I) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:aEl8zu) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:gbjbNP) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:guFTXQ) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:7Xie1W) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:m7ogag) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:1wrRtt) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:fHubdj) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:AS3XCI) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:7Z4R0w) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:ycXgAj) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:O6TcRi) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:e04VPR) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:K57RWA) Monday February 13 -- 01:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+working on his paintings at the artist co-living space
+[(ID:mDkMra) Monday February 13 -- 02:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:AqjNLN) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:2DGvbO) Monday February 13 -- 04:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:GJetvQ) Monday February 13 -- 05:00 PM] Activity: Rajiv is having dinner
+[(ID:M0C0pk) Monday February 13 -- 06:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:MH9jrh) Monday February 13 -- 07:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:kR7Gj1) Monday February 13 -- 08:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:nWf47J) Monday February 13 -- 09:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:eB9vQn) Monday February 13 -- 10:00 PM] Activity: Rajiv is relaxing and unwinding before going to bed
+[(ID:tuv2zN) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:CSRgga) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:yB0Dei) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:KHeWGJ) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:REBqgu) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:FQ9N2M) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:glgxOe) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:chXNd6) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:Hd967W) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:jdexJw) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:7JCoVl) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:lc6n5u) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:HDzEuh) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:BlIx0y) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:LVDD6a) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:jedz8d) Monday February 13 -- 02:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+taking a break and practicing playing
+the guitar from 4:30 pm to 5:00 pm
+[(ID:iKdoyH) Monday February 13 -- 03:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:DaOijD) Monday February 13 -- 04:00 PM] Activity: Rajiv is continuing to work on his paintings at the artist co-living space
+[(ID:CXK8fS) Monday February 13 -- 05:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:E8NqHJ) Monday February 13 -- 06:00 PM] Activity: Rajiv is having dinner
+[(ID:O4NqWo) Monday February 13 -- 07:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:Bg5oSJ) Monday February 13 -- 08:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:4qpIlr) Monday February 13 -- 09:00 PM] Activity: Rajiv is spending the evening reviewing his artworks and preparing for his solo show
+[(ID:zLxiqP) Monday February 13 -- 10:00 PM] Activity: Rajiv is winding down and getting ready for bed
+[(ID:jwCt1H) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:wOK1Mw) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:IwtZDE) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:6EGvmX) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:hjCIrc) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:F7ky3J) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:9oZcpg) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:XiVYZt) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:UhErj3) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:U1U066) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:dNobgR) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:nY883x) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:edQOjp) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:tm4fTX) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:LsDOBV) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:Y1VZS8) Monday February 13 -- 02:00 PM] Activity: Rajiv is taking a break and practicing playing
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:BFjyHG) Monday February 13 -- 03:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+working on his paintings at the artist co-living space
+[(ID:fW7jBn) Monday February 13 -- 04:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:v2XoRr) Monday February 13 -- 05:00 PM] Activity: Rajiv is taking a break and practicing playing the guitar
+[(ID:iSxc5I) Monday February 13 -- 06:00 PM] Activity: Rajiv is having dinner
+[(ID:7i0VNV) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:mE8ERh) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:Wif4Vp) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:g7P3a5) Monday February 13 -- 10:00 PM] Activity: Rajiv is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:0UbH1D) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:kPpgB1) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:LLLfqt) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:3G2AFD) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:AFMav1) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:WQ5oBS) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:97S2OF) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:WRkj07) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:ul1Tp1) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:GUwtLg) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:N5CLIx) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:E1D1aL) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:rF45QU) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:CIh1vV) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:5pmWUL) Monday February 13 -- 02:00 PM] Activity: Rajiv is taking a break and practicing playing
+[(ID:OFzKuN) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:WVhf2s) Monday February 13 -- 04:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+working on his paintings at the artist co-living space
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:FLv8lP) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:TDgWYs) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:NTJ6HL) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:d8G0At) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:x3KIZ4) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:k4qWm0) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:G8WxKD) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:rxowjS) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:IXg2Z7) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:brzLqr) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:wTnafY) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:Ueout7) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:IzU7HN) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:cZyCMF) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:2DVJpS) Monday February 13 -- 02:00 PM] Activity: Rajiv is taking a break and practicing playing
+[(ID:eP3KOv) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:2RFcXd) Monday February 13 -- 04:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:umyAQu) Monday February 13 -- 05:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+eating dinner
+[(ID:Yqtg7Z) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:pSC6zG) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:ViVqDz) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:3QKb7m) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:rTks80) Monday February 13 -- 10:00 PM] Activity: Rajiv is winding down and getting ready for bed
+[(ID:nqM3HD) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to sleep.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:LlVvYU) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:tZlSdc) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:7TD47u) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:zBxDLW) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:CInoor) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:yQAeYC) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:qi3Vst) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:rVDEXO) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:z87S1x) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:UAUDVJ) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:Brmzr1) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:jCoiSb) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:6hKLKY) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:pIGqoV) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:pjvKIW) Monday February 13 -- 02:00 PM] Activity: Rajiv is taking a break and practicing playing
+[(ID:NR2MI3) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:Q5hgMX) Monday February 13 -- 04:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:cpV02V) Monday February 13 -- 05:00 PM] Activity: Rajiv is eating dinner
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:WXMFzQ) Monday February 13 -- 06:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+reviewing his artworks and preparing for his solo show
+[(ID:5Xylwl) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:7ZBm3s) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:JFhm4g) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:1QXhHZ) Monday February 13 -- 10:00 PM] Activity: Rajiv is winding down for the day
+[(ID:ChbRQG) Monday February 13 -- 11:00 PM] Activity: Rajiv is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:f2wjFk) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:z866aw) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:FGmPCQ) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:sHEyQi) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:t4Rplu) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:efHXzR) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:GhCSnR) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:a44qGC) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:eAGEav) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:qjhE6P) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:7TCLEA) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:QACLTQ) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:9XvZ6K) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:Ml50dn) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:jGy4hn) Monday February 13 -- 02:00 PM] Activity: Rajiv is taking a break and practicing playing
+[(ID:pykmsT) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:ht1HEG) Monday February 13 -- 04:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:f9d4fS) Monday February 13 -- 05:00 PM] Activity: Rajiv is eating dinner
+[(ID:Wez8lT) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:LZwGpZ) Monday February 13 -- 07:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+reviewing his artworks and preparing for his solo show.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:KLOHJj) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:nbCWDh) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:7GWvpJ) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:WWMZDu) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:EQdOIz) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:S65xnj) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:B1HMKN) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:JghmX3) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:b2tAQj) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:7qaymU) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:ddL2pi) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:pnDSgN) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:krj4rA) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:qS4KM1) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:uwbG09) Monday February 13 -- 02:00 PM] Activity: Rajiv is taking a break and practicing playing
+[(ID:DLITFI) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:c4fBqY) Monday February 13 -- 04:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:OzggSE) Monday February 13 -- 05:00 PM] Activity: Rajiv is eating dinner
+[(ID:Xaqpuv) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:cv2HCE) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:MTPP0W) Monday February 13 -- 08:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+reviewing his artworks and preparing for his solo show
+
+[(ID:bcBLj4) Monday February 13 -- 09:00 PM] Activity: Rajiv is relaxing and watching a movie
+
+[(ID:X6Zy5R) Monday February 13 -- 10:00 PM] Activity: Rajiv is going to bed
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:i7b05M) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:nEhS8H) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:MInbGe) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:UUu39O) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:AHwHrS) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:fBTHC6) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:Gpg5EL) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:htuuQv) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:fdEuhB) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:CfBk7w) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:R20nLe) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:0Je3cx) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:5ychPl) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:xGwU4H) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:v4hsAO) Monday February 13 -- 02:00 PM] Activity: Rajiv is taking a break and practicing playing
+[(ID:hJknIz) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:g7h896) Monday February 13 -- 04:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:sFuxUF) Monday February 13 -- 05:00 PM] Activity: Rajiv is eating dinner
+[(ID:kCfv54) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:h5fMVf) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:9ZHWMt) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:YrAE8c) Monday February 13 -- 09:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+reviewing his artworks and preparing for his solo show
+[(ID:uA5Ut1) Monday February 13 -- 10:00 PM] Activity: Rajiv is relaxing and unwinding from the day
+[(ID:AQH7wz) Monday February 13 -- 11:00 PM] Activity: Rajiv is getting ready for bed and winding down
+[(ID:hANeS0) Tuesday February 14 -- 00:00 AM] Activity: Rajiv is sleeping
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:wQfyE9) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:QV0k6i) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:YARgw8) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:LTCJzH) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:tHBz5t) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:GB6UfI) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:LzU9GN) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:LIsTyJ) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:EpIonZ) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:F7J8Rr) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:JbbGNq) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:e2Fg7P) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:MI7ahX) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:uGIP7w) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:47mOsA) Monday February 13 -- 02:00 PM] Activity: Rajiv is taking a break and practicing playing
+[(ID:DRQE1v) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:7D3J7f) Monday February 13 -- 04:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:A476C3) Monday February 13 -- 05:00 PM] Activity: Rajiv is eating dinner
+[(ID:SMAelA) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:IOQ31i) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:NaHKun) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:7DjmYG) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:67TB9X) Monday February 13 -- 10:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+reviewing his artworks and preparing for his solo show
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+[(ID:U3R6ZG) Monday February 13 -- 00:00 AM] Activity: Rajiv is sleeping
+[(ID:wIjtT4) Monday February 13 -- 01:00 AM] Activity: Rajiv is sleeping
+[(ID:oTQ2kO) Monday February 13 -- 02:00 AM] Activity: Rajiv is sleeping
+[(ID:ivAKhV) Monday February 13 -- 03:00 AM] Activity: Rajiv is sleeping
+[(ID:vh5s13) Monday February 13 -- 04:00 AM] Activity: Rajiv is sleeping
+[(ID:svsNfg) Monday February 13 -- 05:00 AM] Activity: Rajiv is sleeping
+[(ID:zjEuZ8) Monday February 13 -- 06:00 AM] Activity: Rajiv is sleeping
+[(ID:2jU2jf) Monday February 13 -- 07:00 AM] Activity: Rajiv is sleeping
+[(ID:Ws6cuM) Monday February 13 -- 08:00 AM] Activity: Rajiv is sleeping
+[(ID:Z7xujo) Monday February 13 -- 09:00 AM] Activity: Rajiv is waking up and completing morning routine
+[(ID:hHYBmZ) Monday February 13 -- 10:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:0isioV) Monday February 13 -- 11:00 AM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:XMJuhj) Monday February 13 -- 12:00 PM] Activity: Rajiv is having lunch break
+[(ID:q16lyl) Monday February 13 -- 01:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:0Z3Mxv) Monday February 13 -- 02:00 PM] Activity: Rajiv is taking a break and practicing playing
+[(ID:49dYZl) Monday February 13 -- 03:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:wDyAQu) Monday February 13 -- 04:00 PM] Activity: Rajiv is working on his paintings at the artist co-living space
+[(ID:ES1LEi) Monday February 13 -- 05:00 PM] Activity: Rajiv is eating dinner
+[(ID:HrZit5) Monday February 13 -- 06:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:c7zp7J) Monday February 13 -- 07:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:wcuF15) Monday February 13 -- 08:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:1e2BWC) Monday February 13 -- 09:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+[(ID:a9QsNZ) Monday February 13 -- 10:00 PM] Activity: Rajiv is reviewing his artworks and preparing for his solo show
+
+
+Here the originally intended hourly breakdown of Rajiv's schedule today: 1) wake up and complete the morning routine at 9:00 am, 2) have breakfast at 9:30 am, 3) spend the morning working on his paintings at the artist co-living space from 10:00 am to 12:00 pm, 4) have lunch break from 12:00 pm to 1:00 pm, 5) continue working on paintings from 1:00 pm to 4:30 pm, 6) take a break and practice playing the guitar from 4:30 pm to 5:00 pm, 7) have dinner at 5:30 pm, 8) spend the evening reviewing his artworks and preparing for his solo show from 6:00 pm to 9:00 pm
+[(ID:cm8bkc) Monday February 13 -- 11:00 PM] Activity: Rajiv is
+
+
+Output==================================================================
+reviewing his artworks and preparing for his solo show.
+
+
+
+
+plan-_determine_action
+plan-generate_task_decomp
+prompt template : persona/prompt_template/v2/task_decomp_v3.txt
+Prompt==================================================================
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Rajiv Patel
+Age: 27
+Innate traits: patient, reliable, cheerful
+Learned traits: Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.
+Currently: Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.
+Lifestyle: Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 09:00AM, Rajiv Patel is planning on sleeping, 09:00AM ~ 10:00AM, Rajiv Patel is planning on waking up and completing morning routine, 10:00AM ~ 12:00PM, Rajiv Patel is planning on working on his paintings at the artist co-living space.
+In 5 min increments, list the subtasks Rajiv does when Rajiv is waking up and completing morning routine from 09:00AM ~ 10:00AM (total duration in minutes 60): 
+1) Rajiv is
+
+
+Output==================================================================
+waking up and stretching. (duration in minutes: 5, minutes left: 55)
+2) Rajiv is brushing his teeth. (duration in minutes: 2, minutes left: 53)
+3) Rajiv is washing his face. (duration in minutes: 2, minutes left: 51)
+4) Rajiv is taking a shower. (duration in minutes: 10, minutes left: 41)
+5) Rajiv is getting dressed. (duration in minutes: 5, minutes left: 36)
+6) Rajiv is combing his hair. (duration in minutes: 2, minutes left: 34)
+7) Rajiv is preparing and eating breakfast. (duration in minutes: 15, minutes left: 19)
+8) Rajiv is making his bed. (duration in minutes: 5, minutes left: 14)
+9) Rajiv is checking his emails. (duration in minutes: 5, minutes left: 9)
+10) Rajiv is packing his painting supplies. (duration in minutes: 5, minutes left: 4)
+11) Rajiv is putting on his shoes and grabbing his coat. (duration in minutes: 2, minutes left: 2)
+12) Rajiv is leaving the house and locking the door. (duration in minutes: 2, minutes left: 0)
+
+
+plan-generate_action_sector
+prompt template : persona/prompt_template/v1/action_location_sector_v1.txt
+Prompt==================================================================
+Task -- choose an appropriate area  from the area options for a task at hand. 
+
+Sam Kim lives in {Sam Kim's house} that has Sam Kim's room, bathroom, kitchen.
+Sam Kim is currently in {Sam Kim's house} that has Sam Kim's room, bathroom, kitchen. 
+Area options: {Sam Kim's house, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Johnson Park, Harvey Oak Supply Store, The Willows Market and Pharmacy}.
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+For taking a walk, Sam Kim should go to the following area: {Johnson Park}
+---
+Jane Anderson lives in {Oak Hill College Student Dormatory} that has Jane Anderson's room.
+Jane Anderson is currently in {Oak Hill College} that has a classroom, library
+Area options: {Oak Hill College Student Dormatory, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Johnson Park, Harvey Oak Supply Store, The Willows Market and Pharmacy}. 
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+For eating dinner, Jane Anderson should go to the following area: {Hobbs Cafe}
+---
+Rajiv Patel lives in {artist's co-living space} that has Rajiv Patel's room, Rajiv Patel's bathroom, kitchen, common room, Latoya Williams's room, Latoya Williams's bathroom.
+Rajiv Patel is currently in {artist's co-living space} that has Rajiv Patel's room, Rajiv Patel's bathroom, kitchen, common room, Latoya Williams's room, Latoya Williams's bathroom. 
+Area options: {artist's co-living space, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Dorm for Oak Hill College, The Willows Market and Pharmacy, Harvey Oak Supply Store, Johnson Park}. 
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+Rajiv Patel is sleeping. For sleeping, Rajiv Patel should go to the following area: {
+
+
+Output==================================================================
+Rajiv Patel's room}
+
+
+plan-generate_action_arena
+prompt template : persona/prompt_template/v1/action_location_object_vMar11.txt
+Prompt==================================================================
+Jane Anderson is in kitchen in Jane Anderson's house.
+Jane Anderson is going to Jane Anderson's house that has the following areas: {kitchen,  bedroom, bathroom}
+Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.
+For cooking, Jane Anderson should go to the following area in Jane Anderson's house:
+Answer: {kitchen}
+---
+Tom Watson is in common room in Tom Watson's apartment. 
+Tom Watson is going to Hobbs Cafe that has the following areas: {cafe}
+Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.
+For getting coffee, Tom Watson should go to the following area in Hobbs Cafe:
+Answer: {cafe}
+---
+
+Rajiv Patel is going to artist's co-living space that has the following areas: {Rajiv Patel's room, Rajiv Patel's bathroom, kitchen, common room, Latoya Williams's bathroom}
+* Stay in the current area if the activity can be done there. 
+* NEVER go into other people's rooms unless necessary.
+Rajiv Patel is sleeping. For sleeping, Rajiv Patel should go to the following area in artist's co-living space (MUST pick one of {Rajiv Patel's room, Rajiv Patel's bathroom, kitchen, common room, Latoya Williams's bathroom}):
+Answer: {
+
+
+Output==================================================================
+Rajiv Patel's room}
+
+
+plan-generate_action_game_object
+prompt template : persona/prompt_template/v1/action_object_v2.txt
+Prompt==================================================================
+Current activity: sleep in bed
+Objects available: {bed, easel, closet, painting}
+Pick ONE most relevant object from the objects available: bed
+---
+Current activity: painting
+Objects available: {easel, closet, sink, microwave}
+Pick ONE most relevant object from the objects available: easel
+---
+Current activity: cooking
+Objects available: {stove, sink, fridge, counter}
+Pick ONE most relevant object from the objects available: stove
+---
+Current activity: watch TV
+Objects available: {couch, TV, remote, coffee table}
+Pick ONE most relevant object from the objects available: TV
+---
+Current activity: study
+Objects available: {desk, computer, chair, bookshelf}
+Pick ONE most relevant object from the objects available: desk
+---
+Current activity: talk on the phone
+Objects available: {phone, charger, bed, nightstand}
+Pick ONE most relevant object from the objects available: phone
+---
+Current activity: sleeping
+Objects available: {bed, easel, closet, guitar}
+Pick ONE most relevant object from the objects available:
+
+
+Output==================================================================
+bed
+
+
+plan-generate_action_pronunciatio
+prompt template : persona/prompt_template/v3_ChatGPT/generate_pronunciatio_v1.txt
+Prompt==================================================================
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+
+
+Output==================================================================
+{"output": "😴"}
+
+
+plan-generate_action_event_triple
+prompt template : persona/prompt_template/v2/generate_event_triple_v1.txt
+Prompt==================================================================
+Task: Turn the input into (subject, predicate, object). 
+
+Input: Sam Johnson is eating breakfast. 
+Output: (Dolores Murphy, eat, breakfast) 
+--- 
+Input: Joon Park is brewing coffee.
+Output: (Joon Park, brew, coffee)
+---
+Input: Jane Cook is sleeping. 
+Output: (Jane Cook, is, sleep)
+---
+Input: Michael Bernstein is writing email on a computer. 
+Output: (Michael Bernstein, write, email)
+---
+Input: Percy Liang is teaching students in a classroom. 
+Output: (Percy Liang, teach, students)
+---
+Input: Merrie Morris is running on a treadmill. 
+Output: (Merrie Morris, run, treadmill)
+---
+Input: Rajiv Patel is sleeping. 
+Output: (Rajiv Patel,
+
+
+Output==================================================================
+sleep, None)
+
+
+plan-generate_act_obj_desc
+prompt template : persona/prompt_template/v3_ChatGPT/generate_obj_event_v1.txt
+Prompt==================================================================
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Rajiv Patel is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+
+
+Output==================================================================
+{"output": "being slept on"}
+
+
+plan-generate_action_pronunciatio
+prompt template : persona/prompt_template/v3_ChatGPT/generate_pronunciatio_v1.txt
+Prompt==================================================================
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: being slept on
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+
+
+Output==================================================================
+{"output": "😴"}
+
+
+plan-generate_act_obj_event_triple

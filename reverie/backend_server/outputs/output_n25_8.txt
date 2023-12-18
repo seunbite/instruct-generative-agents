@@ -1,0 +1,50 @@
+Note: The agents in this simulation package are computational
+constructs powered by generative agents architecture and LLM. We
+clarify that these agents lack human-like agency, consciousness,
+and independent decision-making.
+---
+CURRENT TIME IS: 10000
+CURRENT ENV FILE IS: ../../environment/frontend_server/storage/n_25_8/environment/0.json
+Latoya Williams movement start
+perceive
+retrieve
+plan
+new_day First day
+saved
+daily req:  ['wake up and complete the morning routine at 6:00 am', 'have breakfast at 6:30 am', 'review and edit photos from her recent travels at 7:00 am', 'attend a photography workshop at 9:00 am', 'have lunch at 12:00 pm', 'continue working on editing photos at 1:00 pm', 'have a conversation with others about the local mayor election at 3:00 pm', 'go for a walk to get inspiration for her photography at 4:00 pm']
+n_m1_activity_set set()
+len of n_m1_activity_set 0
+This model's maximum context length is 4097 tokens. However, your messages resulted in 4124 tokens. Please reduce the length of the messages.
+ChatGPT ERROR
+Traceback (most recent call last):
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 628, in <module>
+    rs.open_server()
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 441, in open_server
+    rs.start_server(10000)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 383, in start_server
+    next_tile, pronunciatio, description = persona.move(
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 242, in move
+    plan = self.plan(maze, personas, new_day, retrieved, sim_folder)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 38, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 160, in plan
+    return plan(self, maze, personas, new_day, retrieved, sim_folder)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 1013, in plan
+    _long_term_planning(persona, new_day, sim_folder)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 535, in _long_term_planning
+    persona.scratch.f_daily_schedule = generate_hourly_schedule(persona, 
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 132, in generate_hourly_schedule
+    n_m1_activity += [run_gpt_prompt_generate_hourly_schedule(
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/run_gpt_prompt.py", line 261, in run_gpt_prompt_generate_hourly_schedule
+    output = safe_generate_response(prompt, gpt_param, 5, fail_safe,
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/gpt_structure.py", line 324, in safe_generate_response
+    curr_gpt_response, _ = GPT_request_edit(prompt, gpt_parameter, prompt_template=prompt_template)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/gpt_structure.py", line 19, in wrapper
+    output, prompt_template=func(prompt, gpt_parameter, prompt_template)
+ValueError: too many values to unpack (expected 2)

@@ -1,0 +1,273 @@
+Note: The agents in this simulation package are computational
+constructs powered by generative agents architecture and LLM. We
+clarify that these agents lack human-like agency, consciousness,
+and independent decision-making.
+---
+CURRENT TIME IS: 10000
+CURRENT ENV FILE IS: ../../environment/frontend_server/storage/n_25_3/environment/0.json
+Latoya Williams movement start
+perceive
+retrieve
+plan
+new_day First day
+---
+curr_gpt_response 6am
+---
+curr_gpt_response work on editing and organizing her photos from 7:00 am to 10:00 am, 3) have a breakfast at 10:00 am, 4) continue working on her photography series from 11:00 am to 1:00 pm, 5) have a lunch break at 1:00 pm, 6) research and gather information about the upcoming local mayor election from 2:00 pm to 4:00 pm, 7) have a short coffee break at 4:00 pm, 8) continue working on her photography series from 4:30 pm to 7:00 pm, 9) have a dinner at 7:00 pm, 10) take a break and have some leisure time from 7:30 pm to 9:00 pm, 11) get ready for bed and wind down from 9:00 pm to 10:00 pm, and finally 12) go to bed at 10:00 pm.
+hour: 06:00 AM GPT prompting
+---
+curr_gpt_response waking up and completing her morning routine
+[(ID:PGe0yC) Monday February 13 -- 07:00 AM] Activity: Latoya is working on editing and organizing her photos
+[(ID:NzN5eB) Monday February 13 -- 08:00 AM] Activity: Latoya is working on editing and organizing her photos
+[(ID:bpwyOO) Monday February 13 -- 09:00 AM] Activity: Latoya is working on editing and organizing her photos
+[(ID:WozeWE) Monday February 13 -- 10:00 AM] Activity: Latoya is having breakfast
+[(ID:yEhhsC) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZwsKb1) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:QukHCG) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:rCoAqG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:8CeKwG) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:IeR3t0) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:6iIHq0) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:qc3vX0) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:FgZRp0) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:lsBn30) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:Ilx8T0) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:IULYU1) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:q1JxY0) Monday February 13 -- 10:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:Jc4lg1) Monday February 13 -- 11:00 PM] Activity: Latoya is continuing to work on her photography series
+in run_gpt_prompt_generate_hourly_schedule,  waking up and completing her morning routine
+[(ID:PGe0yC) Monday February 13 -- 07:00 AM] Activity: Latoya is working on editing and organizing her photos
+[(ID:NzN5eB) Monday February 13 -- 08:00 AM] Activity: Latoya is working on editing and organizing her photos
+[(ID:bpwyOO) Monday February 13 -- 09:00 AM] Activity: Latoya is working on editing and organizing her photos
+[(ID:WozeWE) Monday February 13 -- 10:00 AM] Activity: Latoya is having breakfast
+[(ID:yEhhsC) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to work on her photography series
+[(ID:ZwsKb1) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:QukHCG) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:rCoAqG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:8CeKwG) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:IeR3t0) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:6iIHq0) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:qc3vX0) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:FgZRp0) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:lsBn30) Monday February 13 -- 07:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:Ilx8T0) Monday February 13 -- 08:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:IULYU1) Monday February 13 -- 09:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:q1JxY0) Monday February 13 -- 10:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:Jc4lg1) Monday February 13 -- 11:00 PM] Activity: Latoya is continuing to work on her photography series
+hour: 07:00 AM GPT prompting
+---
+curr_gpt_response working on organizing and editing her photos
+[(ID:7rZcdv) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to work on organizing and editing her photos
+[(ID:biCzdG) Monday February 13 -- 09:00 AM] Activity: Latoya is continuing to work on organizing and editing her photos
+[(ID:wZCZzv) Monday February 13 -- 10:00 AM] Activity: Latoya is having breakfast
+[(ID:XDYxdG) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to work on her photography series
+[(ID:p6CZzv) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:GTAyWG) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:D4ByWG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:OD6WWG) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:ZDKOXG) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:vMEOXG) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:hMEOXG) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:KcMOXG) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+in run_gpt_prompt_generate_hourly_schedule,  working on organizing and editing her photos
+[(ID:7rZcdv) Monday February 13 -- 08:00 AM] Activity: Latoya is continuing to work on organizing and editing her photos
+[(ID:biCzdG) Monday February 13 -- 09:00 AM] Activity: Latoya is continuing to work on organizing and editing her photos
+[(ID:wZCZzv) Monday February 13 -- 10:00 AM] Activity: Latoya is having breakfast
+[(ID:XDYxdG) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to work on her photography series
+[(ID:p6CZzv) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:GTAyWG) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:D4ByWG) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:OD6WWG) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:ZDKOXG) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:vMEOXG) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:hMEOXG) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:KcMOXG) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+hour: 08:00 AM GPT prompting
+---
+curr_gpt_response continuing to work on organizing and editing her photos.
+[(ID:OMicu4) Monday February 13 -- 09:00 AM] Activity: Latoya is continuing to work on organizing and editing her photos.
+[(ID:NnYQu4) Monday February 13 -- 10:00 AM] Activity: Latoya is having breakfast.
+[(ID:hpyQu4) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to work on her photography series.
+[(ID:i0SQu4) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:OsUQu4) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch.
+[(ID:WAUQu4) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election.
+[(ID:4wXQu4) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election.
+[(ID:mcaQu4) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break.
+[(ID:kqZQu4) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:nSTQu4) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:9XUQu4) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series.
+in run_gpt_prompt_generate_hourly_schedule,  continuing to work on organizing and editing her photos.
+[(ID:OMicu4) Monday February 13 -- 09:00 AM] Activity: Latoya is continuing to work on organizing and editing her photos.
+[(ID:NnYQu4) Monday February 13 -- 10:00 AM] Activity: Latoya is having breakfast.
+[(ID:hpyQu4) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to work on her photography series.
+[(ID:i0SQu4) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:OsUQu4) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch.
+[(ID:WAUQu4) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election.
+[(ID:4wXQu4) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election.
+[(ID:mcaQu4) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break.
+[(ID:kqZQu4) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:nSTQu4) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:9XUQu4) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+hour: 09:00 AM GPT prompting
+---
+curr_gpt_response continuing to work on organizing and editing her photos
+[(ID:350YLK) Monday February 13 -- 10:00 AM] Activity: Latoya is having breakfast.
+[(ID:450YLK) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to work on her photography series.
+[(ID:550YLK) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:650YLK) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch.
+[(ID:750YLK) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election.
+[(ID:850YLK) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election.
+[(ID:950YLK) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break.
+[(ID:a50YLK) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:b50YLK) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:c50YLK) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series.
+in run_gpt_prompt_generate_hourly_schedule,  continuing to work on organizing and editing her photos
+[(ID:350YLK) Monday February 13 -- 10:00 AM] Activity: Latoya is having breakfast.
+[(ID:450YLK) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to work on her photography series.
+[(ID:550YLK) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:650YLK) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch.
+[(ID:750YLK) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election.
+[(ID:850YLK) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election.
+[(ID:950YLK) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break.
+[(ID:a50YLK) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:b50YLK) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series.
+[(ID:c50YLK) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+hour: 10:00 AM GPT prompting
+---
+curr_gpt_response having breakfast
+[(ID:virudi) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to work on her photography series
+[(ID:viruaf) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:viruej) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:viru2k) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:viru3l) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:viru4m) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:viru5t) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:virusf) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:virudu) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+
+This schedule is based on the activities and habits described in the provided information. The schedule includes specific times for sleeping, waking up, working on photography, meals, and researching the local mayor election.
+in run_gpt_prompt_generate_hourly_schedule,  having breakfast
+[(ID:virudi) Monday February 13 -- 11:00 AM] Activity: Latoya is continuing to work on her photography series
+[(ID:viruaf) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:viruej) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:viru2k) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:viru3l) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:viru4m) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:viru5t) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:virusf) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:virudu) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+
+This schedule is based on the activities and habits described in the provided information. The schedule includes specific times for sleeping, waking up, working on photography, meals, and researching the local mayor election
+hour: 11:00 AM GPT prompting
+---
+curr_gpt_response continuing to work on her photography series
+[(ID:7QRoM9) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:D7GJy9) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:IN8-K9) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:9IFk-K) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:dofv-K) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:E7A0aK) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:2ZVP-K) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:5X-EL8) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+in run_gpt_prompt_generate_hourly_schedule,  continuing to work on her photography series
+[(ID:7QRoM9) Monday February 13 -- 12:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:D7GJy9) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:IN8-K9) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:9IFk-K) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:dofv-K) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:E7A0aK) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:2ZVP-K) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:5X-EL8) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+hour: 12:00 PM GPT prompting
+---
+curr_gpt_response continuing to work on her photography series
+[(ID:kFdIjP) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:1fHNfP) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:CzsKL4) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:bb60QD) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:fVMhQL) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:cD7TSQ) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:hAhcTQ) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+in run_gpt_prompt_generate_hourly_schedule,  continuing to work on her photography series
+[(ID:kFdIjP) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch
+[(ID:1fHNfP) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:CzsKL4) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:bb60QD) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:fVMhQL) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:cD7TSQ) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:hAhcTQ) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+hour: 01:00 PM GPT prompting
+---
+curr_gpt_response having lunch
+[(ID:HaiRHR) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:BruNkR) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:WRfRwR) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:vZfRwR) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:PbfZAR) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:03uVAR) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+in run_gpt_prompt_generate_hourly_schedule,  having lunch
+[(ID:HaiRHR) Monday February 13 -- 02:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:BruNkR) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:WRfRwR) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:vZfRwR) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:PbfZAR) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:03uVAR) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+hour: 02:00 PM GPT prompting
+---
+curr_gpt_response researching and gathering information about the upcoming local mayor election
+[(ID:fanv7C) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:O8QYim) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:gFnzDm) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:RUn1m9) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:bUnJm9) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+in run_gpt_prompt_generate_hourly_schedule,  researching and gathering information about the upcoming local mayor election
+[(ID:fanv7C) Monday February 13 -- 03:00 PM] Activity: Latoya is researching and gathering information about the upcoming local mayor election
+[(ID:O8QYim) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:gFnzDm) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:RUn1m9) Monday February 13 -- 05:00 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:bUnJm9) Monday February 13 -- 06:00 PM] Activity: Latoya is continuing to work on her photography series
+hour: 03:00 PM GPT prompting
+---
+curr_gpt_response researching and gathering information about the upcoming local mayor election
+[(ID:Cgersx) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:ozhSyx) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:V8jGy0) Monday February 13 -- 05:00 PM] Activity
+in run_gpt_prompt_generate_hourly_schedule,  researching and gathering information about the upcoming local mayor election
+[(ID:Cgersx) Monday February 13 -- 04:00 PM] Activity: Latoya is having a short coffee break
+[(ID:ozhSyx) Monday February 13 -- 04:30 PM] Activity: Latoya is continuing to work on her photography series
+[(ID:V8jGy0) Monday February 13 -- 05:00 PM] Activity
+hour: 04:00 PM GPT prompting
+This model's maximum context length is 4097 tokens. However, your messages resulted in 4127 tokens. Please reduce the length of the messages.
+ChatGPT ERROR
+Traceback (most recent call last):
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 628, in <module>
+    rs.open_server()
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 441, in open_server
+    rs.start_server(10000)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 383, in start_server
+    next_tile, pronunciatio, description = persona.move(
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 242, in move
+    plan = self.plan(maze, personas, new_day, retrieved)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 38, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 160, in plan
+    return plan(self, maze, personas, new_day, retrieved)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 29, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 992, in plan
+    _long_term_planning(persona, new_day)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 29, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 515, in _long_term_planning
+    persona.scratch.f_daily_schedule = generate_hourly_schedule(persona, 
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 29, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 129, in generate_hourly_schedule
+    n_m1_activity += [run_gpt_prompt_generate_hourly_schedule(
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/run_gpt_prompt.py", line 261, in run_gpt_prompt_generate_hourly_schedule
+    output = safe_generate_response(prompt, gpt_param, 5, fail_safe,
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/gpt_structure.py", line 324, in safe_generate_response
+    curr_gpt_response, _ = GPT_request_edit(prompt, gpt_parameter, prompt_template=prompt_template)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/gpt_structure.py", line 19, in wrapper
+    output, prompt_template=func(prompt, gpt_parameter, prompt_template)
+ValueError: too many values to unpack (expected 2)

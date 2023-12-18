@@ -1,0 +1,466 @@
+Note: The agents in this simulation package are computational
+constructs powered by generative agents architecture and LLM. We
+clarify that these agents lack human-like agency, consciousness,
+and independent decision-making.
+---
+CURRENT TIME IS: 10000
+CURRENT ENV FILE IS: ../../environment/frontend_server/storage/n_25_5/environment/0.json
+Latoya Williams movement start
+perceive
+retrieve
+plan
+new_day First day
+---
+---
+daily req:  ['wake up and complete the morning routine at 6:00 am', 'have breakfast at 6:30 am', 'review and edit photos from her recent travels from 7:00 am to 10:00 am', 'attend a photography workshop at 11:00 am', 'have lunch at 1:00 pm', 'continue working on her photography series at the co-living space from 2:00 pm to 4:30 pm', 'take a break and have a coffee with a friend at 5:00 pm', 'engage in conversations about the upcoming mayoral election at 6:00 pm']
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+daily schedule:  [['sleeping', 360], ['waking up and completing the morning routine\n[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast\n[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch\n[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election', 60], ['reviewing and editing photos', 60], ['taking a break and going for a walk\n[(ID:XVsJnn) Monday February 13 -- 09:00 AM] Activity: Latoya is attending a meeting with potential clients\n[(ID:XVsJnn) Monday February 13 -- 10:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:XVsJnn) Monday February 13 -- 11:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:XVsJnn) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch\n[(ID:XVsJnn) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing work on her photography series\n[(ID:XVsJnn) Monday February 13 -- 02:30 PM] Activity: Latoya is meeting with fellow photographers for a critique session\n[(ID:XVsJnn) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a coffee with a friend\n[(ID:XVsJnn) Monday February 13 -- 05:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election\n[(ID:XVsJnn) Monday February 13 -- 06:00 PM] Activity: Latoya is working on her photography series\n[(ID:XVsJnn) Monday February 13 -- 07:30 PM] Activity: Latoya is having dinner\n[(ID:XVsJnn) Monday February 13 -- 08:30 PM] Activity: Latoya is attending a photography exhibition\n[(ID:XVsJnn) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60], ['attending a meeting with potential clients', 60], ['attending a photography workshop\n[(ID:RIhAV7) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch\n[(ID:K9CTF9) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing work on her photography series at the co-living space\n[(ID:gG6wBk) Monday February 13 -- 04:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:DUutoA) Monday February 13 -- 06:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election', 60], ['attending a photography workshop', 60], ['having lunch\n[(ID:wCkvjo) Monday February 13 -- 03:00 PM] Activity: Latoya is attending a photography workshop\n[(ID:wCkvjo) Monday February 13 -- 06:00 PM] Activity: Latoya is working on her photography series\n[(ID:wCkvjo) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down and preparing for bed', 60], ['continuing work on her photography series at the co-living space', 60], ['working on her photography series at the co-living space', 60], ['attending a photography workshop\n[(ID:Ql0MWL) Monday February 13 -- 04:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:Ql0MWL) Monday February 13 -- 06:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election', 60], ['taking a break and going for a walk\n[(ID:cLf8DE) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner\n[(ID:cLf8DE) Monday February 13 -- 08:00 PM] Activity: Latoya is attending a photography exhibition\n[(ID:cLf8DE) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60], ['attending a networking event for photographers\n[(ID:ExP2eq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner\n[(ID:ExP2eq) Monday February 13 -- 08:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:ExP2eq) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60], ['attending a photography workshop', 60], ['having dinner, 9) review and edit photos from 7:00 pm to 8:30 pm, 10) attend a photography exhibition at 8:30 pm, 11) wind down and prepare for bed at 10:00 pm', 60], ['attending a photography exhibition\n[(ID:lTRAyv) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60], ['winding down and preparing for bed', 180]]
+DEBUG
+[['sleeping', 360], ['waking up and completing the morning routine\n[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast\n[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch\n[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election', 60], ['reviewing and editing photos', 60], ['taking a break and going for a walk\n[(ID:XVsJnn) Monday February 13 -- 09:00 AM] Activity: Latoya is attending a meeting with potential clients\n[(ID:XVsJnn) Monday February 13 -- 10:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:XVsJnn) Monday February 13 -- 11:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:XVsJnn) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch\n[(ID:XVsJnn) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing work on her photography series\n[(ID:XVsJnn) Monday February 13 -- 02:30 PM] Activity: Latoya is meeting with fellow photographers for a critique session\n[(ID:XVsJnn) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a coffee with a friend\n[(ID:XVsJnn) Monday February 13 -- 05:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election\n[(ID:XVsJnn) Monday February 13 -- 06:00 PM] Activity: Latoya is working on her photography series\n[(ID:XVsJnn) Monday February 13 -- 07:30 PM] Activity: Latoya is having dinner\n[(ID:XVsJnn) Monday February 13 -- 08:30 PM] Activity: Latoya is attending a photography exhibition\n[(ID:XVsJnn) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60], ['attending a meeting with potential clients', 60], ['attending a photography workshop\n[(ID:RIhAV7) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch\n[(ID:K9CTF9) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing work on her photography series at the co-living space\n[(ID:gG6wBk) Monday February 13 -- 04:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:DUutoA) Monday February 13 -- 06:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election', 60], ['attending a photography workshop', 60], ['having lunch\n[(ID:wCkvjo) Monday February 13 -- 03:00 PM] Activity: Latoya is attending a photography workshop\n[(ID:wCkvjo) Monday February 13 -- 06:00 PM] Activity: Latoya is working on her photography series\n[(ID:wCkvjo) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down and preparing for bed', 60], ['continuing work on her photography series at the co-living space', 60], ['working on her photography series at the co-living space', 60], ['attending a photography workshop\n[(ID:Ql0MWL) Monday February 13 -- 04:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:Ql0MWL) Monday February 13 -- 06:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election', 60], ['taking a break and going for a walk\n[(ID:cLf8DE) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner\n[(ID:cLf8DE) Monday February 13 -- 08:00 PM] Activity: Latoya is attending a photography exhibition\n[(ID:cLf8DE) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60], ['attending a networking event for photographers\n[(ID:ExP2eq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner\n[(ID:ExP2eq) Monday February 13 -- 08:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:ExP2eq) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60], ['attending a photography workshop', 60], ['having dinner, 9) review and edit photos from 7:00 pm to 8:30 pm, 10) attend a photography exhibition at 8:30 pm, 11) wind down and prepare for bed at 10:00 pm', 60], ['attending a photography exhibition\n[(ID:lTRAyv) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60], ['winding down and preparing for bed', 180]]
+[0, 1, 2]
+index 0
+index 1
+index 2
+?????
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing the morning routine
+[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast
+[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos
+[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop
+[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch
+[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space
+[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend
+[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election, 07:00AM ~ 08:00AM, Latoya Williams is planning on reviewing and editing photos.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing the morning routine
+[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast
+[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos
+[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop
+[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch
+[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space
+[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend
+[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+---
+run_gpt_prompt_task_decomp PROMPT
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing the morning routine
+[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast
+[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos
+[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop
+[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch
+[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space
+[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend
+[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election, 07:00AM ~ 08:00AM, Latoya Williams is planning on reviewing and editing photos.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing the morning routine
+[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast
+[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos
+[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop
+[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch
+[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space
+[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend
+[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+run_gpt_prompt_task_decomp RESPONSE
+waking up and getting out of bed. (duration in minutes: 5, minutes left: 55)
+2) Latoya is brushing her teeth and washing her face. (duration in minutes: 5, minutes left: 50)
+3) Latoya is getting dressed. (duration in minutes: 5, minutes left: 45)
+4) Latoya is making her bed. (duration in minutes: 5, minutes left: 40)
+5) Latoya is preparing her breakfast. (duration in minutes: 10, minutes left: 30)
+6) Latoya is eating her breakfast. (duration in minutes: 10, minutes left: 20)
+7) Latoya is cleaning up her breakfast dishes. (duration in minutes: 5, minutes left: 15)
+8) Latoya is reviewing and editing photos. (duration in minutes: 30, minutes left: -15)
+-==- -==- -==- 
+i waking up and getting out of bed. (duration in minutes: 5, minutes left: 55)
+k ['waking up and getting out of bed.', '5, minutes left: 55)']
+cr [['waking up and getting out of bed', 5]]
+i brushing her teeth and washing her face. (duration in minutes: 5, minutes left: 50)
+k ['brushing her teeth and washing her face.', '5, minutes left: 50)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5]]
+i getting dressed. (duration in minutes: 5, minutes left: 45)
+k ['getting dressed.', '5, minutes left: 45)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5]]
+i making her bed. (duration in minutes: 5, minutes left: 40)
+k ['making her bed.', '5, minutes left: 40)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5]]
+i preparing her breakfast. (duration in minutes: 10, minutes left: 30)
+k ['preparing her breakfast.', '10, minutes left: 30)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5], ['preparing her breakfast', 10]]
+i eating her breakfast. (duration in minutes: 10, minutes left: 20)
+k ['eating her breakfast.', '10, minutes left: 20)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5], ['preparing her breakfast', 10], ['eating her breakfast', 10]]
+i cleaning up her breakfast dishes. (duration in minutes: 5, minutes left: 15)
+k ['cleaning up her breakfast dishes.', '5, minutes left: 15)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5], ['preparing her breakfast', 10], ['eating her breakfast', 10], ['cleaning up her breakfast dishes', 5]]
+i reviewing and editing photos. (duration in minutes: 30, minutes left: -15)
+k ['reviewing and editing photos.', '30, minutes left: -15)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5], ['preparing her breakfast', 10], ['eating her breakfast', 10], ['cleaning up her breakfast dishes', 5], ['reviewing and editing photos', 30]]
+~prompt~~
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing the morning routine
+[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast
+[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos
+[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop
+[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch
+[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space
+[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend
+[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election, 07:00AM ~ 08:00AM, Latoya Williams is planning on reviewing and editing photos.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing the morning routine
+[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast
+[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos
+[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop
+[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch
+[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space
+[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend
+[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+60
+total_expected_min 60
+['waking up and getting out of bed', 5]
+['brushing her teeth and washing her face', 5]
+['getting dressed', 5]
+['making her bed', 5]
+['preparing her breakfast', 10]
+['eating her breakfast', 10]
+['cleaning up her breakfast dishes', 5]
+['reviewing and editing photos', 30]
+run_gpt_prompt_task_decomp PROMPT
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing the morning routine
+[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast
+[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos
+[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop
+[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch
+[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space
+[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend
+[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election, 07:00AM ~ 08:00AM, Latoya Williams is planning on reviewing and editing photos.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing the morning routine
+[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast
+[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos
+[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop
+[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch
+[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space
+[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend
+[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+run_gpt_prompt_task_decomp RESPONSE
+waking up and getting out of bed. (duration in minutes: 5, minutes left: 55)
+2) Latoya is brushing her teeth and washing her face. (duration in minutes: 5, minutes left: 50)
+3) Latoya is getting dressed. (duration in minutes: 5, minutes left: 45)
+4) Latoya is making her bed. (duration in minutes: 5, minutes left: 40)
+5) Latoya is preparing her breakfast. (duration in minutes: 10, minutes left: 30)
+6) Latoya is eating her breakfast. (duration in minutes: 10, minutes left: 20)
+7) Latoya is cleaning up her breakfast dishes. (duration in minutes: 5, minutes left: 15)
+8) Latoya is reviewing and editing photos. (duration in minutes: 30, minutes left: -15)
+-==- -==- -==- 
+i waking up and getting out of bed. (duration in minutes: 5, minutes left: 55)
+k ['waking up and getting out of bed.', '5, minutes left: 55)']
+cr [['waking up and getting out of bed', 5]]
+i brushing her teeth and washing her face. (duration in minutes: 5, minutes left: 50)
+k ['brushing her teeth and washing her face.', '5, minutes left: 50)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5]]
+i getting dressed. (duration in minutes: 5, minutes left: 45)
+k ['getting dressed.', '5, minutes left: 45)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5]]
+i making her bed. (duration in minutes: 5, minutes left: 40)
+k ['making her bed.', '5, minutes left: 40)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5]]
+i preparing her breakfast. (duration in minutes: 10, minutes left: 30)
+k ['preparing her breakfast.', '10, minutes left: 30)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5], ['preparing her breakfast', 10]]
+i eating her breakfast. (duration in minutes: 10, minutes left: 20)
+k ['eating her breakfast.', '10, minutes left: 20)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5], ['preparing her breakfast', 10], ['eating her breakfast', 10]]
+i cleaning up her breakfast dishes. (duration in minutes: 5, minutes left: 15)
+k ['cleaning up her breakfast dishes.', '5, minutes left: 15)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5], ['preparing her breakfast', 10], ['eating her breakfast', 10], ['cleaning up her breakfast dishes', 5]]
+i reviewing and editing photos. (duration in minutes: 30, minutes left: -15)
+k ['reviewing and editing photos.', '30, minutes left: -15)']
+cr [['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5], ['preparing her breakfast', 10], ['eating her breakfast', 10], ['cleaning up her breakfast dishes', 5], ['reviewing and editing photos', 30]]
+~prompt~~
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Latoya Williams
+Age: 25
+Innate traits: organized, logical, attentive
+Learned traits: Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.
+Currently: Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.
+Lifestyle: Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Latoya Williams is planning on sleeping, 06:00AM ~ 07:00AM, Latoya Williams is planning on waking up and completing the morning routine
+[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast
+[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos
+[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop
+[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch
+[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space
+[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend
+[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election, 07:00AM ~ 08:00AM, Latoya Williams is planning on reviewing and editing photos.
+In 5 min increments, list the subtasks Latoya does when Latoya is waking up and completing the morning routine
+[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast
+[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos
+[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop
+[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch
+[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space
+[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend
+[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Latoya is
+60
+total_expected_min 60
+['waking up and getting out of bed', 5]
+['brushing her teeth and washing her face', 5]
+['getting dressed', 5]
+['making her bed', 5]
+['preparing her breakfast', 10]
+['eating her breakfast', 10]
+['cleaning up her breakfast dishes', 5]
+['reviewing and editing photos', 30]
+IMPORTANT VVV DEBUG
+[['waking up and getting out of bed', 5], ['brushing her teeth and washing her face', 5], ['getting dressed', 5], ['making her bed', 5], ['preparing her breakfast', 10], ['eating her breakfast', 10], ['cleaning up her breakfast dishes', 5], ['reviewing and editing photos', 30]]
+DEBUG LJSDLFSKJF
+['sleeping', 360]
+['waking up and completing the morning routine\n[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast\n[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch\n[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election (waking up and getting out of bed)', 5]
+['waking up and completing the morning routine\n[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast\n[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch\n[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election (brushing her teeth and washing her face)', 5]
+['waking up and completing the morning routine\n[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast\n[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch\n[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election (getting dressed)', 5]
+['waking up and completing the morning routine\n[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast\n[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch\n[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election (making her bed)', 5]
+['waking up and completing the morning routine\n[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast\n[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch\n[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election (preparing her breakfast)', 10]
+['waking up and completing the morning routine\n[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast\n[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch\n[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election (eating her breakfast)', 10]
+['waking up and completing the morning routine\n[(ID:643t4v) Monday February 13 -- 06:30 AM] Activity: Latoya is having breakfast\n[(ID:643t4v) Monday February 13 -- 07:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:643t4v) Monday February 13 -- 10:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:643t4v) Monday February 13 -- 1:00 PM] Activity: Latoya is having lunch\n[(ID:643t4v) Monday February 13 -- 2:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:643t4v) Monday February 13 -- 4:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:643t4v) Monday February 13 -- 6:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election (cleaning up her breakfast dishes)', 20]
+['reviewing and editing photos', 60]
+['taking a break and going for a walk\n[(ID:XVsJnn) Monday February 13 -- 09:00 AM] Activity: Latoya is attending a meeting with potential clients\n[(ID:XVsJnn) Monday February 13 -- 10:00 AM] Activity: Latoya is reviewing and editing photos\n[(ID:XVsJnn) Monday February 13 -- 11:00 AM] Activity: Latoya is attending a photography workshop\n[(ID:XVsJnn) Monday February 13 -- 12:00 PM] Activity: Latoya is having lunch\n[(ID:XVsJnn) Monday February 13 -- 01:00 PM] Activity: Latoya is continuing work on her photography series\n[(ID:XVsJnn) Monday February 13 -- 02:30 PM] Activity: Latoya is meeting with fellow photographers for a critique session\n[(ID:XVsJnn) Monday February 13 -- 04:00 PM] Activity: Latoya is taking a break and going for a coffee with a friend\n[(ID:XVsJnn) Monday February 13 -- 05:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election\n[(ID:XVsJnn) Monday February 13 -- 06:00 PM] Activity: Latoya is working on her photography series\n[(ID:XVsJnn) Monday February 13 -- 07:30 PM] Activity: Latoya is having dinner\n[(ID:XVsJnn) Monday February 13 -- 08:30 PM] Activity: Latoya is attending a photography exhibition\n[(ID:XVsJnn) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60]
+['attending a meeting with potential clients', 60]
+['attending a photography workshop\n[(ID:RIhAV7) Monday February 13 -- 01:00 PM] Activity: Latoya is having lunch\n[(ID:K9CTF9) Monday February 13 -- 02:00 PM] Activity: Latoya is continuing work on her photography series at the co-living space\n[(ID:gG6wBk) Monday February 13 -- 04:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:DUutoA) Monday February 13 -- 06:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election', 60]
+['attending a photography workshop', 60]
+['having lunch\n[(ID:wCkvjo) Monday February 13 -- 03:00 PM] Activity: Latoya is attending a photography workshop\n[(ID:wCkvjo) Monday February 13 -- 06:00 PM] Activity: Latoya is working on her photography series\n[(ID:wCkvjo) Monday February 13 -- 09:00 PM] Activity: Latoya is winding down and preparing for bed', 60]
+['continuing work on her photography series at the co-living space', 60]
+['working on her photography series at the co-living space', 60]
+['attending a photography workshop\n[(ID:Ql0MWL) Monday February 13 -- 04:30 PM] Activity: Latoya is taking a break and having a coffee with a friend\n[(ID:Ql0MWL) Monday February 13 -- 06:00 PM] Activity: Latoya is engaging in conversations about the upcoming mayoral election', 60]
+['taking a break and going for a walk\n[(ID:cLf8DE) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner\n[(ID:cLf8DE) Monday February 13 -- 08:00 PM] Activity: Latoya is attending a photography exhibition\n[(ID:cLf8DE) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60]
+['attending a networking event for photographers\n[(ID:ExP2eq) Monday February 13 -- 07:00 PM] Activity: Latoya is having dinner\n[(ID:ExP2eq) Monday February 13 -- 08:00 PM] Activity: Latoya is working on her photography series at the co-living space\n[(ID:ExP2eq) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60]
+['attending a photography workshop', 60]
+['having dinner, 9) review and edit photos from 7:00 pm to 8:30 pm, 10) attend a photography exhibition at 8:30 pm, 11) wind down and prepare for bed at 10:00 pm', 60]
+['attending a photography exhibition\n[(ID:lTRAyv) Monday February 13 -- 10:00 PM] Activity: Latoya is winding down and preparing for bed', 60]
+['winding down and preparing for bed', 180]
+0
+23
+Latoya Williams
+------
+act_desp sleeping
+act_dura 360
+---
+DEBUG Dorm for Oak Hill College ------ artist's co-living space
+---
+Latoya Williams's room
+---
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 4
+CHAT GPT PROMPT
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+repeat 3
+ChatGPT_request
+---
+too many values to unpack (expected 2)
+ChatGPT_request
+---
+too many values to unpack (expected 2)
+ChatGPT_request
+---
+too many values to unpack (expected 2)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+ChatGPT ERROR
+Traceback (most recent call last):
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 628, in <module>
+    rs.open_server()
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 441, in open_server
+    rs.start_server(10000)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 383, in start_server
+    next_tile, pronunciatio, description = persona.move(
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 242, in move
+    plan = self.plan(maze, personas, new_day, retrieved)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 38, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 160, in plan
+    return plan(self, maze, personas, new_day, retrieved)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 29, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 1001, in plan
+    _determine_action(persona, maze)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 29, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 662, in _determine_action
+    act_event = generate_action_event_triple(act_desp, persona)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 29, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 284, in generate_action_event_triple
+    return run_gpt_prompt_event_triple(act_desp, persona)[0]
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/run_gpt_prompt.py", line 929, in run_gpt_prompt_event_triple
+    output = safe_generate_response(prompt, gpt_param, 5, fail_safe,
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/gpt_structure.py", line 326, in safe_generate_response
+    curr_gpt_response, _ = GPT_request_edit(prompt, gpt_parameter, prompt_template=prompt_template)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/prompt_template/gpt_structure.py", line 19, in wrapper
+    output, prompt_template=func(prompt, gpt_parameter, prompt_template)
+ValueError: too many values to unpack (expected 2)

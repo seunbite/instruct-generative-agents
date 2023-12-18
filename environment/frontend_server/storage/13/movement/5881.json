@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc95\u2728",
+      "description": "preparing for the Valentine's Day party at the cafe, and 4) host the Valentine's Day party from 5:00 pm to 7:00 pm (decorating the cafe with Valentine's Day themed decorations) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        37
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "heading home from Oak Hill College\n[(ID:LYxZTG) Monday February 13 -- 06:00 PM] Activity: Maria is starting Twitch streaming and gaming\n[(ID:H13ays) Monday February 13 -- 07:00 PM] Activity: Maria is taking a break for dinner\n[(ID:f5aRpL) Monday February 13 -- 08:00 PM] Activity: Maria is continuing Twitch streaming and gaming\n[(ID:Yn26mF) Monday February 13 -- 09:00 PM] Activity: Maria is continuing Twitch streaming and gaming\n[(ID:neCZZJ) Monday February 13 -- 10:00 PM] Activity: Maria is continuing Twitch streaming and gaming\n[(ID:Ic2sia) Monday February 13 -- 11:00 PM] Activity: Maria is continuing Twitch streaming and gaming\n[(ID:nCL28E) Monday February 13 -- 12:00 PM] Activity: Maria is having a study break and visiting Hobbs Cafe for lunch\n[(ID:dhQmgK) Monday February 13 -- 01:00 PM] Activity: Maria is finishing her lunch break at Hobbs Cafe and heading back to Oak Hill College for classes\n[(ID:sj8Zuk) Monday February 13 -- 02:00 PM] Activity: Maria is finishing classes at Oak Hill College and heading home\n[(ID:FtAg9g) Monday February 13 -- 05:00 PM] Activity: Maria is heading home from Oak Hill College (driving home) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        46
+      ],
+      "pronunciatio": "\u2709\ufe0f",
+      "description": "taking a short break (checking his emails and responding to any urgent messages) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:20:10"
+  }
+}

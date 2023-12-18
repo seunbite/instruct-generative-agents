@@ -1,0 +1,2349 @@
+perceive
+perceive-perceive
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+perceive-generate_poig_score
+retrieve
+retrieve-retrieve
+plan
+plan-plan
+plan-_long_term_planning
+plan-generate_wake_up_hour
+prompt template : persona/prompt_template/v2/wake_up_hour_v1.txt
+Prompt==================================================================
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+In general, Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Isabella's wake up hour:
+
+
+Output==================================================================
+6am
+
+
+plan-generate_first_daily_plan
+prompt template : persona/prompt_template/v2/daily_planning_v6.txt
+Prompt==================================================================
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+In general, Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Today is Monday February 13. Here is Isabella's plan today in broad-strokes (with the time of the day. e.g., have a lunch at 12:00 pm, watch TV from 7 to 8 pm): 1) wake up and complete the morning routine at 6:00 am, 2)
+
+
+Output==================================================================
+prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening, 8) go to bed around 11:00 pm.
+
+
+plan-generate_hourly_schedule
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:7R7ESN) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:ac9AVE) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:KA0GfW) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:ZuHLAE) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:W9025O) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:YROo1e) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:RxnaAz) Monday February 13 -- 06:00 AM] Activity: Isabella is
+
+
+Output==================================================================
+waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:pmYuS5) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:edRuOY) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:zwLfVb) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:1VQrGW) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:p6BcaZ) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:E1MM6P) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:VZZBKq) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:Ugmq5C) Monday February 13 -- 07:00 AM] Activity: Isabella is
+
+
+Output==================================================================
+preparing and eating breakfast
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:KVJYnQ) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:HWEKWj) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:ZjqTaO) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:nuSIt7) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:1GAHOs) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:RrEHn7) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:5Pp7a4) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:ITjxwB) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:WCn55N) Monday February 13 -- 08:00 AM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:08U0y4) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:Lidoec) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:fv9kte) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:QdGieX) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:zy4lOf) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:dlc1IL) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:ENQJFs) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:kcWySK) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:VAiw8T) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:jarysS) Monday February 13 -- 09:00 AM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:9FOgfW) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:51UZWh) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:dfeFdw) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:L1mnUb) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:CkmxQA) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:kEtaHg) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:8BkGYt) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:V16J5t) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:KtvET1) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:Jk2X21) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:v6JJWi) Monday February 13 -- 10:00 AM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:6wFzgx) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:WQhgc2) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:SLiTHd) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:VkUSLU) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:tammcD) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:9WDYSA) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:iAGDln) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:Yp1P8Y) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:VzrXOG) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:by62nd) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eWWQCc) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:HqX2Fo) Monday February 13 -- 11:00 AM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:FihJ39) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:hIfOc5) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:LdWuv8) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:M7LpTz) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:7KmNJl) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:moqqxw) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:Va3Lcc) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:kvaFvr) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:ArPuwP) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:PEcWBK) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:mmHFBY) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2NuIyO) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:3VrXGS) Monday February 13 -- 12:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:CiMzdH) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:u0uLeo) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:uhmfgM) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:rVjZD9) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:soBak4) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:BoTswH) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:HgfoAA) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:sJYqvM) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:VA4b2T) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:DVqdSq) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PROdxC) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Yo6dxL) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:mrCprN) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:ACnC2Q) Monday February 13 -- 01:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:B9zW7M) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:qE6DKt) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:GYIL4W) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:coUmCx) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:ldPQxV) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:yfnKow) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:wvQlIw) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:XJ4QPH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:PgAqLL) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:K1879e) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:JebgbD) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3RE3NF) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:jpz9MS) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+[(ID:GxT9xJ) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:kxSS0x) Monday February 13 -- 02:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:Tf7H3h) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:pC4MZG) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:CTfx1L) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:lFSMdq) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:QSeV12) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:mCRL3n) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:ulr99K) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:WTrAYz) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:NJsm9d) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:rSF8jR) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:QvDUFo) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:j7mCm5) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:f8wEj6) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+[(ID:8XIL1e) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5WKpKi) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:OB7mjD) Monday February 13 -- 03:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe
+[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:rslgj7) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:LdW0xw) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:IWitIg) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:p7bPzv) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:Qy064D) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:maIzTW) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:GHFejR) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:7PGzhH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:nT7EZn) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:FzWQzc) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gLqfaG) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:NWS24h) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rrEr4D) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+[(ID:lTCDSV) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:A2SlFd) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:n8vtIA) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:a4AAnb) Monday February 13 -- 04:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:4LhDHD) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:vHs7Th) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:95DJdJ) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:ZwHaKL) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:vEcjy4) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:ZlJLaM) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:fGML3a) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:re8jaI) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:diYiF6) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:8U77K2) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lKHtaI) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:E7MT23) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:NwbnLV) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+[(ID:af8Gdy) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:yigi8x) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:jlsq5k) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4RK804) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:EMC1jm) Monday February 13 -- 05:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:uIiQLz) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:8UMfed) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:BRbIle) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:0mZxDb) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:8YhSHF) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:mQH0VS) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:xghMMk) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:LS9jeJ) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:fHQT9J) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:SQ9CyO) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:cqQRNu) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:1IKLrQ) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:tkFI97) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+[(ID:pxTE5m) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Td7rx2) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:9JA2lZ) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ClOXV0) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:dwGwnY) Monday February 13 -- 05:00 PM] Activity: Isabella is having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:EUmOwt) Monday February 13 -- 06:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:EUmOwt) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:EUmOwt) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:MOnflm) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:VCdEzD) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:f9ChcL) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:TLafyD) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:1HiYtW) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:6pFT9p) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:CqEuHj) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:THhOis) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:yjZ7qS) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:nBCUCj) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:duIhtn) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:q6nW9J) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:HgxzMR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+[(ID:LrBdPX) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Z0lfwi) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:L8tfBg) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:IxIkow) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:kJrzY7) Monday February 13 -- 05:00 PM] Activity: Isabella is having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm
+[(ID:fqxGKc) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:EUmOwt) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:EUmOwt) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:92Voug) Monday February 13 -- 07:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+serving customers and managing the cafe
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:BsQOkq) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:IKVCBM) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:j5LR6p) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:xEGW1Q) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:vlkV3J) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:krWUGi) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:HNHCM2) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:yrCLsh) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:mCIwUj) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:2jUvFn) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:laGkER) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:GXCpEr) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:JkCqWM) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+[(ID:7zb0mV) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:V2XDC3) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2sxNIg) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:RgmVBY) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:cKYbO0) Monday February 13 -- 05:00 PM] Activity: Isabella is having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm
+[(ID:PExsOQ) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:EUmOwt) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:EUmOwt) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:WjmGWd) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:KqWSHL) Monday February 13 -- 08:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+closing the cafe and tidying up.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:XPRxhi) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:lozFdn) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:rwQR5C) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:ktKUCg) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:pYQS98) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:vxxMVs) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:QX90dX) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:NgRynu) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:4GzByd) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:aM3J0I) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ht6BkU) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5NHLIu) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:HAh7yC) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+[(ID:fXKUuT) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:D3rIUw) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rrCSIx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2rcMDO) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xXC7qX) Monday February 13 -- 05:00 PM] Activity: Isabella is having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm
+[(ID:mA1d3J) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:EUmOwt) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:EUmOwt) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:DRDeFD) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:M9XhYv) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:0eA7IY) Monday February 13 -- 09:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+relaxing and unwinding for the rest of the evening.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:XVW5Hw) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:n1kgEY) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:d5gsYl) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:yV2kRr) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:dG7814) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:tGoBFc) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:6k5I3E) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:JpREde) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:5ZY2eE) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:HA2lTD) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:mrfHRb) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lODiPL) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:TFsVGw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+[(ID:WPkHud) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:zsvNGT) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fbR8if) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:sj206b) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:k5hvQ3) Monday February 13 -- 05:00 PM] Activity: Isabella is having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm
+[(ID:AzJni2) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:EUmOwt) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:EUmOwt) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:aTOEn7) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:bxLwim) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:fXxFwv) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:7rjZ6D) Monday February 13 -- 10:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+relaxing and getting ready for bed.
+
+
+prompt template : persona/prompt_template/v2/generate_hourly_schedule_v2.txt
+Prompt==================================================================
+Hourly schedule format: 
+[Monday February 13 -- 00:00 AM] Activity: [Fill in]
+[Monday February 13 -- 01:00 AM] Activity: [Fill in]
+[Monday February 13 -- 02:00 AM] Activity: [Fill in]
+[Monday February 13 -- 03:00 AM] Activity: [Fill in]
+[Monday February 13 -- 04:00 AM] Activity: [Fill in]
+[Monday February 13 -- 05:00 AM] Activity: [Fill in]
+[Monday February 13 -- 06:00 AM] Activity: [Fill in]
+[Monday February 13 -- 07:00 AM] Activity: [Fill in]
+[Monday February 13 -- 08:00 AM] Activity: [Fill in]
+[Monday February 13 -- 09:00 AM] Activity: [Fill in]
+[Monday February 13 -- 10:00 AM] Activity: [Fill in]
+[Monday February 13 -- 11:00 AM] Activity: [Fill in]
+[Monday February 13 -- 12:00 PM] Activity: [Fill in]
+[Monday February 13 -- 01:00 PM] Activity: [Fill in]
+[Monday February 13 -- 02:00 PM] Activity: [Fill in]
+[Monday February 13 -- 03:00 PM] Activity: [Fill in]
+[Monday February 13 -- 04:00 PM] Activity: [Fill in]
+[Monday February 13 -- 05:00 PM] Activity: [Fill in]
+[Monday February 13 -- 06:00 PM] Activity: [Fill in]
+[Monday February 13 -- 07:00 PM] Activity: [Fill in]
+[Monday February 13 -- 08:00 PM] Activity: [Fill in]
+[Monday February 13 -- 09:00 PM] Activity: [Fill in]
+[Monday February 13 -- 10:00 PM] Activity: [Fill in]
+[Monday February 13 -- 11:00 PM] Activity: [Fill in]
+===
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:utFkZ3) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:xqv4ro) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:SJJJXL) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:tIDfef) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:AoGyyK) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:yg9t63) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+[(ID:TuTihv) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:OjZU5J) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:FRRgEB) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:NcpId3) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:whEtYC) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:1jR1Rt) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:F196yj) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe.
+
+Please note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time
+[(ID:RIfCaw) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:WVN9UP) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:E1X9mZ) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:LP0Xxe) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Zi88gO) Monday February 13 -- 05:00 PM] Activity: Isabella is having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm
+[(ID:NuLpVy) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:EUmOwt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:EUmOwt) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:EUmOwt) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:f1kZ5b) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:zjpYnG) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:Q5McMv) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening
+[(ID:bgt35A) Monday February 13 -- 10:00 PM] Activity: Isabella is relaxing and getting ready for bed
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) prepare and eat breakfast at 7:00 am, 3) open Hobbs Cafe at 8:00 am and start working at the counter, 4) serve customers and manage the cafe until 8:00 pm, 5) close the cafe and tidy up at 8:00 pm, 6) have dinner at 8:30 pm, 7) relax and unwind for the rest of the evening
+[(ID:DSxWdS) Monday February 13 -- 11:00 PM] Activity: Isabella is
+
+
+Output==================================================================
+relaxing and getting ready for bed.
+
+
+plan-_determine_action
+plan-generate_task_decomp
+prompt template : persona/prompt_template/v2/task_decomp_v3.txt
+Prompt==================================================================
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Isabella Rodriguez is planning on sleeping, 06:00AM ~ 07:00AM, Isabella Rodriguez is planning on waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening, 07:00AM ~ 08:00AM, Isabella Rodriguez is planning on preparing and eating breakfast.
+In 5 min increments, list the subtasks Isabella does when Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Isabella is
+
+
+Output==================================================================
+waking up and stretching (duration in minutes: 5, minutes left: 55)
+2) Isabella is brushing her teeth (duration in minutes: 2, minutes left: 53)
+3) Isabella is washing her face (duration in minutes: 3, minutes left: 50)
+4) Isabella is getting dressed (duration in minutes: 5, minutes left: 45)
+5) Isabella is making the bed (duration in minutes: 3, minutes left: 42)
+6) Isabella is tidying up the bedroom (duration in minutes: 5, minutes left: 37)
+7) Isabella is preparing and eating breakfast (duration in minutes: 10, minutes left: 27)
+8) Isabella is checking her schedule for the day (duration in minutes: 5, minutes left: 22)
+9) Isabella is gathering her materials for the party (duration in minutes: 5, minutes left: 17)
+10) Isabella is texting and calling friends and customers to invite them to the party (duration in minutes: 10, minutes left: 7)
+11) Isabella is making a list of party supplies she needs to buy (duration in minutes: 5, minutes left: 2)
+12) Isabella is gathering her purse and keys (duration in minutes: 3, minutes left: 0)
+
+
+plan-generate_action_sector
+prompt template : persona/prompt_template/v1/action_location_sector_v1.txt
+Prompt==================================================================
+Task -- choose an appropriate area  from the area options for a task at hand. 
+
+Sam Kim lives in {Sam Kim's house} that has Sam Kim's room, bathroom, kitchen.
+Sam Kim is currently in {Sam Kim's house} that has Sam Kim's room, bathroom, kitchen. 
+Area options: {Sam Kim's house, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Johnson Park, Harvey Oak Supply Store, The Willows Market and Pharmacy}.
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+For taking a walk, Sam Kim should go to the following area: {Johnson Park}
+---
+Jane Anderson lives in {Oak Hill College Student Dormatory} that has Jane Anderson's room.
+Jane Anderson is currently in {Oak Hill College} that has a classroom, library
+Area options: {Oak Hill College Student Dormatory, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Johnson Park, Harvey Oak Supply Store, The Willows Market and Pharmacy}. 
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+For eating dinner, Jane Anderson should go to the following area: {Hobbs Cafe}
+---
+Isabella Rodriguez lives in {Isabella Rodriguez's apartment} that has main room.
+Isabella Rodriguez is currently in {Isabella Rodriguez's apartment} that has main room. 
+Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Area options: {Hobbs Cafe, Isabella Rodriguez's apartment, The Rose and Crown Pub, Harvey Oak Supply Store, The Willows Market and Pharmacy, Dorm for Oak Hill College, Johnson Park, Ryan Park's apartment}. 
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+Isabella Rodriguez is sleeping. For sleeping, Isabella Rodriguez should go to the following area: {
+
+
+Output==================================================================
+Isabella Rodriguez's apartment}
+
+
+plan-generate_action_arena
+prompt template : persona/prompt_template/v1/action_location_object_vMar11.txt
+Prompt==================================================================
+Jane Anderson is in kitchen in Jane Anderson's house.
+Jane Anderson is going to Jane Anderson's house that has the following areas: {kitchen,  bedroom, bathroom}
+Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.
+For cooking, Jane Anderson should go to the following area in Jane Anderson's house:
+Answer: {kitchen}
+---
+Tom Watson is in common room in Tom Watson's apartment. 
+Tom Watson is going to Hobbs Cafe that has the following areas: {cafe}
+Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.
+For getting coffee, Tom Watson should go to the following area in Hobbs Cafe:
+Answer: {cafe}
+---
+
+Isabella Rodriguez is going to Isabella Rodriguez's apartment that has the following areas: {main room}
+* Stay in the current area if the activity can be done there. 
+* NEVER go into other people's rooms unless necessary.
+Isabella Rodriguez is sleeping. For sleeping, Isabella Rodriguez should go to the following area in Isabella Rodriguez's apartment (MUST pick one of {main room}):
+Answer: {
+
+
+Output==================================================================
+main room}
+
+
+plan-generate_action_game_object
+prompt template : persona/prompt_template/v1/action_object_v2.txt
+Prompt==================================================================
+Current activity: sleep in bed
+Objects available: {bed, easel, closet, painting}
+Pick ONE most relevant object from the objects available: bed
+---
+Current activity: painting
+Objects available: {easel, closet, sink, microwave}
+Pick ONE most relevant object from the objects available: easel
+---
+Current activity: cooking
+Objects available: {stove, sink, fridge, counter}
+Pick ONE most relevant object from the objects available: stove
+---
+Current activity: watch TV
+Objects available: {couch, TV, remote, coffee table}
+Pick ONE most relevant object from the objects available: TV
+---
+Current activity: study
+Objects available: {desk, computer, chair, bookshelf}
+Pick ONE most relevant object from the objects available: desk
+---
+Current activity: talk on the phone
+Objects available: {phone, charger, bed, nightstand}
+Pick ONE most relevant object from the objects available: phone
+---
+Current activity: sleeping
+Objects available: {bed, desk, refrigerator, closet, shelf}
+Pick ONE most relevant object from the objects available:
+
+
+Output==================================================================
+bed
+
+
+plan-generate_action_pronunciatio
+prompt template : persona/prompt_template/v3_ChatGPT/generate_pronunciatio_v1.txt
+Prompt==================================================================
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+
+
+Output==================================================================
+{"output": "😴"}
+
+
+prompt template : persona/prompt_template/v3_ChatGPT/generate_pronunciatio_v1.txt
+Prompt==================================================================
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+
+
+Output==================================================================
+{"output": "💤"}
+
+
+prompt template : persona/prompt_template/v3_ChatGPT/generate_pronunciatio_v1.txt
+Prompt==================================================================
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+
+
+Output==================================================================
+{"output": "💤"}
+
+
+plan-generate_action_event_triple
+prompt template : persona/prompt_template/v2/generate_event_triple_v1.txt
+Prompt==================================================================
+Task: Turn the input into (subject, predicate, object). 
+
+Input: Sam Johnson is eating breakfast. 
+Output: (Dolores Murphy, eat, breakfast) 
+--- 
+Input: Joon Park is brewing coffee.
+Output: (Joon Park, brew, coffee)
+---
+Input: Jane Cook is sleeping. 
+Output: (Jane Cook, is, sleep)
+---
+Input: Michael Bernstein is writing email on a computer. 
+Output: (Michael Bernstein, write, email)
+---
+Input: Percy Liang is teaching students in a classroom. 
+Output: (Percy Liang, teach, students)
+---
+Input: Merrie Morris is running on a treadmill. 
+Output: (Merrie Morris, run, treadmill)
+---
+Input: Isabella Rodriguez is sleeping. 
+Output: (Isabella Rodriguez,
+
+
+Output==================================================================
+is, sleep)
+
+
+plan-generate_act_obj_desc
+prompt template : persona/prompt_template/v3_ChatGPT/generate_obj_event_v1.txt
+Prompt==================================================================
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Isabella Rodriguez is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+
+
+Output==================================================================
+{"output": "being slept on"}
+
+
+prompt template : persona/prompt_template/v3_ChatGPT/generate_obj_event_v1.txt
+Prompt==================================================================
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Isabella Rodriguez is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+
+
+Output==================================================================
+{"output": "being used"}
+
+
+prompt template : persona/prompt_template/v3_ChatGPT/generate_obj_event_v1.txt
+Prompt==================================================================
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Isabella Rodriguez is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+
+
+Output==================================================================
+{"output": "being used"}
+
+

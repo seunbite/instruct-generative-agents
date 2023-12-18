@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\ud83d\uddc2\ufe0f",
+      "description": "opening Hobbs Cafe \n[(ID:x3lwew) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter and serving customers \n[(ID:yffgew) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter and serving customers \n[(ID:wpjcew) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter and serving customers \n[(ID:s5seew) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter and serving customers \n[(ID:cdfaew) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter and serving customers \n[(ID:lgi7dw) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter and serving customers \n[(ID:u8f6dw) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter and serving customers \n[(ID:p9hfdw) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter and serving customers \n[(ID:sdd5dw) Monday February 13 -- 05:00 PM] Activity: Isabella is starting to gather party materials for the Valentine's Day party at Hobbs Cafe \n[(ID:fgreew) Monday February 13 -- 06:00 PM] Activity: Isabella is posting about the party on social media and informing customers about the event \n[(ID:srerte) Monday February 13 -- 07:00 PM] Activity: Isabella is closing Hobbs Cafe \n[(ID:ehw8ew) Monday February 13 -- 08:00 PM] Activity: Isabella is having dinner and relaxing for the evening (organizing the menu display) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udca4",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "going to the College library to begin his research on the effects of gentrification in low-income communities (reviewing previous research on gentrification) @ the Ville:Oak Hill College:library:bookshelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:28:10"
+  }
+}

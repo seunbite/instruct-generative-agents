@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "taking inventory and restocking supplies in the cafe (taking note of which items need to be restocked) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udcf1",
+      "description": "finishing classes at Oak Hill College and heading home\n[(ID:fxs5vc) Monday February 13 -- 05:00 PM] Activity: Maria is heading home from Oak Hill College (checking her phone for any notifications or messages) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "back at the library working on his research paper (taking notes on key findings and important information) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:12:00"
+  }
+}

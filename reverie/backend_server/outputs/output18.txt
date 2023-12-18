@@ -1,0 +1,618 @@
+Note: The agents in this simulation package are computational
+constructs powered by generative agents architecture and LLM. We
+clarify that these agents lack human-like agency, consciousness,
+and independent decision-making.
+---
+CURRENT TIME IS: 10000
+CURRENT ENV FILE IS: ../../environment/frontend_server/storage/18/environment/0.json
+Isabella Rodriguez movement start
+perceive
+retrieve
+plan
+new_day First day
+saved
+---
+---
+daily req:  ['wake up and complete the morning routine at 6:00 am', 'prepare and eat breakfast at 7:00 am', 'open Hobbs Cafe at 8:00 am and start working at the counter', 'serve customers and manage the cafe until 8:00 pm', 'close the cafe and tidy up at 8:00 pm', 'have dinner at 8:30 pm', 'relax and unwind for the rest of the evening']
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+daily schedule:  [['sleeping', 360], ['waking up and completing her morning routine\n[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast\n[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter\n[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening', 60], ['preparing and eating breakfast', 60], ['serving customers and managing the cafe\n[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening', 60], ['serving customers and managing the cafe\n[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe', 60], ['serving customers and managing the cafe\n[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe', 60], ['serving customers and managing the cafe', 60], ['serving customers and managing the cafe.\n\nPlease note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time', 60], ['serving customers and managing the cafe', 120], ['serving customers and managing the cafe\n[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe', 60], ['serving customers and managing the cafe', 60], ["having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm", 60], ['serving customers and managing the cafe\n[(ID:EUmOwt) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:EUmOwt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:EUmOwt) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:EUmOwt) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening', 60], ['serving customers and managing the cafe', 60], ['closing the cafe and tidying up', 60], ['relaxing and unwinding for the rest of the evening', 60], ['relaxing and getting ready for bed', 120]]
+saved
+DEBUG
+[['sleeping', 360], ['waking up and completing her morning routine\n[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast\n[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter\n[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening', 60], ['preparing and eating breakfast', 60], ['serving customers and managing the cafe\n[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening', 60], ['serving customers and managing the cafe\n[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe', 60], ['serving customers and managing the cafe\n[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe', 60], ['serving customers and managing the cafe', 60], ['serving customers and managing the cafe.\n\nPlease note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time', 60], ['serving customers and managing the cafe', 120], ['serving customers and managing the cafe\n[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe', 60], ['serving customers and managing the cafe', 60], ["having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm", 60], ['serving customers and managing the cafe\n[(ID:EUmOwt) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:EUmOwt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:EUmOwt) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:EUmOwt) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening', 60], ['serving customers and managing the cafe', 60], ['closing the cafe and tidying up', 60], ['relaxing and unwinding for the rest of the evening', 60], ['relaxing and getting ready for bed', 120]]
+[0, 1, 2]
+index 0
+index 1
+index 2
+?????
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Isabella Rodriguez is planning on sleeping, 06:00AM ~ 07:00AM, Isabella Rodriguez is planning on waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening, 07:00AM ~ 08:00AM, Isabella Rodriguez is planning on preparing and eating breakfast.
+In 5 min increments, list the subtasks Isabella does when Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Isabella is
+---
+run_gpt_prompt_task_decomp PROMPT
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Isabella Rodriguez is planning on sleeping, 06:00AM ~ 07:00AM, Isabella Rodriguez is planning on waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening, 07:00AM ~ 08:00AM, Isabella Rodriguez is planning on preparing and eating breakfast.
+In 5 min increments, list the subtasks Isabella does when Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Isabella is
+run_gpt_prompt_task_decomp RESPONSE
+waking up and stretching (duration in minutes: 5, minutes left: 55)
+2) Isabella is brushing her teeth (duration in minutes: 2, minutes left: 53)
+3) Isabella is washing her face (duration in minutes: 3, minutes left: 50)
+4) Isabella is getting dressed (duration in minutes: 5, minutes left: 45)
+5) Isabella is making the bed (duration in minutes: 3, minutes left: 42)
+6) Isabella is tidying up the bedroom (duration in minutes: 5, minutes left: 37)
+7) Isabella is preparing and eating breakfast (duration in minutes: 10, minutes left: 27)
+8) Isabella is checking her schedule for the day (duration in minutes: 5, minutes left: 22)
+9) Isabella is gathering her materials for the party (duration in minutes: 5, minutes left: 17)
+10) Isabella is texting and calling friends and customers to invite them to the party (duration in minutes: 10, minutes left: 7)
+11) Isabella is making a list of party supplies she needs to buy (duration in minutes: 5, minutes left: 2)
+12) Isabella is gathering her purse and keys (duration in minutes: 3, minutes left: 0)
+-==- -==- -==- 
+i waking up and stretching (duration in minutes: 5, minutes left: 55)
+k ['waking up and stretching', '5, minutes left: 55)']
+cr [['waking up and stretching', 5]]
+i brushing her teeth (duration in minutes: 2, minutes left: 53)
+k ['brushing her teeth', '2, minutes left: 53)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2]]
+i washing her face (duration in minutes: 3, minutes left: 50)
+k ['washing her face', '3, minutes left: 50)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3]]
+i getting dressed (duration in minutes: 5, minutes left: 45)
+k ['getting dressed', '5, minutes left: 45)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5]]
+i making the bed (duration in minutes: 3, minutes left: 42)
+k ['making the bed', '3, minutes left: 42)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3]]
+i tidying up the bedroom (duration in minutes: 5, minutes left: 37)
+k ['tidying up the bedroom', '5, minutes left: 37)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5]]
+i preparing and eating breakfast (duration in minutes: 10, minutes left: 27)
+k ['preparing and eating breakfast', '10, minutes left: 27)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10]]
+i checking her schedule for the day (duration in minutes: 5, minutes left: 22)
+k ['checking her schedule for the day', '5, minutes left: 22)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5]]
+i gathering her materials for the party (duration in minutes: 5, minutes left: 17)
+k ['gathering her materials for the party', '5, minutes left: 17)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5], ['gathering her materials for the party', 5]]
+i texting and calling friends and customers to invite them to the party (duration in minutes: 10, minutes left: 7)
+k ['texting and calling friends and customers to invite them to the party', '10, minutes left: 7)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5], ['gathering her materials for the party', 5], ['texting and calling friends and customers to invite them to the party', 10]]
+i making a list of party supplies she needs to buy (duration in minutes: 5, minutes left: 2)
+k ['making a list of party supplies she needs to buy', '5, minutes left: 2)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5], ['gathering her materials for the party', 5], ['texting and calling friends and customers to invite them to the party', 10], ['making a list of party supplies she needs to buy', 5]]
+i gathering her purse and keys (duration in minutes: 3, minutes left: 0)
+k ['gathering her purse and keys', '3, minutes left: 0)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5], ['gathering her materials for the party', 5], ['texting and calling friends and customers to invite them to the party', 10], ['making a list of party supplies she needs to buy', 5], ['gathering her purse and keys', 3]]
+~prompt~~
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Isabella Rodriguez is planning on sleeping, 06:00AM ~ 07:00AM, Isabella Rodriguez is planning on waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening, 07:00AM ~ 08:00AM, Isabella Rodriguez is planning on preparing and eating breakfast.
+In 5 min increments, list the subtasks Isabella does when Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Isabella is
+60
+total_expected_min 60
+['waking up and stretching', 5]
+['brushing her teeth', 2]
+['washing her face', 3]
+['getting dressed', 5]
+['making the bed', 3]
+['tidying up the bedroom', 5]
+['preparing and eating breakfast', 10]
+['checking her schedule for the day', 5]
+['gathering her materials for the party', 5]
+['texting and calling friends and customers to invite them to the party', 10]
+['making a list of party supplies she needs to buy', 5]
+['gathering her purse and keys', 3]
+run_gpt_prompt_task_decomp PROMPT
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Isabella Rodriguez is planning on sleeping, 06:00AM ~ 07:00AM, Isabella Rodriguez is planning on waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening, 07:00AM ~ 08:00AM, Isabella Rodriguez is planning on preparing and eating breakfast.
+In 5 min increments, list the subtasks Isabella does when Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Isabella is
+run_gpt_prompt_task_decomp RESPONSE
+waking up and stretching (duration in minutes: 5, minutes left: 55)
+2) Isabella is brushing her teeth (duration in minutes: 2, minutes left: 53)
+3) Isabella is washing her face (duration in minutes: 3, minutes left: 50)
+4) Isabella is getting dressed (duration in minutes: 5, minutes left: 45)
+5) Isabella is making the bed (duration in minutes: 3, minutes left: 42)
+6) Isabella is tidying up the bedroom (duration in minutes: 5, minutes left: 37)
+7) Isabella is preparing and eating breakfast (duration in minutes: 10, minutes left: 27)
+8) Isabella is checking her schedule for the day (duration in minutes: 5, minutes left: 22)
+9) Isabella is gathering her materials for the party (duration in minutes: 5, minutes left: 17)
+10) Isabella is texting and calling friends and customers to invite them to the party (duration in minutes: 10, minutes left: 7)
+11) Isabella is making a list of party supplies she needs to buy (duration in minutes: 5, minutes left: 2)
+12) Isabella is gathering her purse and keys (duration in minutes: 3, minutes left: 0)
+-==- -==- -==- 
+i waking up and stretching (duration in minutes: 5, minutes left: 55)
+k ['waking up and stretching', '5, minutes left: 55)']
+cr [['waking up and stretching', 5]]
+i brushing her teeth (duration in minutes: 2, minutes left: 53)
+k ['brushing her teeth', '2, minutes left: 53)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2]]
+i washing her face (duration in minutes: 3, minutes left: 50)
+k ['washing her face', '3, minutes left: 50)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3]]
+i getting dressed (duration in minutes: 5, minutes left: 45)
+k ['getting dressed', '5, minutes left: 45)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5]]
+i making the bed (duration in minutes: 3, minutes left: 42)
+k ['making the bed', '3, minutes left: 42)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3]]
+i tidying up the bedroom (duration in minutes: 5, minutes left: 37)
+k ['tidying up the bedroom', '5, minutes left: 37)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5]]
+i preparing and eating breakfast (duration in minutes: 10, minutes left: 27)
+k ['preparing and eating breakfast', '10, minutes left: 27)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10]]
+i checking her schedule for the day (duration in minutes: 5, minutes left: 22)
+k ['checking her schedule for the day', '5, minutes left: 22)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5]]
+i gathering her materials for the party (duration in minutes: 5, minutes left: 17)
+k ['gathering her materials for the party', '5, minutes left: 17)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5], ['gathering her materials for the party', 5]]
+i texting and calling friends and customers to invite them to the party (duration in minutes: 10, minutes left: 7)
+k ['texting and calling friends and customers to invite them to the party', '10, minutes left: 7)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5], ['gathering her materials for the party', 5], ['texting and calling friends and customers to invite them to the party', 10]]
+i making a list of party supplies she needs to buy (duration in minutes: 5, minutes left: 2)
+k ['making a list of party supplies she needs to buy', '5, minutes left: 2)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5], ['gathering her materials for the party', 5], ['texting and calling friends and customers to invite them to the party', 10], ['making a list of party supplies she needs to buy', 5]]
+i gathering her purse and keys (duration in minutes: 3, minutes left: 0)
+k ['gathering her purse and keys', '3, minutes left: 0)']
+cr [['waking up and stretching', 5], ['brushing her teeth', 2], ['washing her face', 3], ['getting dressed', 5], ['making the bed', 3], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5], ['gathering her materials for the party', 5], ['texting and calling friends and customers to invite them to the party', 10], ['making a list of party supplies she needs to buy', 5], ['gathering her purse and keys', 3]]
+~prompt~~
+Describe subtasks in 5 min increments. 
+---
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
+Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+
+Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break. 
+In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
+1) Kelly is reviewing the kindergarten curriculum standards. (duration in minutes: 15, minutes left: 165)
+2) Kelly is brainstorming ideas for the lesson. (duration in minutes: 30, minutes left: 135)
+3) Kelly is creating the lesson plan. (duration in minutes: 30, minutes left: 105)
+4) Kelly is creating materials for the lesson. (duration in minutes: 30, minutes left: 75)
+5) Kelly is taking a break. (duration in minutes: 15, minutes left: 60)
+6) Kelly is reviewing the lesson plan. (duration in minutes: 30, minutes left: 30)
+7) Kelly is making final changes to the lesson plan. (duration in minutes: 15, minutes left: 15)
+8) Kelly is printing the lesson plan. (duration in minutes: 10, minutes left: 5)
+9) Kelly is putting the lesson plan in her bag. (duration in minutes: 5, minutes left: 0)
+---
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+Today is February 13, 2023. From 00:00AM ~ 06:00AM, Isabella Rodriguez is planning on sleeping, 06:00AM ~ 07:00AM, Isabella Rodriguez is planning on waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening, 07:00AM ~ 08:00AM, Isabella Rodriguez is planning on preparing and eating breakfast.
+In 5 min increments, list the subtasks Isabella does when Isabella is waking up and completing her morning routine
+[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast
+[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter
+[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe
+[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe
+[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up
+[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner
+[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening from 06:00AM ~ 07:00AM (total duration in minutes 60): 
+1) Isabella is
+60
+total_expected_min 60
+['waking up and stretching', 5]
+['brushing her teeth', 2]
+['washing her face', 3]
+['getting dressed', 5]
+['making the bed', 3]
+['tidying up the bedroom', 5]
+['preparing and eating breakfast', 10]
+['checking her schedule for the day', 5]
+['gathering her materials for the party', 5]
+['texting and calling friends and customers to invite them to the party', 10]
+['making a list of party supplies she needs to buy', 5]
+['gathering her purse and keys', 3]
+IMPORTANT VVV DEBUG
+[['waking up and stretching', 5], ['getting dressed', 5], ['tidying up the bedroom', 5], ['preparing and eating breakfast', 10], ['checking her schedule for the day', 5], ['gathering her materials for the party', 5], ['texting and calling friends and customers to invite them to the party', 10], ['making a list of party supplies she needs to buy', 15]]
+DEBUG LJSDLFSKJF
+['sleeping', 360]
+['waking up and completing her morning routine\n[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast\n[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter\n[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening (waking up and stretching)', 5]
+['waking up and completing her morning routine\n[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast\n[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter\n[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening (getting dressed)', 5]
+['waking up and completing her morning routine\n[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast\n[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter\n[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening (tidying up the bedroom)', 5]
+['waking up and completing her morning routine\n[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast\n[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter\n[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening (preparing and eating breakfast)', 10]
+['waking up and completing her morning routine\n[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast\n[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter\n[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening (checking her schedule for the day)', 5]
+['waking up and completing her morning routine\n[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast\n[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter\n[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening (gathering her materials for the party)', 5]
+['waking up and completing her morning routine\n[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast\n[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter\n[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening (texting and calling friends and customers to invite them to the party)', 10]
+['waking up and completing her morning routine\n[(ID:RKuinH) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing and eating breakfast\n[(ID:QZIr0m) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting work at the counter\n[(ID:eMsA0L) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:6sUc2q) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:fZxLr8) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:qpLGVR) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:OvX5cM) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Y64AV3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:STSueK) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:T3s0XP) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ACAJPB) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MzPD49) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:uOwATQ) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:ENA3P2) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening (making a list of party supplies she needs to buy)', 15]
+['preparing and eating breakfast', 60]
+['serving customers and managing the cafe\n[(ID:5BwvtF) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:FOf9B5) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:meSDPM) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Hri1HZ) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:PrCtwh) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:8mTGXh) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:80mEi3) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:MSK8Zw) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:g0Sozu) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:xK3UYC) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:4B87cP) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:KfFl8J) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:QKptnb) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:D0z0R9) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening', 60]
+['serving customers and managing the cafe\n[(ID:si39pT) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:AGvGIE) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:uUczSw) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:0xtHht) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:At78tC) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:2IdsRd) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:rZtO3U) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:c3ektI) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ujmZiS) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:5wOph8) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe', 60]
+['serving customers and managing the cafe\n[(ID:UXtK7r) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:AgR1C4) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:h4Afjr) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:gl6I6L) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:7Hm0Jx) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:lA1Rt3) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:eir95y) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:twRvJu) Monday February 13 -- 06:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:3Nb01F) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe', 60]
+['serving customers and managing the cafe', 60]
+['serving customers and managing the cafe.\n\nPlease note that the activity for 12:00 PM is missing in the schedule provided. Kindly fill in the corresponding activity for that time', 60]
+['serving customers and managing the cafe', 120]
+['serving customers and managing the cafe\n[(ID:ZtxmT8) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe', 60]
+['serving customers and managing the cafe', 60]
+["having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm", 60]
+['serving customers and managing the cafe\n[(ID:EUmOwt) Monday February 13 -- 07:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:EUmOwt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing the cafe and tidying up\n[(ID:EUmOwt) Monday February 13 -- 08:30 PM] Activity: Isabella is having dinner\n[(ID:EUmOwt) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding for the rest of the evening', 60]
+['serving customers and managing the cafe', 60]
+['closing the cafe and tidying up', 60]
+['relaxing and unwinding for the rest of the evening', 60]
+['relaxing and getting ready for bed', 120]
+0
+24
+Isabella Rodriguez
+------
+act_desp sleeping
+act_dura 360
+---
+DEBUG Johnson Park ------ Isabella Rodriguez's apartment
+---
+main room
+---
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 4
+CHAT GPT PROMPT
+"""
+Convert an action description to an emoji (important: use two or less emojis).
+
+Action description: sleeping
+Emoji:
+"""
+Output the response to the prompt above in json. The value for the output must ONLY contain the emojis.
+Example output json:
+{"output": "🛁🧖‍♀️"}
+repeat 3
+ChatGPT_request
+---
+too many values to unpack (expected 2)
+ChatGPT_request
+---
+too many values to unpack (expected 2)
+ChatGPT_request
+---
+too many values to unpack (expected 2)
+---
+act_game_object bed
+act_desp sleeping
+persona <persona.persona.Persona object at 0x7f64004d1820>
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 6
+CHAT GPT PROMPT
+"""
+Task: We want to understand the state of an object that is being used by someone. 
+
+Let's think step by step. 
+We want to know about bed's state. 
+Step 1. Isabella Rodriguez is at/using the sleeping.
+Step 2. Describe the bed's state: bed is
+"""
+Output the response to the prompt above in json. The output should ONLY contain the phrase that should go in <fill in>.
+Example output json:
+{"output": "being fixed"}
+repeat 3
+ChatGPT_request
+---
+too many values to unpack (expected 2)
+ChatGPT_request
+---
+too many values to unpack (expected 2)
+ChatGPT_request
+---
+too many values to unpack (expected 2)
+Traceback (most recent call last):
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 628, in <module>
+    rs.open_server()
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 441, in open_server
+    rs.start_server(10000)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/reverie.py", line 383, in start_server
+    next_tile, pronunciatio, description = persona.move(
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 242, in move
+    plan = self.plan(maze, personas, new_day, retrieved, sim_folder)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 38, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/persona.py", line 160, in plan
+    return plan(self, maze, personas, new_day, retrieved, sim_folder)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 1010, in plan
+    _determine_action(persona, maze)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 673, in _determine_action
+    act_obj_desp = generate_act_obj_desc(act_game_object, act_desp, persona)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 30, in wrapper
+    output=func(*args)
+  File "/home/sngwon/workspace/generative_agents/reverie/backend_server/persona/cognitive_modules/plan.py", line 294, in generate_act_obj_desc
+    return run_gpt_prompt_act_obj_desc(act_game_object, act_desp, persona)[0]
+TypeError: 'NoneType' object is not subscriptable

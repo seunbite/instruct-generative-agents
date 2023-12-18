@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\ud83e\udd64\ud83c\udf7f",
+      "description": "serving customers at Hobbs Cafe\n[(ID:x6KGbO) Monday February 13 -- 10:00 AM] Activity: Isabella is taking orders and serving food at Hobbs Cafe\n[(ID:UhfgEq) Monday February 13 -- 11:00 AM] Activity: Isabella is interacting with customers and managing the cafe at Hobbs Cafe\n[(ID:Ro3XvS) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter and attending to customers at Hobbs Cafe\n[(ID:AHnyOp) Monday February 13 -- 01:00 PM] Activity: Isabella is taking orders and serving food at Hobbs Cafe\n[(ID:Cw0V8I) Monday February 13 -- 02:00 PM] Activity: Isabella is interacting with customers and managing the cafe at Hobbs Cafe\n[(ID:rsGpgL) Monday February 13 -- 03:00 PM] Activity: Isabella is preparing drinks and snacks for customers at Hobbs Cafe\n[(ID:dEobWk) Monday February 13 -- 04:00 PM] Activity: Isabella is announcing and preparing for the Valentine's Day party at Hobbs Cafe\n[(ID:nSJG0n) Monday February 13 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe\n[(ID:7YGpDC) Monday February 13 -- 06:00 PM] Activity: Isabella is socializing and entertaining guests at the Valentine's Day party at Hobbs Cafe\n[(ID:ur23kP) Monday February 13 -- 07:00 PM] Activity: Isabella is closing Hobbs Cafe for the day (preparing the drinks and snacks for the customers' orders) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        51
+      ],
+      "pronunciatio": "\ud83e\udd5e\u2615",
+      "description": "waking up and completing her morning routine\n[(ID:m6vJOF) Monday February 13 -- 09:30 AM] Activity: Maria is having breakfast\n[(ID:3HNW6O) Monday February 13 -- 10:00 AM] Activity: Maria is attending physics class at Oak Hill College\n[(ID:ap8t8v) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch at Hobbs Cafe\n[(ID:RG1pR8) Monday February 13 -- 02:00 PM] Activity: Maria is studying at the library\n[(ID:e9N8DL) Monday February 13 -- 04:00 PM] Activity: Maria is going to the gym for a workout\n[(ID:K2zU5j) Monday February 13 -- 06:00 PM] Activity: Maria is streaming games on Twitch\n[(ID:i0Qvla) Monday February 13 -- 09:00 PM] Activity: Maria is having dinner at Hobbs Cafe (preparing and eating breakfast) @ the Ville:Dorm for Oak Hill College:kitchen:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "writing his research paper\n[(ID:4g4d1D) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:2AaExG) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:RdZt34) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch\n[(ID:RbryLL) Monday February 13 -- 01:00 PM] Activity: Klaus is writing his research paper\n[(ID:EH17pE) Monday February 13 -- 02:00 PM] Activity: Klaus is writing his research paper\n[(ID:eKkEEq) Monday February 13 -- 03:00 PM] Activity: Klaus is writing his research paper\n[(ID:uXcjCT) Monday February 13 -- 04:00 PM] Activity: Klaus is writing his research paper\n[(ID:01y16K) Monday February 13 -- 05:00 PM] Activity: Klaus is eating dinner\n[(ID:9fN6xn) Monday February 13 -- 07:00 PM] Activity: Klaus is taking a break and relaxing (creating an outline for his paper) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:27:40"
+  }
+}
